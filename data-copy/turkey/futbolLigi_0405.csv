@@ -1,0 +1,307 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,T1,06/08/04,Rizespor,Fenerbahce,2,2,D,0,2,A
+1,T1,07/08/04,Denizlispor,Gaziantepspor,2,1,H,1,0,H
+2,T1,07/08/04,Genclerbirligi,Sakaryaspor,1,0,H,1,0,H
+3,T1,07/08/04,Kayserispor,Trabzonspor,0,3,A,0,1,A
+4,T1,07/08/04,Malatyaspor,Besiktas,1,1,D,1,0,H
+5,T1,08/08/04,A. Sebatspor,Ankaraspor,1,3,A,0,1,A
+6,T1,08/08/04,Galatasaray,Konyaspor,3,1,H,2,1,H
+7,T1,08/08/04,Istanbulspor,Diyarbakirspor,1,1,D,0,0,D
+8,T1,08/08/04,Samsunspor,Ankaragucu,1,1,D,0,1,A
+9,T1,13/08/04,Gaziantepspor,Galatasaray,1,0,H,0,0,D
+10,T1,14/08/04,Ankaragucu,Istanbulspor,0,0,D,0,0,D
+11,T1,14/08/04,Ankaraspor,Malatyaspor,1,3,A,1,2,A
+12,T1,14/08/04,Diyarbakirspor,Kayserispor,2,1,H,1,0,H
+13,T1,14/08/04,Fenerbahce,Samsunspor,2,1,H,0,0,D
+14,T1,15/08/04,Genclerbirligi,Besiktas,1,1,D,0,0,D
+15,T1,15/08/04,Konyaspor,Rizespor,0,0,D,0,0,D
+16,T1,15/08/04,Sakaryaspor,Denizlispor,1,2,A,1,1,D
+17,T1,15/08/04,Trabzonspor,A. Sebatspor,3,1,H,1,0,H
+18,T1,21/08/04,Denizlispor,Besiktas,3,1,H,1,0,H
+19,T1,21/08/04,Genclerbirligi,Ankaraspor,1,1,D,0,1,A
+20,T1,21/08/04,Istanbulspor,Fenerbahce,0,3,A,0,0,D
+21,T1,21/08/04,Malatyaspor,Trabzonspor,3,4,A,1,2,A
+22,T1,21/08/04,Samsunspor,Konyaspor,1,1,D,1,0,H
+23,T1,22/08/04,A. Sebatspor,Diyarbakirspor,2,2,D,2,2,D
+24,T1,22/08/04,Galatasaray,Rizespor,2,1,H,2,1,H
+25,T1,22/08/04,Gaziantepspor,Sakaryaspor,1,0,H,0,0,D
+26,T1,22/08/04,Kayserispor,Ankaragucu,1,1,D,1,0,H
+27,T1,28/08/04,Ankaraspor,Denizlispor,3,2,H,1,1,D
+28,T1,28/08/04,Kayserispor,Fenerbahce,0,2,A,0,1,A
+29,T1,28/08/04,Konyaspor,Istanbulspor,2,1,H,0,0,D
+30,T1,28/08/04,Rizespor,Samsunspor,2,0,H,2,0,H
+31,T1,28/08/04,Sakaryaspor,Galatasaray,1,2,A,1,1,D
+32,T1,29/08/04,Ankaragucu,A. Sebatspor,2,1,H,1,1,D
+33,T1,29/08/04,Besiktas,Gaziantepspor,3,4,A,0,2,A
+34,T1,29/08/04,Diyarbakirspor,Malatyaspor,1,2,A,0,1,A
+35,T1,29/08/04,Trabzonspor,Genclerbirligi,3,1,H,2,0,H
+36,T1,11/09/04,A. Sebatspor,Fenerbahce,1,4,A,0,1,A
+37,T1,11/09/04,Denizlispor,Trabzonspor,0,2,A,0,0,D
+38,T1,11/09/04,Gaziantepspor,Ankaraspor,2,1,H,0,0,D
+39,T1,11/09/04,Genclerbirligi,Diyarbakirspor,2,0,H,0,0,D
+40,T1,12/09/04,Galatasaray,Samsunspor,3,1,H,0,1,A
+41,T1,12/09/04,Istanbulspor,Rizespor,0,3,A,0,0,D
+42,T1,12/09/04,Kayserispor,Konyaspor,2,2,D,1,0,H
+43,T1,12/09/04,Malatyaspor,Ankaragucu,1,0,H,0,0,D
+44,T1,12/09/04,Sakaryaspor,Besiktas,1,4,A,0,1,A
+45,T1,17/09/04,Diyarbakirspor,Denizlispor,0,1,A,0,0,D
+46,T1,18/09/04,Ankaraspor,Sakaryaspor,1,1,D,1,0,H
+47,T1,18/09/04,Fenerbahce,Malatyaspor,3,1,H,1,1,D
+48,T1,18/09/04,Konyaspor,A. Sebatspor,3,3,D,1,2,A
+49,T1,18/09/04,Samsunspor,Istanbulspor,2,1,H,1,0,H
+50,T1,19/09/04,Ankaragucu,Genclerbirligi,1,0,H,1,0,H
+51,T1,19/09/04,Besiktas,Galatasaray,0,0,D,0,0,D
+52,T1,19/09/04,Rizespor,Kayserispor,2,1,H,1,1,D
+53,T1,19/09/04,Trabzonspor,Gaziantepspor,0,0,D,0,0,D
+54,T1,24/09/04,Genclerbirligi,Fenerbahce,1,2,A,0,0,D
+55,T1,25/09/04,A. Sebatspor,Rizespor,0,0,D,0,0,D
+56,T1,25/09/04,Besiktas,Ankaraspor,2,3,A,0,1,A
+57,T1,25/09/04,Kayserispor,Samsunspor,1,4,A,0,1,A
+58,T1,25/09/04,Sakaryaspor,Trabzonspor,1,3,A,1,1,D
+59,T1,26/09/04,Denizlispor,Ankaragucu,2,0,H,0,0,D
+60,T1,26/09/04,Galatasaray,Istanbulspor,4,1,H,1,0,H
+61,T1,26/09/04,Gaziantepspor,Diyarbakirspor,1,1,D,0,0,D
+62,T1,26/09/04,Malatyaspor,Konyaspor,5,0,H,4,0,H
+63,T1,01/10/04,Ankaraspor,Galatasaray,0,2,A,0,1,A
+64,T1,02/10/04,Ankaragucu,Gaziantepspor,2,1,H,1,1,D
+65,T1,02/10/04,Diyarbakirspor,Sakaryaspor,1,0,H,0,0,D
+66,T1,02/10/04,Fenerbahce,Denizlispor,2,0,H,0,0,D
+67,T1,02/10/04,Rizespor,Malatyaspor,0,1,A,0,1,A
+68,T1,03/10/04,Istanbulspor,Kayserispor,2,0,H,0,0,D
+69,T1,03/10/04,Konyaspor,Genclerbirligi,3,2,H,1,1,D
+70,T1,03/10/04,Samsunspor,A. Sebatspor,3,0,H,1,0,H
+71,T1,03/10/04,Trabzonspor,Besiktas,1,0,H,1,0,H
+72,T1,16/10/04,Besiktas,Diyarbakirspor,4,0,H,2,0,H
+73,T1,16/10/04,Gaziantepspor,Fenerbahce,0,1,A,0,0,D
+74,T1,16/10/04,Genclerbirligi,Rizespor,2,1,H,2,0,H
+75,T1,16/10/04,Sakaryaspor,Ankaragucu,1,0,H,1,0,H
+76,T1,17/10/04,A. Sebatspor,Istanbulspor,2,2,D,1,2,A
+77,T1,17/10/04,Ankaraspor,Trabzonspor,1,1,D,0,0,D
+78,T1,17/10/04,Denizlispor,Konyaspor,2,1,H,1,0,H
+79,T1,17/10/04,Galatasaray,Kayserispor,5,1,H,2,0,H
+80,T1,17/10/04,Malatyaspor,Samsunspor,1,2,A,0,1,A
+81,T1,23/10/04,Istanbulspor,Malatyaspor,0,2,A,0,0,D
+82,T1,23/10/04,Konyaspor,Gaziantepspor,2,2,D,1,1,D
+83,T1,23/10/04,Samsunspor,Genclerbirligi,2,0,H,1,0,H
+84,T1,23/10/04,Trabzonspor,Galatasaray,0,1,A,0,0,D
+85,T1,24/10/04,Ankaragucu,Besiktas,1,4,A,1,2,A
+86,T1,24/10/04,Diyarbakirspor,Ankaraspor,1,0,H,0,0,D
+87,T1,24/10/04,Fenerbahce,Sakaryaspor,6,0,H,3,0,H
+88,T1,24/10/04,Kayserispor,A. Sebatspor,4,1,H,3,0,H
+89,T1,24/10/04,Rizespor,Denizlispor,2,0,H,1,0,H
+90,T1,29/10/04,Trabzonspor,Diyarbakirspor,4,1,H,2,0,H
+91,T1,30/10/04,Besiktas,Fenerbahce,2,1,H,0,0,D
+92,T1,30/10/04,Denizlispor,Samsunspor,2,0,H,2,0,H
+93,T1,30/10/04,Gaziantepspor,Rizespor,0,1,A,0,1,A
+94,T1,30/10/04,Genclerbirligi,Istanbulspor,1,0,H,1,0,H
+95,T1,31/10/04,Ankaraspor,Ankaragucu,2,0,H,1,0,H
+96,T1,31/10/04,Galatasaray,A. Sebatspor,2,0,H,0,0,D
+97,T1,31/10/04,Malatyaspor,Kayserispor,0,1,A,0,1,A
+98,T1,31/10/04,Sakaryaspor,Konyaspor,1,4,A,1,2,A
+99,T1,05/11/04,Diyarbakirspor,Galatasaray,2,0,H,1,0,H
+100,T1,06/11/04,A. Sebatspor,Malatyaspor,1,1,D,0,0,D
+101,T1,06/11/04,Fenerbahce,Ankaraspor,1,0,H,1,0,H
+102,T1,06/11/04,Istanbulspor,Denizlispor,1,1,D,1,1,D
+103,T1,06/11/04,Samsunspor,Gaziantepspor,1,3,A,0,2,A
+104,T1,07/11/04,Ankaragucu,Trabzonspor,0,2,A,0,1,A
+105,T1,07/11/04,Kayserispor,Genclerbirligi,1,2,A,1,1,D
+106,T1,07/11/04,Konyaspor,Besiktas,2,2,D,0,1,A
+107,T1,07/11/04,Rizespor,Sakaryaspor,2,0,H,1,0,H
+108,T1,20/11/04,Ankaraspor,Konyaspor,1,3,A,0,0,D
+109,T1,20/11/04,Galatasaray,Malatyaspor,1,1,D,0,1,A
+110,T1,20/11/04,Sakaryaspor,Samsunspor,4,2,H,3,0,H
+111,T1,20/11/04,Trabzonspor,Fenerbahce,0,2,A,0,1,A
+112,T1,21/11/04,Besiktas,Rizespor,2,2,D,0,1,A
+113,T1,21/11/04,Denizlispor,Kayserispor,2,1,H,0,0,D
+114,T1,21/11/04,Diyarbakirspor,Ankaragucu,0,1,A,0,1,A
+115,T1,21/11/04,Gaziantepspor,Istanbulspor,0,1,A,0,0,D
+116,T1,21/11/04,Genclerbirligi,A. Sebatspor,1,1,D,1,0,H
+117,T1,26/11/04,Ankaragucu,Galatasaray,0,1,A,0,1,A
+118,T1,27/11/04,Fenerbahce,Diyarbakirspor,3,0,H,2,0,H
+119,T1,27/11/04,Kayserispor,Gaziantepspor,3,1,H,0,0,D
+120,T1,27/11/04,Konyaspor,Trabzonspor,1,1,D,0,1,A
+121,T1,27/11/04,Rizespor,Ankaraspor,2,1,H,0,1,A
+122,T1,28/11/04,A. Sebatspor,Denizlispor,2,1,H,1,0,H
+123,T1,28/11/04,Istanbulspor,Sakaryaspor,3,0,H,1,0,H
+124,T1,28/11/04,Malatyaspor,Genclerbirligi,0,2,A,0,1,A
+125,T1,28/11/04,Samsunspor,Besiktas,2,4,A,0,0,D
+126,T1,03/12/04,Fenerbahce,Ankaragucu,5,0,H,1,0,H
+127,T1,04/12/04,Denizlispor,Malatyaspor,0,0,D,0,0,D
+128,T1,04/12/04,Diyarbakirspor,Konyaspor,3,3,D,1,0,H
+129,T1,04/12/04,Genclerbirligi,Galatasaray,1,3,A,0,1,A
+130,T1,04/12/04,Trabzonspor,Rizespor,1,0,H,1,0,H
+131,T1,05/12/04,Ankaraspor,Samsunspor,0,1,A,0,1,A
+132,T1,05/12/04,Besiktas,Istanbulspor,2,1,H,1,1,D
+133,T1,05/12/04,Gaziantepspor,A. Sebatspor,6,4,H,3,2,H
+134,T1,05/12/04,Sakaryaspor,Kayserispor,4,2,H,3,1,H
+135,T1,10/12/04,Kayserispor,Besiktas,1,2,A,1,0,H
+136,T1,11/12/04,A. Sebatspor,Sakaryaspor,0,1,A,0,0,D
+137,T1,11/12/04,Istanbulspor,Ankaraspor,1,1,D,1,0,H
+138,T1,11/12/04,Malatyaspor,Gaziantepspor,2,1,H,0,0,D
+139,T1,11/12/04,Samsunspor,Trabzonspor,0,4,A,0,1,A
+140,T1,12/12/04,Galatasaray,Fenerbahce,1,0,H,0,0,D
+141,T1,12/12/04,Genclerbirligi,Denizlispor,1,3,A,1,2,A
+142,T1,12/12/04,Konyaspor,Ankaragucu,3,4,A,1,1,D
+143,T1,12/12/04,Rizespor,Diyarbakirspor,3,0,H,1,0,H
+144,T1,17/12/04,Denizlispor,Galatasaray,0,0,D,0,0,D
+145,T1,18/12/04,Ankaragucu,Rizespor,0,0,D,0,0,D
+146,T1,18/12/04,Fenerbahce,Konyaspor,3,0,H,1,0,H
+147,T1,18/12/04,Gaziantepspor,Genclerbirligi,1,0,H,1,0,H
+148,T1,18/12/04,Trabzonspor,Istanbulspor,1,1,D,1,0,H
+149,T1,19/12/04,Ankaraspor,Kayserispor,4,1,H,1,0,H
+150,T1,19/12/04,Besiktas,A. Sebatspor,6,1,H,2,0,H
+151,T1,19/12/04,Diyarbakirspor,Samsunspor,3,0,H,1,0,H
+152,T1,19/12/04,Sakaryaspor,Malatyaspor,4,1,H,0,0,D
+153,T1,28/01/05,Konyaspor,Galatasaray,0,2,A,0,2,A
+154,T1,29/01/05,Ankaraspor,A. Sebatspor,2,1,H,1,0,H
+155,T1,29/01/05,Besiktas,Malatyaspor,1,0,H,0,0,D
+156,T1,29/01/05,Diyarbakirspor,Istanbulspor,1,0,H,0,0,D
+157,T1,29/01/05,Sakaryaspor,Genclerbirligi,2,2,D,1,2,A
+158,T1,30/01/05,Ankaragucu,Samsunspor,1,2,A,0,0,D
+159,T1,30/01/05,Fenerbahce,Rizespor,2,0,H,1,0,H
+160,T1,30/01/05,Gaziantepspor,Denizlispor,3,1,H,2,0,H
+161,T1,30/01/05,Trabzonspor,Kayserispor,3,1,H,1,0,H
+162,T1,04/02/05,Galatasaray,Gaziantepspor,5,1,H,4,0,H
+163,T1,05/02/05,Kayserispor,Diyarbakirspor,3,0,H,1,0,H
+164,T1,05/02/05,Malatyaspor,Ankaraspor,2,1,H,1,1,D
+165,T1,05/02/05,Rizespor,Konyaspor,1,1,D,1,0,H
+166,T1,05/02/05,Samsunspor,Fenerbahce,1,1,D,0,0,D
+167,T1,06/02/05,A. Sebatspor,Trabzonspor,0,1,A,0,0,D
+168,T1,06/02/05,Denizlispor,Sakaryaspor,6,1,H,1,1,D
+169,T1,12/02/05,Ankaragucu,Kayserispor,2,2,D,0,1,A
+170,T1,12/02/05,Besiktas,Denizlispor,2,0,H,0,0,D
+171,T1,12/02/05,Konyaspor,Samsunspor,3,0,H,1,0,H
+172,T1,12/02/05,Rizespor,Galatasaray,0,3,A,0,0,D
+173,T1,13/02/05,Ankaraspor,Genclerbirligi,2,1,H,1,1,D
+174,T1,13/02/05,Diyarbakirspor,A. Sebatspor,1,0,H,0,0,D
+175,T1,13/02/05,Fenerbahce,Istanbulspor,4,0,H,1,0,H
+176,T1,13/02/05,Sakaryaspor,Gaziantepspor,2,2,D,2,0,H
+177,T1,13/02/05,Trabzonspor,Malatyaspor,3,0,H,1,0,H
+178,T1,18/02/05,Gaziantepspor,Besiktas,0,1,A,0,1,A
+179,T1,19/02/05,A. Sebatspor,Ankaragucu,0,0,D,0,0,D
+180,T1,19/02/05,Denizlispor,Ankaraspor,1,1,D,1,1,D
+181,T1,19/02/05,Galatasaray,Sakaryaspor,1,0,H,1,0,H
+182,T1,19/02/05,Istanbulspor,Konyaspor,2,2,D,1,2,A
+183,T1,20/02/05,Fenerbahce,Kayserispor,7,0,H,1,0,H
+184,T1,20/02/05,Genclerbirligi,Trabzonspor,0,1,A,0,0,D
+185,T1,20/02/05,Malatyaspor,Diyarbakirspor,2,1,H,1,1,D
+186,T1,20/02/05,Samsunspor,Rizespor,0,1,A,0,0,D
+187,T1,26/02/05,Ankaragucu,Malatyaspor,3,0,H,2,0,H
+188,T1,26/02/05,Diyarbakirspor,Genclerbirligi,1,3,A,0,2,A
+189,T1,26/02/05,Rizespor,Istanbulspor,1,1,D,0,1,A
+190,T1,26/02/05,Samsunspor,Galatasaray,2,1,H,0,0,D
+191,T1,27/02/05,Ankaraspor,Gaziantepspor,1,0,H,1,0,H
+192,T1,27/02/05,Besiktas,Sakaryaspor,2,1,H,1,1,D
+193,T1,27/02/05,Fenerbahce,A. Sebatspor,2,0,H,0,0,D
+194,T1,27/02/05,Konyaspor,Kayserispor,3,1,H,1,1,D
+195,T1,27/02/05,Trabzonspor,Denizlispor,3,0,H,2,0,H
+196,T1,05/03/05,Galatasaray,Besiktas,1,0,H,0,0,D
+197,T1,05/03/05,Genclerbirligi,Ankaragucu,4,0,H,0,0,D
+198,T1,05/03/05,Istanbulspor,Samsunspor,1,1,D,0,0,D
+199,T1,05/03/05,Sakaryaspor,Ankaraspor,1,1,D,0,1,A
+200,T1,06/03/05,A. Sebatspor,Konyaspor,3,5,A,1,2,A
+201,T1,06/03/05,Denizlispor,Diyarbakirspor,0,0,D,0,0,D
+202,T1,06/03/05,Gaziantepspor,Trabzonspor,3,2,H,1,1,D
+203,T1,06/03/05,Kayserispor,Rizespor,2,1,H,0,0,D
+204,T1,06/03/05,Malatyaspor,Fenerbahce,0,2,A,0,0,D
+205,T1,09/03/05,Besiktas,Genclerbirligi,0,0,D,0,0,D
+206,T1,09/03/05,Istanbulspor,Ankaragucu,1,2,A,0,0,D
+207,T1,12/03/05,Ankaragucu,Denizlispor,1,1,D,1,0,H
+208,T1,12/03/05,Istanbulspor,Galatasaray,0,3,A,0,2,A
+209,T1,12/03/05,Konyaspor,Malatyaspor,2,0,H,0,0,D
+210,T1,12/03/05,Trabzonspor,Sakaryaspor,4,3,H,3,1,H
+211,T1,13/03/05,Ankaraspor,Besiktas,2,4,A,2,1,H
+212,T1,13/03/05,Diyarbakirspor,Gaziantepspor,3,0,H,0,0,D
+213,T1,13/03/05,Fenerbahce,Genclerbirligi,3,2,H,2,1,H
+214,T1,13/03/05,Rizespor,A. Sebatspor,2,1,H,1,1,D
+215,T1,13/03/05,Samsunspor,Kayserispor,3,3,D,1,2,A
+216,T1,18/03/05,Denizlispor,Fenerbahce,2,0,H,1,0,H
+217,T1,19/03/05,Besiktas,Trabzonspor,1,0,H,0,0,D
+218,T1,19/03/05,Gaziantepspor,Ankaragucu,2,0,H,1,0,H
+219,T1,19/03/05,Kayserispor,Istanbulspor,0,0,D,0,0,D
+220,T1,19/03/05,Malatyaspor,Rizespor,0,1,A,0,0,D
+221,T1,20/03/05,A. Sebatspor,Samsunspor,3,0,H,0,0,D
+222,T1,20/03/05,Galatasaray,Ankaraspor,4,2,H,2,2,D
+223,T1,20/03/05,Genclerbirligi,Konyaspor,2,1,H,1,0,H
+224,T1,20/03/05,Sakaryaspor,Diyarbakirspor,3,2,H,2,1,H
+225,T1,02/04/05,Ankaragucu,Sakaryaspor,2,7,A,1,3,A
+226,T1,02/04/05,Fenerbahce,Gaziantepspor,2,0,H,1,0,H
+227,T1,02/04/05,Istanbulspor,A. Sebatspor,1,0,H,0,0,D
+228,T1,02/04/05,Rizespor,Genclerbirligi,1,1,D,0,0,D
+229,T1,03/04/05,Diyarbakirspor,Besiktas,0,0,D,0,0,D
+230,T1,03/04/05,Kayserispor,Galatasaray,2,2,D,0,0,D
+231,T1,03/04/05,Konyaspor,Denizlispor,0,0,D,0,0,D
+232,T1,03/04/05,Samsunspor,Malatyaspor,0,1,A,0,0,D
+233,T1,03/04/05,Trabzonspor,Ankaraspor,2,2,D,0,2,A
+234,T1,08/04/05,Besiktas,Ankaragucu,4,1,H,3,1,H
+235,T1,09/04/05,A. Sebatspor,Kayserispor,0,0,D,0,0,D
+236,T1,09/04/05,Ankaraspor,Diyarbakirspor,3,0,H,0,0,D
+237,T1,09/04/05,Malatyaspor,Istanbulspor,2,0,H,0,0,D
+238,T1,09/04/05,Sakaryaspor,Fenerbahce,0,1,A,0,0,D
+239,T1,10/04/05,Denizlispor,Rizespor,3,0,H,2,0,H
+240,T1,10/04/05,Galatasaray,Trabzonspor,0,2,A,0,1,A
+241,T1,10/04/05,Gaziantepspor,Konyaspor,2,0,H,0,0,D
+242,T1,10/04/05,Genclerbirligi,Samsunspor,0,0,D,0,0,D
+243,T1,15/04/05,Diyarbakirspor,Trabzonspor,0,1,A,0,1,A
+244,T1,16/04/05,A. Sebatspor,Galatasaray,1,3,A,1,1,D
+245,T1,16/04/05,Kayserispor,Malatyaspor,1,1,D,0,1,A
+246,T1,16/04/05,Konyaspor,Sakaryaspor,2,0,H,1,0,H
+247,T1,16/04/05,Samsunspor,Denizlispor,4,0,H,2,0,H
+248,T1,17/04/05,Ankaragucu,Ankaraspor,2,5,A,2,1,H
+249,T1,17/04/05,Fenerbahce,Besiktas,3,4,A,1,2,A
+250,T1,17/04/05,Istanbulspor,Genclerbirligi,1,3,A,1,1,D
+251,T1,17/04/05,Rizespor,Gaziantepspor,1,1,D,0,1,A
+252,T1,23/04/05,Besiktas,Konyaspor,2,1,H,1,0,H
+253,T1,23/04/05,Gaziantepspor,Samsunspor,1,3,A,0,1,A
+254,T1,23/04/05,Genclerbirligi,Kayserispor,0,0,D,0,0,D
+255,T1,23/04/05,Malatyaspor,A. Sebatspor,2,2,D,0,0,D
+256,T1,24/04/05,Ankaraspor,Fenerbahce,0,1,A,0,1,A
+257,T1,24/04/05,Denizlispor,Istanbulspor,2,2,D,1,0,H
+258,T1,24/04/05,Galatasaray,Diyarbakirspor,1,0,H,1,0,H
+259,T1,24/04/05,Sakaryaspor,Rizespor,3,1,H,1,0,H
+260,T1,24/04/05,Trabzonspor,Ankaragucu,3,1,H,2,1,H
+261,T1,29/04/05,Istanbulspor,Gaziantepspor,1,3,A,1,0,H
+262,T1,29/04/05,Rizespor,Besiktas,0,1,A,0,1,A
+263,T1,30/04/05,Ankaragucu,Diyarbakirspor,4,1,H,3,1,H
+264,T1,30/04/05,Fenerbahce,Trabzonspor,2,1,H,1,0,H
+265,T1,30/04/05,Kayserispor,Denizlispor,1,0,H,0,0,D
+266,T1,30/04/05,Samsunspor,Sakaryaspor,1,1,D,1,1,D
+267,T1,01/05/05,A. Sebatspor,Genclerbirligi,0,5,A,0,2,A
+268,T1,01/05/05,Konyaspor,Ankaraspor,2,3,A,2,2,D
+269,T1,01/05/05,Malatyaspor,Galatasaray,0,1,A,0,0,D
+270,T1,07/05/05,Ankaraspor,Rizespor,1,0,H,1,0,H
+271,T1,07/05/05,Diyarbakirspor,Fenerbahce,0,2,A,0,1,A
+272,T1,07/05/05,Galatasaray,Ankaragucu,2,1,H,2,0,H
+273,T1,07/05/05,Gaziantepspor,Kayserispor,1,2,A,1,1,D
+274,T1,07/05/05,Sakaryaspor,Istanbulspor,1,3,A,1,0,H
+275,T1,07/05/05,Trabzonspor,Konyaspor,4,2,H,3,0,H
+276,T1,08/05/05,Besiktas,Samsunspor,2,0,H,1,0,H
+277,T1,08/05/05,Denizlispor,A. Sebatspor,4,2,H,1,1,D
+278,T1,08/05/05,Genclerbirligi,Malatyaspor,5,3,H,2,2,D
+279,T1,14/05/05,A. Sebatspor,Gaziantepspor,2,0,H,0,0,D
+280,T1,14/05/05,Malatyaspor,Denizlispor,2,2,D,0,0,D
+281,T1,14/05/05,Samsunspor,Ankaraspor,0,0,D,0,0,D
+282,T1,15/05/05,Ankaragucu,Fenerbahce,1,0,H,0,0,D
+283,T1,15/05/05,Galatasaray,Genclerbirligi,1,2,A,1,2,A
+284,T1,15/05/05,Istanbulspor,Besiktas,1,1,D,0,0,D
+285,T1,15/05/05,Kayserispor,Sakaryaspor,1,0,H,0,0,D
+286,T1,15/05/05,Konyaspor,Diyarbakirspor,2,1,H,2,0,H
+287,T1,15/05/05,Rizespor,Trabzonspor,1,2,A,1,1,D
+288,T1,21/05/05,Ankaragucu,Konyaspor,1,1,D,0,0,D
+289,T1,21/05/05,Ankaraspor,Istanbulspor,3,2,H,3,0,H
+290,T1,21/05/05,Besiktas,Kayserispor,3,2,H,3,1,H
+291,T1,21/05/05,Diyarbakirspor,Rizespor,1,1,D,1,1,D
+292,T1,21/05/05,Gaziantepspor,Malatyaspor,4,3,H,2,1,H
+293,T1,21/05/05,Sakaryaspor,A. Sebatspor,4,2,H,2,0,H
+294,T1,22/05/05,Denizlispor,Genclerbirligi,1,1,D,0,0,D
+295,T1,22/05/05,Fenerbahce,Galatasaray,1,0,H,0,0,D
+296,T1,22/05/05,Trabzonspor,Samsunspor,3,0,H,0,0,D
+297,T1,29/05/05,A. Sebatspor,Besiktas,2,2,D,2,2,D
+298,T1,29/05/05,Galatasaray,Denizlispor,4,0,H,1,0,H
+299,T1,29/05/05,Genclerbirligi,Gaziantepspor,2,1,H,1,0,H
+300,T1,29/05/05,Istanbulspor,Trabzonspor,0,5,A,0,3,A
+301,T1,29/05/05,Kayserispor,Ankaraspor,0,0,D,0,0,D
+302,T1,29/05/05,Konyaspor,Fenerbahce,4,2,H,4,1,H
+303,T1,29/05/05,Malatyaspor,Sakaryaspor,4,2,H,1,1,D
+304,T1,29/05/05,Rizespor,Ankaragucu,1,2,A,1,0,H
+305,T1,29/05/05,Samsunspor,Diyarbakirspor,0,1,A,0,0,D

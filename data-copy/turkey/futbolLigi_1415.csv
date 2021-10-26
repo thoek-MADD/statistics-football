@@ -1,0 +1,308 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,T1,29/08/14,Balikesirspor,Akhisar Belediyespor,1.0,2.0,A,1.0,1.0,D
+1,T1,29/08/14,Rizespor,Genclerbirligi,1.0,1.0,D,0.0,1.0,A
+2,T1,30/08/14,Bursaspor,Galatasaray,0.0,2.0,A,0.0,0.0,D
+3,T1,30/08/14,Buyuksehyr,Kasimpasa,1.0,1.0,D,1.0,1.0,D
+4,T1,30/08/14,Eskisehirspor,Konyaspor,2.0,1.0,H,0.0,1.0,A
+5,T1,30/08/14,Mersin Idman Yurdu,Besiktas,0.0,1.0,A,0.0,1.0,A
+6,T1,31/08/14,Erciyesspor,Trabzonspor,0.0,0.0,D,0.0,0.0,D
+7,T1,31/08/14,Fenerbahce,Karabukspor,3.0,2.0,H,1.0,1.0,D
+8,T1,31/08/14,Sivasspor,Gaziantepspor,1.0,2.0,A,0.0,0.0,D
+9,T1,13/09/14,Galatasaray,Eskisehirspor,0.0,0.0,D,0.0,0.0,D
+10,T1,13/09/14,Genclerbirligi,Bursaspor,1.0,2.0,A,1.0,0.0,H
+11,T1,13/09/14,Karabukspor,Buyuksehyr,0.0,0.0,D,0.0,0.0,D
+12,T1,13/09/14,Konyaspor,Balikesirspor,2.0,0.0,H,1.0,0.0,H
+13,T1,14/09/14,Gaziantepspor,Erciyesspor,2.0,2.0,D,0.0,2.0,A
+14,T1,14/09/14,Kasimpasa,Mersin Idman Yurdu,2.0,2.0,D,0.0,2.0,A
+15,T1,14/09/14,Trabzonspor,Fenerbahce,0.0,0.0,D,0.0,0.0,D
+16,T1,15/09/14,Akhisar Belediyespor,Sivasspor,2.0,2.0,D,1.0,0.0,H
+17,T1,15/09/14,Besiktas,Rizespor,1.0,1.0,D,0.0,0.0,D
+18,T1,19/09/14,Eskisehirspor,Genclerbirligi,0.0,2.0,A,0.0,1.0,A
+19,T1,20/09/14,Balikesirspor,Galatasaray,2.0,0.0,H,2.0,0.0,H
+20,T1,20/09/14,Erciyesspor,Akhisar Belediyespor,1.0,2.0,A,1.0,0.0,H
+21,T1,20/09/14,Mersin Idman Yurdu,Rizespor,2.0,0.0,H,1.0,0.0,H
+22,T1,21/09/14,Fenerbahce,Gaziantepspor,1.0,0.0,H,0.0,0.0,D
+23,T1,21/09/14,Kasimpasa,Karabukspor,2.0,1.0,H,1.0,1.0,D
+24,T1,21/09/14,Sivasspor,Konyaspor,0.0,0.0,D,0.0,0.0,D
+25,T1,22/09/14,Bursaspor,Besiktas,0.0,1.0,A,0.0,0.0,D
+26,T1,22/09/14,Buyuksehyr,Trabzonspor,1.0,1.0,D,0.0,0.0,D
+27,T1,26/09/14,Galatasaray,Sivasspor,2.0,1.0,H,2.0,0.0,H
+28,T1,27/09/14,Besiktas,Eskisehirspor,1.0,1.0,D,1.0,0.0,H
+29,T1,27/09/14,Trabzonspor,Kasimpasa,1.0,1.0,D,1.0,0.0,H
+30,T1,28/09/14,Akhisar Belediyespor,Fenerbahce,2.0,0.0,H,1.0,0.0,H
+31,T1,28/09/14,Genclerbirligi,Balikesirspor,3.0,1.0,H,1.0,0.0,H
+32,T1,28/09/14,Konyaspor,Erciyesspor,1.0,1.0,D,1.0,0.0,H
+33,T1,28/09/14,Rizespor,Bursaspor,0.0,1.0,A,0.0,1.0,A
+34,T1,29/09/14,Gaziantepspor,Buyuksehyr,0.0,0.0,D,0.0,0.0,D
+35,T1,29/09/14,Karabukspor,Mersin Idman Yurdu,0.0,2.0,A,0.0,1.0,A
+36,T1,03/10/14,Mersin Idman Yurdu,Bursaspor,2.0,1.0,H,1.0,0.0,H
+37,T1,04/10/14,Erciyesspor,Galatasaray,1.0,2.0,A,0.0,0.0,D
+38,T1,04/10/14,Fenerbahce,Konyaspor,2.0,1.0,H,1.0,1.0,D
+39,T1,04/10/14,Kasimpasa,Gaziantepspor,4.0,2.0,H,1.0,0.0,H
+40,T1,04/10/14,Sivasspor,Genclerbirligi,1.0,0.0,H,1.0,0.0,H
+41,T1,05/10/14,Balikesirspor,Besiktas,0.0,1.0,A,0.0,0.0,D
+42,T1,05/10/14,Buyuksehyr,Akhisar Belediyespor,4.0,0.0,H,2.0,0.0,H
+43,T1,05/10/14,Eskisehirspor,Rizespor,1.0,2.0,A,0.0,0.0,D
+44,T1,05/10/14,Karabukspor,Trabzonspor,3.0,0.0,H,2.0,0.0,H
+45,T1,18/10/14,Galatasaray,Fenerbahce,2.0,1.0,H,0.0,0.0,D
+46,T1,18/10/14,Gaziantepspor,Karabukspor,1.0,0.0,H,1.0,0.0,H
+47,T1,18/10/14,Konyaspor,Buyuksehyr,0.0,0.0,D,0.0,0.0,D
+48,T1,19/10/14,Akhisar Belediyespor,Kasimpasa,2.0,0.0,H,0.0,0.0,D
+49,T1,19/10/14,Besiktas,Sivasspor,3.0,2.0,H,0.0,1.0,A
+50,T1,19/10/14,Bursaspor,Eskisehirspor,2.0,2.0,D,1.0,0.0,H
+51,T1,19/10/14,Trabzonspor,Mersin Idman Yurdu,3.0,1.0,H,0.0,0.0,D
+52,T1,20/10/14,Genclerbirligi,Erciyesspor,0.0,0.0,D,0.0,0.0,D
+53,T1,20/10/14,Rizespor,Balikesirspor,2.0,2.0,D,1.0,1.0,D
+54,T1,24/10/14,Karabukspor,Akhisar Belediyespor,2.0,1.0,H,0.0,0.0,D
+55,T1,24/10/14,Kasimpasa,Konyaspor,2.0,0.0,H,1.0,0.0,H
+56,T1,25/10/14,Balikesirspor,Bursaspor,0.0,5.0,A,0.0,4.0,A
+57,T1,25/10/14,Fenerbahce,Genclerbirligi,2.0,1.0,H,0.0,0.0,D
+58,T1,25/10/14,Sivasspor,Rizespor,0.0,1.0,A,0.0,0.0,D
+59,T1,26/10/14,Buyuksehyr,Galatasaray,4.0,0.0,H,2.0,0.0,H
+60,T1,26/10/14,Mersin Idman Yurdu,Eskisehirspor,4.0,2.0,H,1.0,2.0,A
+61,T1,26/10/14,Trabzonspor,Gaziantepspor,4.0,4.0,D,0.0,2.0,A
+62,T1,27/10/14,Erciyesspor,Besiktas,3.0,2.0,H,0.0,0.0,D
+63,T1,31/10/14,Galatasaray,Kasimpasa,2.0,1.0,H,0.0,1.0,A
+64,T1,01/11/14,Akhisar Belediyespor,Trabzonspor,1.0,1.0,D,1.0,1.0,D
+65,T1,01/11/14,Bursaspor,Sivasspor,3.0,0.0,H,0.0,0.0,D
+66,T1,01/11/14,Genclerbirligi,Buyuksehyr,1.0,0.0,H,0.0,0.0,D
+67,T1,02/11/14,Besiktas,Fenerbahce,0.0,2.0,A,0.0,1.0,A
+68,T1,02/11/14,Gaziantepspor,Mersin Idman Yurdu,1.0,0.0,H,0.0,0.0,D
+69,T1,02/11/14,Rizespor,Erciyesspor,1.0,1.0,D,0.0,0.0,D
+70,T1,03/11/14,Eskisehirspor,Balikesirspor,2.0,2.0,D,0.0,1.0,A
+71,T1,03/11/14,Konyaspor,Karabukspor,1.0,0.0,H,0.0,0.0,D
+72,T1,07/11/14,Gaziantepspor,Akhisar Belediyespor,1.0,0.0,H,1.0,0.0,H
+73,T1,07/11/14,Sivasspor,Eskisehirspor,1.0,1.0,D,0.0,0.0,D
+74,T1,08/11/14,Fenerbahce,Rizespor,2.0,1.0,H,1.0,1.0,D
+75,T1,08/11/14,Karabukspor,Galatasaray,1.0,2.0,A,0.0,1.0,A
+76,T1,08/11/14,Mersin Idman Yurdu,Balikesirspor,2.0,1.0,H,1.0,0.0,H
+77,T1,09/11/14,Buyuksehyr,Besiktas,1.0,2.0,A,1.0,0.0,H
+78,T1,09/11/14,Erciyesspor,Bursaspor,1.0,1.0,D,0.0,1.0,A
+79,T1,09/11/14,Kasimpasa,Genclerbirligi,2.0,2.0,D,0.0,1.0,A
+80,T1,09/11/14,Trabzonspor,Konyaspor,3.0,2.0,H,2.0,1.0,H
+81,T1,22/11/14,Akhisar Belediyespor,Mersin Idman Yurdu,1.0,1.0,D,0.0,0.0,D
+82,T1,22/11/14,Galatasaray,Trabzonspor,0.0,3.0,A,0.0,0.0,D
+83,T1,22/11/14,Rizespor,Buyuksehyr,0.0,2.0,A,0.0,1.0,A
+84,T1,23/11/14,Besiktas,Kasimpasa,2.0,0.0,H,2.0,0.0,H
+85,T1,23/11/14,Eskisehirspor,Erciyesspor,2.0,1.0,H,1.0,0.0,H
+86,T1,23/11/14,Genclerbirligi,Karabukspor,2.0,2.0,D,2.0,1.0,H
+87,T1,23/11/14,Konyaspor,Gaziantepspor,2.0,0.0,H,0.0,0.0,D
+88,T1,24/11/14,Balikesirspor,Sivasspor,1.0,3.0,A,0.0,1.0,A
+89,T1,24/11/14,Bursaspor,Fenerbahce,1.0,1.0,D,1.0,0.0,H
+90,T1,28/11/14,Akhisar Belediyespor,Konyaspor,0.0,0.0,D,0.0,0.0,D
+91,T1,28/11/14,Buyuksehyr,Bursaspor,0.0,0.0,D,0.0,0.0,D
+92,T1,29/11/14,Erciyesspor,Balikesirspor,4.0,0.0,H,2.0,0.0,H
+93,T1,29/11/14,Gaziantepspor,Galatasaray,0.0,1.0,A,0.0,0.0,D
+94,T1,29/11/14,Kasimpasa,Rizespor,3.0,1.0,H,2.0,1.0,H
+95,T1,30/11/14,Fenerbahce,Eskisehirspor,2.0,2.0,D,0.0,1.0,A
+96,T1,30/11/14,Mersin Idman Yurdu,Sivasspor,2.0,0.0,H,0.0,0.0,D
+97,T1,01/12/14,Karabukspor,Besiktas,1.0,2.0,A,0.0,0.0,D
+98,T1,01/12/14,Trabzonspor,Genclerbirligi,4.0,1.0,H,3.0,0.0,H
+99,T1,06/12/14,Balikesirspor,Fenerbahce,0.0,1.0,A,0.0,1.0,A
+100,T1,06/12/14,Galatasaray,Akhisar Belediyespor,2.0,1.0,H,1.0,0.0,H
+101,T1,06/12/14,Genclerbirligi,Gaziantepspor,2.0,0.0,H,0.0,0.0,D
+102,T1,06/12/14,Konyaspor,Mersin Idman Yurdu,2.0,0.0,H,0.0,0.0,D
+103,T1,07/12/14,Besiktas,Trabzonspor,3.0,0.0,H,2.0,0.0,H
+104,T1,07/12/14,Bursaspor,Kasimpasa,5.0,1.0,H,3.0,0.0,H
+105,T1,07/12/14,Eskisehirspor,Buyuksehyr,0.0,1.0,A,0.0,0.0,D
+106,T1,07/12/14,Rizespor,Karabukspor,0.0,3.0,A,0.0,2.0,A
+107,T1,08/12/14,Sivasspor,Erciyesspor,1.0,1.0,D,1.0,1.0,D
+108,T1,12/12/14,Fenerbahce,Sivasspor,4.0,1.0,H,3.0,1.0,H
+109,T1,13/12/14,Akhisar Belediyespor,Genclerbirligi,1.0,1.0,D,0.0,0.0,D
+110,T1,13/12/14,Buyuksehyr,Balikesirspor,1.0,0.0,H,0.0,0.0,D
+111,T1,13/12/14,Kasimpasa,Eskisehirspor,1.0,0.0,H,1.0,0.0,H
+112,T1,13/12/14,Konyaspor,Galatasaray,0.0,5.0,A,0.0,3.0,A
+113,T1,14/12/14,Gaziantepspor,Besiktas,0.0,1.0,A,0.0,0.0,D
+114,T1,14/12/14,Karabukspor,Bursaspor,3.0,2.0,H,1.0,2.0,A
+115,T1,14/12/14,Mersin Idman Yurdu,Erciyesspor,1.0,1.0,D,1.0,0.0,H
+116,T1,15/12/14,Trabzonspor,Rizespor,3.0,2.0,H,1.0,1.0,D
+117,T1,19/12/14,Erciyesspor,Fenerbahce,0.0,1.0,A,0.0,0.0,D
+118,T1,20/12/14,Eskisehirspor,Karabukspor,1.0,1.0,D,0.0,0.0,D
+119,T1,20/12/14,Galatasaray,Mersin Idman Yurdu,3.0,2.0,H,1.0,2.0,A
+120,T1,20/12/14,Genclerbirligi,Konyaspor,5.0,0.0,H,1.0,0.0,H
+121,T1,20/12/14,Sivasspor,Buyuksehyr,0.0,2.0,A,0.0,1.0,A
+122,T1,21/12/14,Balikesirspor,Kasimpasa,5.0,3.0,H,0.0,1.0,A
+123,T1,21/12/14,Besiktas,Akhisar Belediyespor,3.0,1.0,H,1.0,0.0,H
+124,T1,21/12/14,Bursaspor,Trabzonspor,3.0,3.0,D,2.0,2.0,D
+125,T1,22/12/14,Rizespor,Gaziantepspor,0.0,1.0,A,0.0,1.0,A
+126,T1,26/12/14,Genclerbirligi,Galatasaray,1.0,1.0,D,0.0,1.0,A
+127,T1,27/12/14,Buyuksehyr,Erciyesspor,3.0,1.0,H,1.0,0.0,H
+128,T1,27/12/14,Fenerbahce,Mersin Idman Yurdu,1.0,0.0,H,1.0,0.0,H
+129,T1,27/12/14,Karabukspor,Balikesirspor,0.0,1.0,A,0.0,0.0,D
+130,T1,28/12/14,Akhisar Belediyespor,Rizespor,0.0,4.0,A,0.0,3.0,A
+131,T1,28/12/14,Gaziantepspor,Bursaspor,1.0,2.0,A,1.0,0.0,H
+132,T1,28/12/14,Kasimpasa,Sivasspor,0.0,0.0,D,0.0,0.0,D
+133,T1,28/12/14,Konyaspor,Besiktas,1.0,2.0,A,0.0,1.0,A
+134,T1,29/12/14,Trabzonspor,Eskisehirspor,1.0,4.0,A,0.0,1.0,A
+135,T1,03/01/15,Bursaspor,Akhisar Belediyespor,3.0,1.0,H,1.0,0.0,H
+136,T1,03/01/15,Fenerbahce,Buyuksehyr,2.0,0.0,H,1.0,0.0,H
+137,T1,03/01/15,Rizespor,Konyaspor,1.0,1.0,D,1.0,0.0,H
+138,T1,04/01/15,Besiktas,Galatasaray,0.0,2.0,A,0.0,0.0,D
+139,T1,04/01/15,Erciyesspor,Kasimpasa,2.0,5.0,A,1.0,2.0,A
+140,T1,04/01/15,Eskisehirspor,Gaziantepspor,1.0,3.0,A,0.0,1.0,A
+141,T1,04/01/15,Sivasspor,Karabukspor,2.0,0.0,H,1.0,0.0,H
+142,T1,05/01/15,Balikesirspor,Trabzonspor,2.0,2.0,D,2.0,0.0,H
+143,T1,05/01/15,Mersin Idman Yurdu,Genclerbirligi,1.0,1.0,D,0.0,0.0,D
+144,T1,23/01/15,Konyaspor,Bursaspor,2.0,3.0,A,1.0,2.0,A
+145,T1,23/01/15,Trabzonspor,Sivasspor,3.0,1.0,H,1.0,1.0,D
+146,T1,24/01/15,Akhisar Belediyespor,Eskisehirspor,2.0,2.0,D,0.0,1.0,A
+147,T1,24/01/15,Buyuksehyr,Mersin Idman Yurdu,2.0,2.0,D,0.0,1.0,A
+148,T1,24/01/15,Gaziantepspor,Balikesirspor,1.0,0.0,H,0.0,0.0,D
+149,T1,24/01/15,Kasimpasa,Fenerbahce,0.0,3.0,A,0.0,1.0,A
+150,T1,25/01/15,Galatasaray,Rizespor,2.0,0.0,H,2.0,0.0,H
+151,T1,25/01/15,Karabukspor,Erciyesspor,1.0,2.0,A,0.0,0.0,D
+152,T1,26/01/15,Genclerbirligi,Besiktas,0.0,2.0,A,0.0,0.0,D
+153,T1,30/01/15,Akhisar Belediyespor,Balikesirspor,2.0,2.0,D,2.0,0.0,H
+154,T1,30/01/15,Trabzonspor,Erciyesspor,2.0,1.0,H,2.0,0.0,H
+155,T1,31/01/15,Gaziantepspor,Sivasspor,1.0,3.0,A,1.0,0.0,H
+156,T1,31/01/15,Karabukspor,Fenerbahce,1.0,2.0,A,0.0,1.0,A
+157,T1,31/01/15,Kasimpasa,Buyuksehyr,0.0,1.0,A,0.0,0.0,D
+158,T1,01/02/15,Besiktas,Mersin Idman Yurdu,2.0,1.0,H,1.0,0.0,H
+159,T1,01/02/15,Galatasaray,Bursaspor,2.0,2.0,D,1.0,1.0,D
+160,T1,01/02/15,Genclerbirligi,Rizespor,0.0,2.0,A,0.0,2.0,A
+161,T1,01/02/15,Konyaspor,Eskisehirspor,1.0,0.0,H,1.0,0.0,H
+162,T1,06/02/15,Buyuksehyr,Karabukspor,2.0,2.0,D,1.0,1.0,D
+163,T1,07/02/15,Erciyesspor,Gaziantepspor,0.0,1.0,A,0.0,0.0,D
+164,T1,07/02/15,Fenerbahce,Trabzonspor,0.0,0.0,D,0.0,0.0,D
+165,T1,07/02/15,Sivasspor,Akhisar Belediyespor,2.0,0.0,H,0.0,0.0,D
+166,T1,08/02/15,Balikesirspor,Konyaspor,0.0,1.0,A,0.0,0.0,D
+167,T1,08/02/15,Bursaspor,Genclerbirligi,3.0,1.0,H,0.0,1.0,A
+168,T1,08/02/15,Mersin Idman Yurdu,Kasimpasa,6.0,2.0,H,1.0,0.0,H
+169,T1,08/02/15,Rizespor,Besiktas,1.0,2.0,A,0.0,0.0,D
+170,T1,09/02/15,Eskisehirspor,Galatasaray,1.0,2.0,A,1.0,1.0,D
+171,T1,14/02/15,Akhisar Belediyespor,Erciyesspor,1.0,0.0,H,0.0,0.0,D
+172,T1,14/02/15,Gaziantepspor,Fenerbahce,0.0,5.0,A,0.0,1.0,A
+173,T1,14/02/15,Karabukspor,Kasimpasa,0.0,0.0,D,0.0,0.0,D
+174,T1,15/02/15,Besiktas,Bursaspor,3.0,2.0,H,1.0,1.0,D
+175,T1,15/02/15,Konyaspor,Sivasspor,0.0,1.0,A,0.0,0.0,D
+176,T1,15/02/15,Rizespor,Mersin Idman Yurdu,0.0,4.0,A,0.0,1.0,A
+177,T1,15/02/15,Trabzonspor,Buyuksehyr,3.0,2.0,H,2.0,2.0,D
+178,T1,16/02/15,Galatasaray,Balikesirspor,3.0,1.0,H,3.0,0.0,H
+179,T1,16/02/15,Genclerbirligi,Eskisehirspor,1.0,2.0,A,1.0,1.0,D
+180,T1,20/02/15,Erciyesspor,Konyaspor,3.0,0.0,H,3.0,0.0,H
+181,T1,21/02/15,Bursaspor,Rizespor,1.0,1.0,D,1.0,0.0,H
+182,T1,21/02/15,Buyuksehyr,Gaziantepspor,1.0,0.0,H,1.0,0.0,H
+183,T1,21/02/15,Sivasspor,Galatasaray,2.0,3.0,A,1.0,1.0,D
+184,T1,22/02/15,Balikesirspor,Genclerbirligi,0.0,1.0,A,0.0,0.0,D
+185,T1,22/02/15,Eskisehirspor,Besiktas,1.0,0.0,H,1.0,0.0,H
+186,T1,22/02/15,Kasimpasa,Trabzonspor,1.0,1.0,D,0.0,1.0,A
+187,T1,22/02/15,Mersin Idman Yurdu,Karabukspor,2.0,1.0,H,1.0,1.0,D
+188,T1,23/02/15,Fenerbahce,Akhisar Belediyespor,1.0,2.0,A,1.0,1.0,D
+189,T1,27/02/15,Galatasaray,Erciyesspor,3.0,1.0,H,1.0,1.0,D
+190,T1,28/02/15,Genclerbirligi,Sivasspor,0.0,0.0,D,0.0,0.0,D
+191,T1,28/02/15,Konyaspor,Fenerbahce,1.0,1.0,D,1.0,0.0,H
+192,T1,28/02/15,Rizespor,Eskisehirspor,3.0,0.0,H,2.0,0.0,H
+193,T1,01/03/15,Akhisar Belediyespor,Buyuksehyr,0.0,2.0,A,0.0,0.0,D
+194,T1,01/03/15,Besiktas,Balikesirspor,2.0,2.0,D,1.0,0.0,H
+195,T1,01/03/15,Bursaspor,Mersin Idman Yurdu,2.0,1.0,H,0.0,1.0,A
+196,T1,01/03/15,Gaziantepspor,Kasimpasa,0.0,2.0,A,0.0,1.0,A
+197,T1,02/03/15,Trabzonspor,Karabukspor,3.0,2.0,H,1.0,2.0,A
+198,T1,06/03/15,Kasimpasa,Akhisar Belediyespor,2.0,2.0,D,1.0,0.0,H
+199,T1,07/03/15,Balikesirspor,Rizespor,2.0,2.0,D,1.0,0.0,H
+200,T1,07/03/15,Erciyesspor,Genclerbirligi,2.0,4.0,A,0.0,2.0,A
+201,T1,07/03/15,Eskisehirspor,Bursaspor,0.0,0.0,D,0.0,0.0,D
+202,T1,08/03/15,Buyuksehyr,Konyaspor,0.0,0.0,D,0.0,0.0,D
+203,T1,08/03/15,Fenerbahce,Galatasaray,1.0,0.0,H,0.0,0.0,D
+204,T1,08/03/15,Karabukspor,Gaziantepspor,0.0,0.0,D,0.0,0.0,D
+205,T1,08/03/15,Sivasspor,Besiktas,0.0,1.0,A,0.0,1.0,A
+206,T1,09/03/15,Mersin Idman Yurdu,Trabzonspor,1.0,5.0,A,0.0,2.0,A
+207,T1,13/03/15,Bursaspor,Balikesirspor,4.0,2.0,H,2.0,2.0,D
+208,T1,13/03/15,Konyaspor,Kasimpasa,2.0,1.0,H,2.0,1.0,H
+209,T1,14/03/15,Akhisar Belediyespor,Karabukspor,5.0,1.0,H,2.0,0.0,H
+210,T1,14/03/15,Galatasaray,Buyuksehyr,2.0,2.0,D,1.0,0.0,H
+211,T1,14/03/15,Rizespor,Sivasspor,2.0,1.0,H,0.0,0.0,D
+212,T1,15/03/15,Besiktas,Erciyesspor,5.0,1.0,H,3.0,0.0,H
+213,T1,15/03/15,Eskisehirspor,Mersin Idman Yurdu,2.0,0.0,H,2.0,0.0,H
+214,T1,15/03/15,Genclerbirligi,Fenerbahce,2.0,1.0,H,1.0,0.0,H
+215,T1,16/03/15,Gaziantepspor,Trabzonspor,2.0,0.0,H,1.0,0.0,H
+216,T1,20/03/15,Balikesirspor,Eskisehirspor,4.0,1.0,H,2.0,1.0,H
+217,T1,20/03/15,Karabukspor,Konyaspor,0.0,1.0,A,0.0,0.0,D
+218,T1,21/03/15,Erciyesspor,Rizespor,0.0,3.0,A,0.0,2.0,A
+219,T1,21/03/15,Kasimpasa,Galatasaray,2.0,3.0,A,2.0,0.0,H
+220,T1,21/03/15,Mersin Idman Yurdu,Gaziantepspor,0.0,1.0,A,0.0,1.0,A
+221,T1,21/03/15,Sivasspor,Bursaspor,4.0,1.0,H,4.0,0.0,H
+222,T1,22/03/15,Buyuksehyr,Genclerbirligi,3.0,1.0,H,0.0,0.0,D
+223,T1,22/03/15,Fenerbahce,Besiktas,1.0,0.0,H,0.0,0.0,D
+224,T1,22/03/15,Trabzonspor,Akhisar Belediyespor,2.0,0.0,H,1.0,0.0,H
+225,T1,04/04/15,Balikesirspor,Mersin Idman Yurdu,1.0,3.0,A,0.0,1.0,A
+226,T1,04/04/15,Eskisehirspor,Sivasspor,1.0,3.0,A,1.0,0.0,H
+227,T1,04/04/15,Genclerbirligi,Kasimpasa,5.0,2.0,H,2.0,1.0,H
+228,T1,04/04/15,Rizespor,Fenerbahce,1.0,5.0,A,0.0,3.0,A
+229,T1,05/04/15,Akhisar Belediyespor,Gaziantepspor,3.0,0.0,H,1.0,0.0,H
+230,T1,05/04/15,Bursaspor,Erciyesspor,3.0,0.0,H,2.0,0.0,H
+231,T1,05/04/15,Galatasaray,Karabukspor,4.0,2.0,H,1.0,0.0,H
+232,T1,05/04/15,Konyaspor,Trabzonspor,1.0,0.0,H,0.0,0.0,D
+233,T1,06/04/15,Besiktas,Buyuksehyr,0.0,0.0,D,0.0,0.0,D
+234,T1,17/04/15,Gaziantepspor,Konyaspor,1.0,1.0,D,1.0,0.0,H
+235,T1,18/04/15,Karabukspor,Genclerbirligi,2.0,1.0,H,1.0,1.0,D
+236,T1,18/04/15,Kasimpasa,Besiktas,1.0,5.0,A,1.0,2.0,A
+237,T1,19/04/15,Buyuksehyr,Rizespor,3.0,1.0,H,1.0,0.0,H
+238,T1,19/04/15,Erciyesspor,Eskisehirspor,0.0,1.0,A,0.0,1.0,A
+239,T1,19/04/15,Sivasspor,Balikesirspor,1.0,1.0,D,0.0,0.0,D
+240,T1,19/04/15,Trabzonspor,Galatasaray,2.0,1.0,H,1.0,0.0,H
+241,T1,20/04/15,Fenerbahce,Bursaspor,1.0,0.0,H,0.0,0.0,D
+242,T1,20/04/15,Mersin Idman Yurdu,Akhisar Belediyespor,1.0,1.0,D,0.0,0.0,D
+243,T1,24/04/15,Sivasspor,Mersin Idman Yurdu,1.0,2.0,A,0.0,0.0,D
+244,T1,25/04/15,Bursaspor,Buyuksehyr,4.0,1.0,H,0.0,1.0,A
+245,T1,25/04/15,Eskisehirspor,Fenerbahce,1.0,1.0,D,0.0,1.0,A
+246,T1,25/04/15,Rizespor,Kasimpasa,1.0,3.0,A,0.0,1.0,A
+247,T1,26/04/15,Balikesirspor,Erciyesspor,1.0,1.0,D,1.0,0.0,H
+248,T1,26/04/15,Galatasaray,Gaziantepspor,1.0,0.0,H,0.0,0.0,D
+249,T1,26/04/15,Genclerbirligi,Trabzonspor,1.0,1.0,D,0.0,0.0,D
+250,T1,26/04/15,Konyaspor,Akhisar Belediyespor,2.0,1.0,H,1.0,1.0,D
+251,T1,27/04/15,Besiktas,Karabukspor,2.0,1.0,H,1.0,0.0,H
+252,T1,02/05/15,Buyuksehyr,Eskisehirspor,1.0,1.0,D,0.0,0.0,D
+253,T1,02/05/15,Fenerbahce,Balikesirspor,4.0,3.0,H,3.0,3.0,D
+254,T1,02/05/15,Karabukspor,Rizespor,2.0,0.0,H,0.0,0.0,D
+255,T1,02/05/15,Mersin Idman Yurdu,Konyaspor,3.0,1.0,H,3.0,1.0,H
+256,T1,03/05/15,Gaziantepspor,Genclerbirligi,0.0,3.0,A,0.0,0.0,D
+257,T1,03/05/15,Kasimpasa,Bursaspor,5.0,3.0,H,2.0,2.0,D
+258,T1,03/05/15,Trabzonspor,Besiktas,0.0,2.0,A,0.0,0.0,D
+259,T1,04/05/15,Akhisar Belediyespor,Galatasaray,0.0,2.0,A,0.0,2.0,A
+260,T1,04/05/15,Erciyesspor,Sivasspor,2.0,3.0,A,2.0,0.0,H
+261,T1,08/05/15,Erciyesspor,Mersin Idman Yurdu,2.0,2.0,D,1.0,0.0,H
+262,T1,08/05/15,Eskisehirspor,Kasimpasa,4.0,1.0,H,3.0,0.0,H
+263,T1,08/05/15,Galatasaray,Konyaspor,1.0,0.0,H,0.0,0.0,D
+264,T1,09/05/15,Balikesirspor,Buyuksehyr,1.0,2.0,A,0.0,1.0,A
+265,T1,09/05/15,Bursaspor,Karabukspor,7.0,1.0,H,2.0,1.0,H
+266,T1,09/05/15,Genclerbirligi,Akhisar Belediyespor,0.0,0.0,D,0.0,0.0,D
+267,T1,09/05/15,Sivasspor,Fenerbahce,2.0,3.0,A,2.0,1.0,H
+268,T1,10/05/15,Besiktas,Gaziantepspor,1.0,1.0,D,1.0,1.0,D
+269,T1,10/05/15,Rizespor,Trabzonspor,0.0,2.0,A,0.0,1.0,A
+270,T1,12/05/15,Buyuksehyr,Sivasspor,2.0,1.0,H,0.0,1.0,A
+271,T1,12/05/15,Karabukspor,Eskisehirspor,2.0,2.0,D,1.0,0.0,H
+272,T1,12/05/15,Kasimpasa,Balikesirspor,2.0,3.0,A,1.0,1.0,D
+273,T1,12/05/15,Konyaspor,Genclerbirligi,1.0,0.0,H,0.0,0.0,D
+274,T1,12/05/15,Mersin Idman Yurdu,Galatasaray,0.0,1.0,A,0.0,1.0,A
+275,T1,13/05/15,Fenerbahce,Erciyesspor,1.0,1.0,D,1.0,1.0,D
+276,T1,13/05/15,Gaziantepspor,Rizespor,1.0,2.0,A,0.0,1.0,A
+277,T1,13/05/15,Trabzonspor,Bursaspor,1.0,0.0,H,0.0,0.0,D
+278,T1,14/05/15,Akhisar Belediyespor,Besiktas,1.0,1.0,D,1.0,0.0,H
+279,T1,16/05/15,Balikesirspor,Karabukspor,4.0,2.0,H,2.0,1.0,H
+280,T1,16/05/15,Galatasaray,Genclerbirligi,1.0,0.0,H,0.0,0.0,D
+281,T1,16/05/15,Sivasspor,Kasimpasa,1.0,1.0,D,0.0,0.0,D
+282,T1,17/05/15,Bursaspor,Gaziantepspor,2.0,0.0,H,1.0,0.0,H
+283,T1,17/05/15,Erciyesspor,Buyuksehyr,0.0,1.0,A,0.0,0.0,D
+284,T1,17/05/15,Eskisehirspor,Trabzonspor,2.0,0.0,H,2.0,0.0,H
+285,T1,17/05/15,Mersin Idman Yurdu,Fenerbahce,0.0,1.0,A,0.0,0.0,D
+286,T1,18/05/15,Besiktas,Konyaspor,0.0,1.0,A,0.0,0.0,D
+287,T1,18/05/15,Rizespor,Akhisar Belediyespor,3.0,1.0,H,1.0,0.0,H
+288,T1,22/05/15,Genclerbirligi,Mersin Idman Yurdu,1.0,2.0,A,1.0,0.0,H
+289,T1,23/05/15,Kasimpasa,Erciyesspor,3.0,3.0,D,1.0,1.0,D
+290,T1,23/05/15,Konyaspor,Rizespor,1.0,1.0,D,0.0,1.0,A
+291,T1,23/05/15,Trabzonspor,Balikesirspor,3.0,2.0,H,1.0,1.0,D
+292,T1,24/05/15,Galatasaray,Besiktas,2.0,0.0,H,1.0,0.0,H
+293,T1,24/05/15,Gaziantepspor,Eskisehirspor,3.0,2.0,H,2.0,0.0,H
+294,T1,24/05/15,Karabukspor,Sivasspor,2.0,1.0,H,0.0,1.0,A
+295,T1,25/05/15,Akhisar Belediyespor,Bursaspor,0.0,1.0,A,0.0,0.0,D
+296,T1,25/05/15,Buyuksehyr,Fenerbahce,2.0,2.0,D,0.0,0.0,D
+297,T1,29/05/15,Balikesirspor,Gaziantepspor,1.0,1.0,D,1.0,1.0,D
+298,T1,29/05/15,Besiktas,Genclerbirligi,2.0,1.0,H,1.0,0.0,H
+299,T1,29/05/15,Erciyesspor,Karabukspor,4.0,3.0,H,1.0,2.0,A
+300,T1,29/05/15,Eskisehirspor,Akhisar Belediyespor,1.0,3.0,A,0.0,1.0,A
+301,T1,30/05/15,Bursaspor,Konyaspor,0.0,0.0,D,0.0,0.0,D
+302,T1,30/05/15,Fenerbahce,Kasimpasa,2.0,0.0,H,0.0,0.0,D
+303,T1,30/05/15,Mersin Idman Yurdu,Buyuksehyr,2.0,2.0,D,0.0,0.0,D
+304,T1,30/05/15,Rizespor,Galatasaray,1.0,1.0,D,0.0,0.0,D
+305,T1,30/05/15,Sivasspor,Trabzonspor,1.0,1.0,D,1.0,1.0,D
+306,,,,,,,,,,

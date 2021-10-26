@@ -1,0 +1,353 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,G1,23/08/14,Kerkyra,Panthrakikos,2.0,1.0,H,2.0,0.0,H
+1,G1,23/08/14,OFI,Panetolikos,1.0,0.0,H,0.0,0.0,D
+2,G1,23/08/14,Olympiakos,Niki Volos,3.0,1.0,H,3.0,0.0,H
+3,G1,24/08/14,Atromitos,Platanias,1.0,0.0,H,1.0,0.0,H
+4,G1,24/08/14,Giannina,Asteras Tripolis,3.0,1.0,H,0.0,1.0,A
+5,G1,24/08/14,Levadeiakos,Panathinaikos,1.0,1.0,D,0.0,0.0,D
+6,G1,24/08/14,PAOK,Kallonis,1.0,1.0,D,0.0,0.0,D
+7,G1,24/08/14,Veria,Xanthi,3.0,2.0,H,1.0,0.0,H
+8,G1,25/08/14,Panionios,Ergotelis,2.0,1.0,H,1.0,1.0,D
+9,G1,30/08/14,Kallonis,Ergotelis,2.0,0.0,H,1.0,0.0,H
+10,G1,30/08/14,Panetolikos,Olympiakos,1.0,1.0,D,0.0,0.0,D
+11,G1,30/08/14,Panthrakikos,Giannina,1.0,1.0,D,0.0,1.0,A
+12,G1,31/08/14,Asteras Tripolis,Levadeiakos,2.0,1.0,H,1.0,1.0,D
+13,G1,31/08/14,Niki Volos,Atromitos,0.0,1.0,A,0.0,1.0,A
+14,G1,31/08/14,Panathinaikos,Panionios,2.0,1.0,H,0.0,0.0,D
+15,G1,31/08/14,Platanias,PAOK,0.0,4.0,A,0.0,1.0,A
+16,G1,31/08/14,Xanthi,Kerkyra,0.0,0.0,D,0.0,0.0,D
+17,G1,01/09/14,OFI,Veria,0.0,1.0,A,0.0,0.0,D
+18,G1,13/09/14,Olympiakos,OFI,3.0,0.0,H,2.0,0.0,H
+19,G1,13/09/14,PAOK,Niki Volos,3.0,0.0,H,1.0,0.0,H
+20,G1,13/09/14,Veria,Kerkyra,2.0,1.0,H,1.0,1.0,D
+21,G1,14/09/14,Atromitos,Panetolikos,0.0,0.0,D,0.0,0.0,D
+22,G1,14/09/14,Giannina,Xanthi,2.0,2.0,D,0.0,1.0,A
+23,G1,14/09/14,Kallonis,Panathinaikos,1.0,0.0,H,1.0,0.0,H
+24,G1,14/09/14,Levadeiakos,Panthrakikos,1.0,1.0,D,1.0,1.0,D
+25,G1,14/09/14,Panionios,Asteras Tripolis,2.0,1.0,H,2.0,1.0,H
+26,G1,15/09/14,Ergotelis,Platanias,0.0,3.0,A,0.0,1.0,A
+27,G1,20/09/14,OFI,Atromitos,1.0,0.0,H,0.0,0.0,D
+28,G1,20/09/14,Olympiakos,Veria,3.0,0.0,H,1.0,0.0,H
+29,G1,20/09/14,Xanthi,Levadeiakos,2.0,0.0,H,1.0,0.0,H
+30,G1,21/09/14,Asteras Tripolis,Kallonis,1.0,0.0,H,1.0,0.0,H
+31,G1,21/09/14,Kerkyra,Giannina,2.0,0.0,H,1.0,0.0,H
+32,G1,21/09/14,Niki Volos,Ergotelis,1.0,4.0,A,1.0,1.0,D
+33,G1,21/09/14,Panthrakikos,Panionios,1.0,0.0,H,0.0,0.0,D
+34,G1,21/09/14,Platanias,Panathinaikos,2.0,3.0,A,1.0,1.0,D
+35,G1,22/09/14,Panetolikos,PAOK,0.0,1.0,A,0.0,1.0,A
+36,G1,27/09/14,Atromitos,Olympiakos,1.0,0.0,H,1.0,0.0,H
+37,G1,27/09/14,Panionios,Xanthi,1.0,1.0,D,1.0,1.0,D
+38,G1,27/09/14,Platanias,Asteras Tripolis,0.0,1.0,A,0.0,0.0,D
+39,G1,28/09/14,Ergotelis,Panetolikos,1.0,1.0,D,0.0,1.0,A
+40,G1,28/09/14,Levadeiakos,Kerkyra,2.0,3.0,A,1.0,2.0,A
+41,G1,28/09/14,Panathinaikos,Niki Volos,1.0,0.0,H,1.0,0.0,H
+42,G1,28/09/14,PAOK,OFI,4.0,0.0,H,4.0,0.0,H
+43,G1,28/09/14,Veria,Giannina,2.0,0.0,H,0.0,0.0,D
+44,G1,29/09/14,Kallonis,Panthrakikos,2.0,0.0,H,1.0,0.0,H
+45,G1,18/10/14,Asteras Tripolis,Panetolikos,1.0,1.0,D,1.0,1.0,D
+46,G1,18/10/14,Ergotelis,Olympiakos,2.0,3.0,A,1.0,1.0,D
+47,G1,18/10/14,Niki Volos,Panthrakikos,1.0,0.0,H,1.0,0.0,H
+48,G1,19/10/14,Kallonis,Kerkyra,1.0,0.0,H,0.0,0.0,D
+49,G1,19/10/14,Panathinaikos,OFI,1.0,2.0,A,0.0,1.0,A
+50,G1,19/10/14,PAOK,Atromitos,2.0,1.0,H,2.0,0.0,H
+51,G1,19/10/14,Platanias,Xanthi,1.0,0.0,H,0.0,0.0,D
+52,G1,19/10/14,Veria,Levadeiakos,2.0,1.0,H,2.0,1.0,H
+53,G1,20/10/14,Panionios,Giannina,0.0,1.0,A,0.0,0.0,D
+54,G1,25/10/14,Atromitos,Ergotelis,1.0,1.0,D,0.0,0.0,D
+55,G1,25/10/14,Giannina,Kallonis,0.0,0.0,D,0.0,0.0,D
+56,G1,25/10/14,Levadeiakos,Panionios,1.0,0.0,H,0.0,0.0,D
+57,G1,26/10/14,Kerkyra,Platanias,1.0,2.0,A,1.0,1.0,D
+58,G1,26/10/14,OFI,Asteras Tripolis,2.0,3.0,A,0.0,1.0,A
+59,G1,26/10/14,Olympiakos,Panathinaikos,1.0,0.0,H,0.0,0.0,D
+60,G1,26/10/14,Panetolikos,Panthrakikos,3.0,1.0,H,1.0,0.0,H
+61,G1,26/10/14,PAOK,Veria,4.0,1.0,H,2.0,0.0,H
+62,G1,27/10/14,Xanthi,Niki Volos,2.0,0.0,H,0.0,0.0,D
+63,G1,01/11/14,Asteras Tripolis,Olympiakos,0.0,0.0,D,0.0,0.0,D
+64,G1,01/11/14,Platanias,Giannina,0.0,0.0,D,0.0,0.0,D
+65,G1,01/11/14,Veria,Panionios,2.0,2.0,D,2.0,1.0,H
+66,G1,02/11/14,Ergotelis,PAOK,0.0,2.0,A,0.0,1.0,A
+67,G1,02/11/14,Niki Volos,Kerkyra,0.0,0.0,D,0.0,0.0,D
+68,G1,02/11/14,Panathinaikos,Atromitos,2.0,0.0,H,1.0,0.0,H
+69,G1,02/11/14,Panetolikos,Xanthi,5.0,2.0,H,2.0,2.0,D
+70,G1,02/11/14,Panthrakikos,OFI,0.0,0.0,D,0.0,0.0,D
+71,G1,03/11/14,Kallonis,Levadeiakos,0.0,0.0,D,0.0,0.0,D
+72,G1,08/11/14,Ergotelis,Veria,2.0,2.0,D,2.0,1.0,H
+73,G1,08/11/14,Kerkyra,Panetolikos,1.0,2.0,A,0.0,2.0,A
+74,G1,08/11/14,Xanthi,OFI,2.0,1.0,H,2.0,1.0,H
+75,G1,09/11/14,Giannina,Niki Volos,4.0,0.0,H,1.0,0.0,H
+76,G1,09/11/14,Levadeiakos,Platanias,0.0,0.0,D,0.0,0.0,D
+77,G1,09/11/14,Olympiakos,Panthrakikos,5.0,1.0,H,2.0,0.0,H
+78,G1,09/11/14,Panionios,Kallonis,0.0,2.0,A,0.0,0.0,D
+79,G1,09/11/14,PAOK,Panathinaikos,1.0,2.0,A,0.0,0.0,D
+80,G1,10/11/14,Atromitos,Asteras Tripolis,4.0,3.0,H,3.0,1.0,H
+81,G1,29/11/14,Atromitos,Xanthi,2.0,0.0,H,1.0,0.0,H
+82,G1,29/11/14,Kallonis,Platanias,0.0,0.0,D,0.0,0.0,D
+83,G1,29/11/14,Levadeiakos,Panetolikos,0.0,0.0,D,0.0,0.0,D
+84,G1,30/11/14,Ergotelis,Asteras Tripolis,1.0,4.0,A,1.0,1.0,D
+85,G1,30/11/14,Giannina,OFI,3.0,0.0,H,2.0,0.0,H
+86,G1,30/11/14,Kerkyra,Olympiakos,0.0,4.0,A,0.0,1.0,A
+87,G1,30/11/14,Panathinaikos,Veria,2.0,1.0,H,1.0,0.0,H
+88,G1,30/11/14,Panionios,Niki Volos,2.0,1.0,H,1.0,0.0,H
+89,G1,30/11/14,PAOK,Panthrakikos,3.0,2.0,H,1.0,1.0,D
+90,G1,03/12/14,Atromitos,Veria,0.0,0.0,D,0.0,0.0,D
+91,G1,03/12/14,Giannina,Levadeiakos,0.0,4.0,A,0.0,2.0,A
+92,G1,03/12/14,Kerkyra,Panionios,1.0,0.0,H,1.0,0.0,H
+93,G1,03/12/14,Olympiakos,PAOK,1.0,2.0,A,1.0,1.0,D
+94,G1,03/12/14,Panthrakikos,Platanias,1.0,0.0,H,1.0,0.0,H
+95,G1,03/12/14,Xanthi,Kallonis,2.0,1.0,H,2.0,0.0,H
+96,G1,04/12/14,Niki Volos,Asteras Tripolis,0.0,2.0,A,0.0,1.0,A
+97,G1,04/12/14,OFI,Ergotelis,1.0,0.0,H,0.0,0.0,D
+98,G1,04/12/14,Panetolikos,Panathinaikos,0.0,1.0,A,0.0,0.0,D
+99,G1,06/12/14,Kerkyra,Atromitos,1.0,1.0,D,0.0,0.0,D
+100,G1,06/12/14,Olympiakos,Giannina,2.0,2.0,D,0.0,1.0,A
+101,G1,06/12/14,Veria,Platanias,2.0,0.0,H,1.0,0.0,H
+102,G1,07/12/14,Asteras Tripolis,Panathinaikos,1.0,1.0,D,1.0,1.0,D
+103,G1,07/12/14,Niki Volos,Kallonis,2.0,0.0,H,0.0,0.0,D
+104,G1,07/12/14,OFI,Levadeiakos,0.0,2.0,A,0.0,0.0,D
+105,G1,07/12/14,Panetolikos,Panionios,2.0,1.0,H,0.0,0.0,D
+106,G1,07/12/14,Xanthi,PAOK,4.0,2.0,H,1.0,1.0,D
+107,G1,08/12/14,Panthrakikos,Ergotelis,0.0,0.0,D,0.0,0.0,D
+108,G1,13/12/14,Kallonis,Panetolikos,0.0,0.0,D,0.0,0.0,D
+109,G1,13/12/14,Levadeiakos,Olympiakos,1.0,2.0,A,1.0,0.0,H
+110,G1,13/12/14,Platanias,Niki Volos,3.0,1.0,H,2.0,0.0,H
+111,G1,14/12/14,Asteras Tripolis,Veria,2.0,0.0,H,2.0,0.0,H
+112,G1,14/12/14,Ergotelis,Xanthi,0.0,2.0,A,0.0,1.0,A
+113,G1,14/12/14,Giannina,Atromitos,1.0,0.0,H,0.0,0.0,D
+114,G1,14/12/14,Panathinaikos,Panthrakikos,4.0,0.0,H,1.0,0.0,H
+115,G1,14/12/14,Panionios,OFI,2.0,0.0,H,0.0,0.0,D
+116,G1,14/12/14,PAOK,Kerkyra,2.0,1.0,H,0.0,0.0,D
+117,G1,17/12/14,Atromitos,Levadeiakos,1.0,0.0,H,1.0,0.0,H
+118,G1,17/12/14,Kerkyra,Ergotelis,3.0,1.0,H,0.0,1.0,A
+119,G1,17/12/14,OFI,Kallonis,1.0,1.0,D,0.0,0.0,D
+120,G1,17/12/14,Olympiakos,Panionios,2.0,0.0,H,1.0,0.0,H
+121,G1,17/12/14,Panetolikos,Platanias,1.0,0.0,H,1.0,0.0,H
+122,G1,17/12/14,Panthrakikos,Asteras Tripolis,1.0,1.0,D,1.0,1.0,D
+123,G1,17/12/14,Veria,Niki Volos,2.0,0.0,H,1.0,0.0,H
+124,G1,18/12/14,Giannina,PAOK,3.0,0.0,H,1.0,0.0,H
+125,G1,18/12/14,Xanthi,Panathinaikos,4.0,2.0,H,2.0,1.0,H
+126,G1,20/12/14,Kallonis,Olympiakos,0.0,5.0,A,0.0,1.0,A
+127,G1,20/12/14,Panthrakikos,Veria,1.0,1.0,D,1.0,0.0,H
+128,G1,20/12/14,Platanias,OFI,1.0,0.0,H,0.0,0.0,D
+129,G1,21/12/14,Asteras Tripolis,Xanthi,2.0,1.0,H,1.0,0.0,H
+130,G1,21/12/14,Ergotelis,Giannina,1.0,0.0,H,1.0,0.0,H
+131,G1,21/12/14,Levadeiakos,PAOK,1.0,2.0,A,0.0,1.0,A
+132,G1,21/12/14,Niki Volos,Panetolikos,0.0,3.0,A,,,
+133,G1,21/12/14,Panionios,Atromitos,2.0,2.0,D,1.0,2.0,A
+134,G1,22/12/14,Panathinaikos,Kerkyra,2.0,0.0,H,1.0,0.0,H
+135,G1,03/01/15,Kerkyra,Asteras Tripolis,1.0,0.0,H,0.0,0.0,D
+136,G1,03/01/15,OFI,Niki Volos,3.0,0.0,H,,,
+137,G1,03/01/15,PAOK,Panionios,3.0,2.0,H,2.0,2.0,D
+138,G1,03/01/15,Veria,Panetolikos,1.0,3.0,A,0.0,1.0,A
+139,G1,04/01/15,Atromitos,Kallonis,0.0,0.0,D,0.0,0.0,D
+140,G1,04/01/15,Levadeiakos,Ergotelis,1.0,1.0,D,1.0,1.0,D
+141,G1,04/01/15,Olympiakos,Platanias,2.0,1.0,H,1.0,0.0,H
+142,G1,05/01/15,Giannina,Panathinaikos,0.0,0.0,D,0.0,0.0,D
+143,G1,05/01/15,Xanthi,Panthrakikos,0.0,0.0,D,0.0,0.0,D
+144,G1,10/01/15,Asteras Tripolis,PAOK,3.0,0.0,H,3.0,0.0,H
+145,G1,10/01/15,Platanias,Panionios,3.0,0.0,H,0.0,0.0,D
+146,G1,10/01/15,Veria,Kallonis,1.0,1.0,D,1.0,1.0,D
+147,G1,11/01/15,Niki Volos,Levadeiakos,0.0,3.0,A,,,
+148,G1,11/01/15,OFI,Kerkyra,3.0,2.0,H,1.0,1.0,D
+149,G1,11/01/15,Panathinaikos,Ergotelis,5.0,0.0,H,5.0,0.0,H
+150,G1,11/01/15,Panetolikos,Giannina,0.0,0.0,D,0.0,0.0,D
+151,G1,11/01/15,Panthrakikos,Atromitos,1.0,1.0,D,1.0,0.0,H
+152,G1,11/01/15,Xanthi,Olympiakos,1.0,3.0,A,0.0,2.0,A
+153,G1,14/01/15,Asteras Tripolis,Giannina,2.0,2.0,D,2.0,1.0,H
+154,G1,14/01/15,Kallonis,PAOK,1.0,2.0,A,1.0,0.0,H
+155,G1,14/01/15,Panathinaikos,Levadeiakos,1.0,0.0,H,1.0,0.0,H
+156,G1,14/01/15,Panetolikos,OFI,3.0,1.0,H,1.0,0.0,H
+157,G1,14/01/15,Panthrakikos,Kerkyra,1.0,0.0,H,1.0,0.0,H
+158,G1,14/01/15,Xanthi,Veria,2.0,2.0,D,1.0,1.0,D
+159,G1,15/01/15,Niki Volos,Olympiakos,0.0,3.0,A,,,
+160,G1,15/01/15,Platanias,Atromitos,0.0,0.0,D,0.0,0.0,D
+161,G1,17/01/15,Kerkyra,Xanthi,0.0,0.0,D,0.0,0.0,D
+162,G1,17/01/15,Panionios,Panathinaikos,1.0,1.0,D,1.0,0.0,H
+163,G1,17/01/15,Veria,OFI,4.0,1.0,H,3.0,1.0,H
+164,G1,18/01/15,Atromitos,Niki Volos,3.0,0.0,H,0.0,0.0,D
+165,G1,18/01/15,Giannina,Panthrakikos,2.0,2.0,D,1.0,0.0,H
+166,G1,18/01/15,Levadeiakos,Asteras Tripolis,3.0,1.0,H,1.0,1.0,D
+167,G1,18/01/15,Olympiakos,Panetolikos,2.0,0.0,H,0.0,0.0,D
+168,G1,18/01/15,PAOK,Platanias,1.0,0.0,H,1.0,0.0,H
+169,G1,19/01/15,Ergotelis,Kallonis,3.0,3.0,D,0.0,2.0,A
+170,G1,24/01/15,Asteras Tripolis,Panionios,2.0,0.0,H,1.0,0.0,H
+171,G1,24/01/15,Kerkyra,Veria,4.0,0.0,H,3.0,0.0,H
+172,G1,24/01/15,Niki Volos,PAOK,0.0,3.0,A,,,
+173,G1,24/01/15,OFI,Olympiakos,0.0,3.0,A,0.0,1.0,A
+174,G1,24/01/15,Panathinaikos,Kallonis,1.0,0.0,H,0.0,0.0,D
+175,G1,24/01/15,Panthrakikos,Levadeiakos,1.0,0.0,H,1.0,0.0,H
+176,G1,24/01/15,Xanthi,Giannina,1.0,1.0,D,0.0,0.0,D
+177,G1,26/01/15,Panetolikos,Atromitos,1.0,1.0,D,0.0,1.0,A
+178,G1,26/01/15,Platanias,Ergotelis,1.0,2.0,A,1.0,0.0,H
+179,G1,31/01/15,Kallonis,Asteras Tripolis,1.0,0.0,H,0.0,0.0,D
+180,G1,31/01/15,Panionios,Panthrakikos,2.0,1.0,H,1.0,0.0,H
+181,G1,31/01/15,PAOK,Panetolikos,1.0,2.0,A,0.0,1.0,A
+182,G1,01/02/15,Ergotelis,Niki Volos,3.0,0.0,H,,,
+183,G1,01/02/15,Giannina,Kerkyra,2.0,1.0,H,1.0,1.0,D
+184,G1,01/02/15,Levadeiakos,Xanthi,1.0,2.0,A,0.0,1.0,A
+185,G1,01/02/15,Panathinaikos,Platanias,3.0,0.0,H,1.0,0.0,H
+186,G1,01/02/15,Veria,Olympiakos,0.0,2.0,A,0.0,0.0,D
+187,G1,04/02/15,Asteras Tripolis,Platanias,1.0,0.0,H,0.0,0.0,D
+188,G1,04/02/15,Giannina,Veria,4.0,1.0,H,4.0,1.0,H
+189,G1,04/02/15,Kerkyra,Levadeiakos,0.0,0.0,D,0.0,0.0,D
+190,G1,04/02/15,OFI,PAOK,3.0,1.0,H,2.0,0.0,H
+191,G1,04/02/15,Olympiakos,Atromitos,2.0,1.0,H,1.0,0.0,H
+192,G1,04/02/15,Panetolikos,Ergotelis,4.0,0.0,H,2.0,0.0,H
+193,G1,04/02/15,Xanthi,Panionios,1.0,1.0,D,1.0,1.0,D
+194,G1,05/02/15,Niki Volos,Panathinaikos,0.0,3.0,A,,,
+195,G1,05/02/15,Panthrakikos,Kallonis,3.0,2.0,H,2.0,1.0,H
+196,G1,07/02/15,Ergotelis,OFI,3.0,2.0,H,3.0,1.0,H
+197,G1,07/02/15,Levadeiakos,Giannina,1.0,2.0,A,0.0,1.0,A
+198,G1,07/02/15,Veria,Atromitos,1.0,1.0,D,1.0,0.0,H
+199,G1,08/02/15,Asteras Tripolis,Niki Volos,3.0,0.0,H,,,
+200,G1,08/02/15,Panathinaikos,Panetolikos,1.0,0.0,H,0.0,0.0,D
+201,G1,08/02/15,Panionios,Kerkyra,0.0,0.0,D,0.0,0.0,D
+202,G1,08/02/15,PAOK,Olympiakos,0.0,0.0,D,0.0,0.0,D
+203,G1,08/02/15,Platanias,Panthrakikos,2.0,0.0,H,1.0,0.0,H
+204,G1,09/02/15,Kallonis,Xanthi,2.0,2.0,D,0.0,1.0,A
+205,G1,14/02/15,Giannina,Panionios,1.0,3.0,A,0.0,1.0,A
+206,G1,14/02/15,Olympiakos,Ergotelis,3.0,0.0,H,0.0,0.0,D
+207,G1,14/02/15,Panetolikos,Asteras Tripolis,2.0,0.0,H,1.0,0.0,H
+208,G1,14/02/15,Panthrakikos,Niki Volos,3.0,0.0,H,,,
+209,G1,15/02/15,Atromitos,PAOK,4.0,0.0,H,1.0,0.0,H
+210,G1,15/02/15,Kerkyra,Kallonis,2.0,0.0,H,0.0,0.0,D
+211,G1,15/02/15,Levadeiakos,Veria,0.0,2.0,A,0.0,0.0,D
+212,G1,15/02/15,OFI,Panathinaikos,2.0,3.0,A,2.0,1.0,H
+213,G1,16/02/15,Xanthi,Platanias,0.0,0.0,D,0.0,0.0,D
+214,G1,18/02/15,Ergotelis,Panionios,2.0,2.0,D,1.0,2.0,A
+215,G1,21/02/15,Kallonis,Giannina,1.0,0.0,H,1.0,0.0,H
+216,G1,21/02/15,Niki Volos,Xanthi,0.0,3.0,A,,,
+217,G1,21/02/15,Panthrakikos,Panetolikos,0.0,0.0,D,0.0,0.0,D
+218,G1,21/02/15,Veria,PAOK,1.0,3.0,A,0.0,3.0,A
+219,G1,22/02/15,Asteras Tripolis,OFI,6.0,1.0,H,3.0,0.0,H
+220,G1,22/02/15,Panathinaikos,Olympiakos,2.0,1.0,H,0.0,0.0,D
+221,G1,22/02/15,Panionios,Levadeiakos,1.0,0.0,H,0.0,0.0,D
+222,G1,22/02/15,Platanias,Kerkyra,1.0,1.0,D,0.0,1.0,A
+223,G1,23/02/15,Ergotelis,Atromitos,1.0,2.0,A,1.0,1.0,D
+224,G1,07/03/15,Asteras Tripolis,Atromitos,1.0,0.0,H,1.0,0.0,H
+225,G1,07/03/15,Veria,Ergotelis,0.0,1.0,A,0.0,1.0,A
+226,G1,08/03/15,Kallonis,Panionios,1.0,0.0,H,0.0,0.0,D
+227,G1,08/03/15,Niki Volos,Giannina,0.0,3.0,A,,,
+228,G1,08/03/15,OFI,Xanthi,0.0,1.0,A,0.0,0.0,D
+229,G1,08/03/15,Panathinaikos,PAOK,4.0,3.0,H,1.0,1.0,D
+230,G1,08/03/15,Panetolikos,Kerkyra,0.0,1.0,A,0.0,1.0,A
+231,G1,09/03/15,Platanias,Levadeiakos,1.0,3.0,A,0.0,1.0,A
+232,G1,14/03/15,Atromitos,Panthrakikos,2.0,0.0,H,2.0,0.0,H
+233,G1,14/03/15,Ergotelis,Panathinaikos,0.0,2.0,A,0.0,2.0,A
+234,G1,14/03/15,PAOK,Asteras Tripolis,0.0,0.0,D,0.0,0.0,D
+235,G1,15/03/15,Giannina,Panetolikos,0.0,0.0,D,0.0,0.0,D
+236,G1,15/03/15,Kallonis,Veria,4.0,1.0,H,2.0,1.0,H
+237,G1,15/03/15,Kerkyra,OFI,4.0,1.0,H,1.0,1.0,D
+238,G1,15/03/15,Levadeiakos,Niki Volos,3.0,0.0,H,0.0,0.0,D
+239,G1,15/03/15,Olympiakos,Xanthi,2.0,0.0,H,0.0,0.0,D
+240,G1,15/03/15,Panionios,Platanias,0.0,0.0,D,0.0,0.0,D
+241,G1,18/03/15,Atromitos,Panathinaikos,2.0,0.0,H,1.0,0.0,H
+242,G1,18/03/15,Giannina,Platanias,1.0,0.0,H,0.0,0.0,D
+243,G1,18/03/15,Kerkyra,Niki Volos,3.0,0.0,H,,,
+244,G1,18/03/15,Levadeiakos,Kallonis,3.0,0.0,H,3.0,0.0,H
+245,G1,18/03/15,OFI,Panthrakikos,0.0,1.0,A,0.0,1.0,A
+246,G1,18/03/15,Panionios,Veria,4.0,2.0,H,1.0,1.0,D
+247,G1,18/03/15,PAOK,Ergotelis,1.0,0.0,H,0.0,0.0,D
+248,G1,18/03/15,Xanthi,Panetolikos,3.0,0.0,H,1.0,0.0,H
+249,G1,19/03/15,Olympiakos,Asteras Tripolis,2.0,0.0,H,1.0,0.0,H
+250,G1,21/03/15,Niki Volos,Panionios,0.0,3.0,A,0.0,0.0,D
+251,G1,21/03/15,OFI,Giannina,0.0,3.0,A,,,
+252,G1,21/03/15,Panetolikos,Levadeiakos,0.0,1.0,A,0.0,0.0,D
+253,G1,21/03/15,Panthrakikos,PAOK,3.0,1.0,H,2.0,0.0,H
+254,G1,22/03/15,Asteras Tripolis,Ergotelis,2.0,1.0,H,2.0,0.0,H
+255,G1,22/03/15,Olympiakos,Kerkyra,3.0,0.0,H,2.0,0.0,H
+256,G1,22/03/15,Veria,Panathinaikos,1.0,0.0,H,1.0,0.0,H
+257,G1,22/03/15,Xanthi,Atromitos,1.0,0.0,H,0.0,0.0,D
+258,G1,23/03/15,Platanias,Kallonis,1.0,0.0,H,0.0,0.0,D
+259,G1,04/04/15,Panathinaikos,Asteras Tripolis,2.0,2.0,D,2.0,0.0,H
+260,G1,04/04/15,Platanias,Veria,1.0,0.0,H,1.0,0.0,H
+261,G1,05/04/15,Ergotelis,Panthrakikos,2.0,1.0,H,1.0,0.0,H
+262,G1,05/04/15,Giannina,Olympiakos,3.0,1.0,H,2.0,0.0,H
+263,G1,05/04/15,Kallonis,Niki Volos,3.0,0.0,H,,,
+264,G1,05/04/15,Levadeiakos,OFI,3.0,0.0,H,,,
+265,G1,05/04/15,Panionios,Panetolikos,3.0,0.0,H,0.0,0.0,D
+266,G1,05/04/15,PAOK,Xanthi,2.0,1.0,H,1.0,0.0,H
+267,G1,06/04/15,Atromitos,Kerkyra,2.0,1.0,H,1.0,0.0,H
+268,G1,10/04/15,Niki Volos,Platanias,0.0,3.0,A,,,
+269,G1,15/04/15,Atromitos,OFI,3.0,0.0,H,,,
+270,G1,15/04/15,Panthrakikos,Olympiakos,1.0,3.0,A,1.0,3.0,A
+271,G1,18/04/15,Kerkyra,PAOK,0.0,1.0,A,0.0,0.0,D
+272,G1,18/04/15,Panetolikos,Kallonis,2.0,0.0,H,1.0,0.0,H
+273,G1,18/04/15,Xanthi,Ergotelis,0.0,1.0,A,0.0,0.0,D
+274,G1,19/04/15,Atromitos,Giannina,1.0,1.0,D,0.0,1.0,A
+275,G1,19/04/15,OFI,Panionios,0.0,3.0,A,,,
+276,G1,19/04/15,Olympiakos,Levadeiakos,4.0,0.0,H,1.0,0.0,H
+277,G1,19/04/15,Panthrakikos,Panathinaikos,2.0,1.0,H,1.0,0.0,H
+278,G1,20/04/15,Veria,Asteras Tripolis,4.0,0.0,H,2.0,0.0,H
+279,G1,25/04/15,Kallonis,OFI,3.0,0.0,H,,,
+280,G1,25/04/15,Panathinaikos,Xanthi,2.0,0.0,H,0.0,0.0,D
+281,G1,26/04/15,Asteras Tripolis,Panthrakikos,2.0,1.0,H,0.0,0.0,D
+282,G1,26/04/15,Levadeiakos,Atromitos,2.0,1.0,H,2.0,0.0,H
+283,G1,26/04/15,Niki Volos,Veria,0.0,3.0,A,,,
+284,G1,26/04/15,Panionios,Olympiakos,2.0,2.0,D,1.0,0.0,H
+285,G1,26/04/15,PAOK,Giannina,1.0,1.0,D,1.0,1.0,D
+286,G1,26/04/15,Platanias,Panetolikos,2.0,0.0,H,0.0,0.0,D
+287,G1,27/04/15,Ergotelis,Kerkyra,1.0,2.0,A,0.0,0.0,D
+288,G1,02/05/15,OFI,Platanias,0.0,3.0,A,,,
+289,G1,02/05/15,Panetolikos,Niki Volos,3.0,0.0,H,,,
+290,G1,03/05/15,Atromitos,Panionios,3.0,1.0,H,1.0,0.0,H
+291,G1,03/05/15,Giannina,Ergotelis,0.0,0.0,D,0.0,0.0,D
+292,G1,03/05/15,Kerkyra,Panathinaikos,1.0,1.0,D,0.0,1.0,A
+293,G1,03/05/15,Olympiakos,Kallonis,5.0,0.0,H,2.0,0.0,H
+294,G1,03/05/15,PAOK,Levadeiakos,1.0,0.0,H,1.0,0.0,H
+295,G1,03/05/15,Veria,Panthrakikos,0.0,1.0,A,0.0,0.0,D
+296,G1,03/05/15,Xanthi,Asteras Tripolis,0.0,0.0,D,0.0,0.0,D
+297,G1,10/05/15,Asteras Tripolis,Kerkyra,2.0,0.0,H,2.0,0.0,H
+298,G1,10/05/15,Ergotelis,Levadeiakos,0.0,2.0,A,0.0,0.0,D
+299,G1,10/05/15,Kallonis,Atromitos,1.0,1.0,D,1.0,0.0,H
+300,G1,10/05/15,Niki Volos,OFI,,,,,,
+301,G1,10/05/15,Panathinaikos,Giannina,3.0,1.0,H,1.0,1.0,D
+302,G1,10/05/15,Panetolikos,Veria,2.0,0.0,H,1.0,0.0,H
+303,G1,10/05/15,Panionios,PAOK,0.0,0.0,D,0.0,0.0,D
+304,G1,10/05/15,Panthrakikos,Xanthi,2.0,0.0,H,2.0,0.0,H
+305,G1,10/05/15,Platanias,Olympiakos,1.0,1.0,D,1.0,0.0,H
+306,,,,,,,,,,
+307,,,,,,,,,,
+308,,,,,,,,,,
+309,,,,,,,,,,
+310,,,,,,,,,,
+311,,,,,,,,,,
+312,,,,,,,,,,
+313,,,,,,,,,,
+314,,,,,,,,,,
+315,,,,,,,,,,
+316,,,,,,,,,,
+317,,,,,,,,,,
+318,,,,,,,,,,
+319,,,,,,,,,,
+320,,,,,,,,,,
+321,,,,,,,,,,
+322,,,,,,,,,,
+323,,,,,,,,,,
+324,,,,,,,,,,
+325,,,,,,,,,,
+326,,,,,,,,,,
+327,,,,,,,,,,
+328,,,,,,,,,,
+329,,,,,,,,,,
+330,,,,,,,,,,
+331,,,,,,,,,,
+332,,,,,,,,,,
+333,,,,,,,,,,
+334,,,,,,,,,,
+335,,,,,,,,,,
+336,,,,,,,,,,
+337,,,,,,,,,,
+338,,,,,,,,,,
+339,,,,,,,,,,
+340,,,,,,,,,,
+341,,,,,,,,,,
+342,,,,,,,,,,
+343,,,,,,,,,,
+344,,,,,,,,,,
+345,,,,,,,,,,
+346,,,,,,,,,,
+347,,,,,,,,,,
+348,,,,,,,,,,
+349,,,,,,,,,,
+350,,,,,,,,,,
+351,,,,,,,,,,

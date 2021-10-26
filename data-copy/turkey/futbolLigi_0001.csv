@@ -1,0 +1,307 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,T1,11/08/00,Kocaelispor,Fenerbahce,0,4,A,0,2,A
+1,T1,12/08/00,Besiktas,Yozgatspor,3,0,H,1,0,H
+2,T1,12/08/00,Bursaspor,Gaziantepspor,3,3,D,1,1,D
+3,T1,12/08/00,Erzurumspor,Trabzonspor,1,3,A,0,0,D
+4,T1,12/08/00,Genclerbirligi,Rizespor,0,0,D,0,0,D
+5,T1,13/08/00,Denizlispor,Galatasaray,0,1,A,0,1,A
+6,T1,13/08/00,Istanbulspor,Adanaspor,1,6,A,1,3,A
+7,T1,13/08/00,Samsunspor,Ankaragucu,3,0,H,3,0,H
+8,T1,13/08/00,Siirt Jet-PA,Antalyaspor,1,2,A,1,0,H
+9,T1,18/08/00,Antalyaspor,Besiktas,1,2,A,0,0,D
+10,T1,19/08/00,Ankaragucu,Kocaelispor,1,0,H,1,0,H
+11,T1,19/08/00,Galatasaray,Erzurumspor,7,0,H,3,0,H
+12,T1,19/08/00,Siirt Jet-PA,Rizespor,2,3,A,2,1,H
+13,T1,19/08/00,Yozgatspor,Denizlispor,2,0,H,0,0,D
+14,T1,20/08/00,Fenerbahce,Istanbulspor,2,0,H,0,0,D
+15,T1,20/08/00,Gaziantepspor,Samsunspor,4,0,H,2,0,H
+16,T1,20/08/00,Genclerbirligi,Adanaspor,1,0,H,0,0,D
+17,T1,20/08/00,Trabzonspor,Bursaspor,2,1,H,1,0,H
+18,T1,25/08/00,Samsunspor,Trabzonspor,1,1,D,1,1,D
+19,T1,26/08/00,Denizlispor,Erzurumspor,3,1,H,3,0,H
+20,T1,26/08/00,Genclerbirligi,Fenerbahce,3,1,H,1,0,H
+21,T1,26/08/00,Siirt Jet-PA,Adanaspor,2,2,D,1,1,D
+22,T1,27/08/00,Besiktas,Rizespor,2,1,H,1,1,D
+23,T1,27/08/00,Istanbulspor,Ankaragucu,0,2,A,0,1,A
+24,T1,27/08/00,Kocaelispor,Gaziantepspor,1,2,A,1,2,A
+25,T1,27/08/00,Yozgatspor,Antalyaspor,0,0,D,0,0,D
+26,T1,06/09/00,Bursaspor,Galatasaray,0,2,A,0,1,A
+27,T1,08/09/00,Adanaspor,Besiktas,1,1,D,1,0,H
+28,T1,09/09/00,Ankaragucu,Genclerbirligi,2,3,A,0,1,A
+29,T1,09/09/00,Antalyaspor,Denizlispor,4,1,H,2,0,H
+30,T1,09/09/00,Galatasaray,Samsunspor,1,2,A,1,0,H
+31,T1,09/09/00,Trabzonspor,Kocaelispor,2,1,H,1,0,H
+32,T1,10/09/00,Erzurumspor,Bursaspor,5,0,H,2,0,H
+33,T1,10/09/00,Fenerbahce,Siirt Jet-PA,4,2,H,1,1,D
+34,T1,10/09/00,Gaziantepspor,Istanbulspor,0,0,D,0,0,D
+35,T1,10/09/00,Yozgatspor,Rizespor,0,0,D,0,0,D
+36,T1,15/09/00,Kocaelispor,Galatasaray,1,4,A,1,1,D
+37,T1,16/09/00,Besiktas,Fenerbahce,3,0,H,1,0,H
+38,T1,16/09/00,Denizlispor,Bursaspor,1,1,D,1,1,D
+39,T1,16/09/00,Samsunspor,Erzurumspor,2,2,D,1,0,H
+40,T1,17/09/00,Antalyaspor,Rizespor,2,1,H,2,1,H
+41,T1,17/09/00,Genclerbirligi,Gaziantepspor,2,0,H,0,0,D
+42,T1,17/09/00,Istanbulspor,Trabzonspor,1,0,H,1,0,H
+43,T1,17/09/00,Siirt Jet-PA,Ankaragucu,1,1,D,1,0,H
+44,T1,17/09/00,Yozgatspor,Adanaspor,4,1,H,2,0,H
+45,T1,22/09/00,Ankaragucu,Besiktas,1,5,A,0,2,A
+46,T1,23/09/00,Adanaspor,Antalyaspor,1,1,D,0,0,D
+47,T1,23/09/00,Bursaspor,Samsunspor,0,2,A,0,0,D
+48,T1,23/09/00,Gaziantepspor,Siirt Jet-PA,4,0,H,1,0,H
+49,T1,23/09/00,Galatasaray,Istanbulspor,1,1,D,1,1,D
+50,T1,24/09/00,Denizlispor,Rizespor,0,0,D,0,0,D
+51,T1,24/09/00,Erzurumspor,Kocaelispor,1,0,H,0,0,D
+52,T1,24/09/00,Fenerbahce,Yozgatspor,3,1,H,1,0,H
+53,T1,24/09/00,Trabzonspor,Genclerbirligi,2,0,H,0,0,D
+54,T1,29/09/00,Denizlispor,Samsunspor,3,1,H,3,1,H
+55,T1,30/09/00,Genclerbirligi,Galatasaray,1,4,A,1,2,A
+56,T1,30/09/00,Istanbulspor,Erzurumspor,1,0,H,0,0,D
+57,T1,30/09/00,Kocaelispor,Bursaspor,0,0,D,0,0,D
+58,T1,01/10/00,Adanaspor,Rizespor,1,0,H,1,0,H
+59,T1,01/10/00,Antalyaspor,Fenerbahce,0,1,A,0,0,D
+60,T1,01/10/00,Besiktas,Gaziantepspor,2,4,A,0,1,A
+61,T1,01/10/00,Siirt Jet-PA,Trabzonspor,1,4,A,1,2,A
+62,T1,01/10/00,Yozgatspor,Ankaragucu,0,1,A,0,0,D
+63,T1,13/10/00,Adanaspor,Denizlispor,2,3,A,1,1,D
+64,T1,14/10/00,Bursaspor,Istanbulspor,2,5,A,1,0,H
+65,T1,14/10/00,Gaziantepspor,Yozgatspor,3,1,H,0,0,D
+66,T1,14/10/00,Galatasaray,Siirt Jet-PA,4,1,H,3,0,H
+67,T1,14/10/00,Trabzonspor,Besiktas,2,0,H,2,0,H
+68,T1,15/10/00,Ankaragucu,Antalyaspor,1,1,D,0,0,D
+69,T1,15/10/00,Erzurumspor,Genclerbirligi,1,2,A,0,0,D
+70,T1,15/10/00,Fenerbahce,Rizespor,1,0,H,0,0,D
+71,T1,15/10/00,Samsunspor,Kocaelispor,0,1,A,0,0,D
+72,T1,19/10/00,Antalyaspor,Gaziantepspor,2,2,D,2,2,D
+73,T1,20/10/00,Adanaspor,Fenerbahce,1,1,D,0,1,A
+74,T1,21/10/00,Besiktas,Galatasaray,3,1,H,1,1,D
+75,T1,21/10/00,Denizlispor,Kocaelispor,2,1,H,2,1,H
+76,T1,21/10/00,Genclerbirligi,Bursaspor,0,1,A,0,0,D
+77,T1,21/10/00,Istanbulspor,Samsunspor,0,0,D,0,0,D
+78,T1,21/10/00,Rizespor,Ankaragucu,1,1,D,0,1,A
+79,T1,21/10/00,Siirt Jet-PA,Erzurumspor,1,1,D,1,1,D
+80,T1,21/10/00,Yozgatspor,Trabzonspor,1,1,D,0,1,A
+81,T1,27/10/00,Fenerbahce,Denizlispor,5,2,H,1,1,D
+82,T1,28/10/00,Ankaragucu,Adanaspor,4,0,H,1,0,H
+83,T1,28/10/00,Bursaspor,Siirt Jet-PA,3,2,H,3,1,H
+84,T1,28/10/00,Erzurumspor,Besiktas,1,3,A,1,1,D
+85,T1,28/10/00,Trabzonspor,Antalyaspor,4,0,H,1,0,H
+86,T1,29/10/00,Gaziantepspor,Rizespor,2,1,H,1,1,D
+87,T1,29/10/00,Galatasaray,Yozgatspor,3,0,H,1,0,H
+88,T1,29/10/00,Kocaelispor,Istanbulspor,1,1,D,0,1,A
+89,T1,29/10/00,Samsunspor,Genclerbirligi,1,2,A,0,1,A
+90,T1,03/11/00,Rizespor,Trabzonspor,2,1,H,0,0,D
+91,T1,04/11/00,Besiktas,Bursaspor,2,1,H,1,1,D
+92,T1,04/11/00,Denizlispor,Istanbulspor,0,4,A,0,3,A
+93,T1,04/11/00,Genclerbirligi,Kocaelispor,0,0,D,0,0,D
+94,T1,05/11/00,Adanaspor,Gaziantepspor,0,1,A,0,0,D
+95,T1,05/11/00,Fenerbahce,Ankaragucu,5,1,H,3,0,H
+96,T1,05/11/00,Siirt Jet-PA,Samsunspor,1,2,A,0,0,D
+97,T1,05/11/00,Yozgatspor,Erzurumspor,4,0,H,0,0,D
+98,T1,10/11/00,Gaziantepspor,Fenerbahce,2,1,H,2,0,H
+99,T1,11/11/00,Bursaspor,Yozgatspor,1,4,A,1,1,D
+100,T1,11/11/00,Erzurumspor,Antalyaspor,0,1,A,0,0,D
+101,T1,11/11/00,Galatasaray,Rizespor,2,0,H,1,0,H
+102,T1,11/11/00,Istanbulspor,Genclerbirligi,2,1,H,1,1,D
+103,T1,12/11/00,Ankaragucu,Denizlispor,3,1,H,2,0,H
+104,T1,12/11/00,Kocaelispor,Siirt Jet-PA,1,1,D,1,0,H
+105,T1,12/11/00,Samsunspor,Besiktas,2,3,A,1,2,A
+106,T1,12/11/00,Trabzonspor,Adanaspor,3,3,D,0,1,A
+107,T1,17/11/00,Besiktas,Kocaelispor,3,2,H,2,1,H
+108,T1,18/11/00,Adanaspor,Galatasaray,1,2,A,1,1,D
+109,T1,18/11/00,Ankaragucu,Gaziantepspor,1,1,D,0,1,A
+110,T1,18/11/00,Rizespor,Erzurumspor,4,1,H,3,0,H
+111,T1,18/11/00,Siirt Jet-PA,Istanbulspor,0,2,A,0,0,D
+112,T1,19/11/00,Antalyaspor,Bursaspor,2,1,H,1,1,D
+113,T1,19/11/00,Denizlispor,Genclerbirligi,0,0,D,0,0,D
+114,T1,19/11/00,Fenerbahce,Trabzonspor,5,2,H,3,0,H
+115,T1,19/11/00,Yozgatspor,Samsunspor,0,0,D,0,0,D
+116,T1,24/11/00,Trabzonspor,Ankaragucu,2,2,D,2,0,H
+117,T1,25/11/00,Erzurumspor,Adanaspor,2,0,H,1,0,H
+118,T1,25/11/00,Istanbulspor,Besiktas,2,3,A,1,2,A
+119,T1,25/11/00,Samsunspor,Antalyaspor,4,2,H,0,1,A
+120,T1,26/11/00,Bursaspor,Rizespor,2,1,H,0,0,D
+121,T1,26/11/00,Gaziantepspor,Denizlispor,1,1,D,1,1,D
+122,T1,26/11/00,Genclerbirligi,Siirt Jet-PA,2,0,H,0,0,D
+123,T1,26/11/00,Galatasaray,Fenerbahce,0,0,D,0,0,D
+124,T1,26/11/00,Kocaelispor,Yozgatspor,2,2,D,2,0,H
+125,T1,01/12/00,Ankaragucu,Galatasaray,1,3,A,1,2,A
+126,T1,02/12/00,Antalyaspor,Kocaelispor,2,2,D,1,1,D
+127,T1,02/12/00,Besiktas,Genclerbirligi,0,3,A,0,2,A
+128,T1,02/12/00,Trabzonspor,Gaziantepspor,3,1,H,2,0,H
+129,T1,02/12/00,Yozgatspor,Istanbulspor,3,0,H,1,0,H
+130,T1,03/12/00,Adanaspor,Bursaspor,1,1,D,0,1,A
+131,T1,03/12/00,Fenerbahce,Erzurumspor,4,2,H,2,1,H
+132,T1,03/12/00,Rizespor,Samsunspor,0,1,A,0,0,D
+133,T1,03/12/00,Siirt Jet-PA,Denizlispor,1,1,D,0,0,D
+134,T1,08/12/00,Denizlispor,Trabzonspor,2,0,H,0,0,D
+135,T1,09/12/00,Bursaspor,Fenerbahce,2,2,D,0,1,A
+136,T1,09/12/00,Istanbulspor,Antalyaspor,2,0,H,0,0,D
+137,T1,09/12/00,Kocaelispor,Rizespor,2,1,H,0,1,A
+138,T1,09/12/00,Samsunspor,Adanaspor,3,1,H,1,0,H
+139,T1,10/12/00,Erzurumspor,Ankaragucu,1,1,D,1,1,D
+140,T1,10/12/00,Genclerbirligi,Yozgatspor,2,1,H,1,1,D
+141,T1,10/12/00,Galatasaray,Gaziantepspor,2,0,H,1,0,H
+142,T1,10/12/00,Siirt Jet-PA,Besiktas,1,1,D,0,1,A
+143,T1,15/12/00,Fenerbahce,Samsunspor,2,1,H,2,0,H
+144,T1,16/12/00,Besiktas,Denizlispor,1,1,D,0,0,D
+145,T1,16/12/00,Gaziantepspor,Erzurumspor,6,1,H,2,0,H
+146,T1,16/12/00,Rizespor,Istanbulspor,2,1,H,0,1,A
+147,T1,16/12/00,Yozgatspor,Siirt Jet-PA,2,1,H,0,0,D
+148,T1,17/12/00,Adanaspor,Kocaelispor,4,4,D,2,2,D
+149,T1,17/12/00,Ankaragucu,Bursaspor,1,1,D,1,0,H
+150,T1,17/12/00,Antalyaspor,Genclerbirligi,4,2,H,3,1,H
+151,T1,17/12/00,Trabzonspor,Galatasaray,1,1,D,0,1,A
+152,T1,20/12/00,Antalyaspor,Galatasaray,0,1,A,0,1,A
+153,T1,21/12/00,Trabzonspor,Erzurumspor,3,0,H,1,0,H
+154,T1,22/12/00,Adanaspor,Istanbulspor,2,2,D,1,2,A
+155,T1,22/12/00,Ankaragucu,Samsunspor,2,0,H,1,0,H
+156,T1,22/12/00,Fenerbahce,Kocaelispor,4,0,H,1,0,H
+157,T1,22/12/00,Rizespor,Genclerbirligi,2,0,H,0,0,D
+158,T1,23/12/00,Antalyaspor,Siirt Jet-PA,1,3,A,0,1,A
+159,T1,23/12/00,Gaziantepspor,Bursaspor,2,1,H,0,1,A
+160,T1,23/12/00,Galatasaray,Denizlispor,1,2,A,1,0,H
+161,T1,23/12/00,Yozgatspor,Besiktas,1,1,D,1,0,H
+162,T1,02/02/01,Samsunspor,Gaziantepspor,3,3,D,1,2,A
+163,T1,03/02/01,Besiktas,Antalyaspor,4,2,H,1,1,D
+164,T1,03/02/01,Denizlispor,Yozgatspor,2,0,H,0,0,D
+165,T1,03/02/01,Erzurumspor,Galatasaray,1,2,A,1,1,D
+166,T1,03/02/01,Rizespor,Siirt Jet-PA,3,0,H,1,0,H
+167,T1,04/02/01,Adanaspor,Genclerbirligi,2,3,A,1,2,A
+168,T1,04/02/01,Bursaspor,Trabzonspor,4,2,H,3,2,H
+169,T1,04/02/01,Istanbulspor,Fenerbahce,1,2,A,1,0,H
+170,T1,04/02/01,Kocaelispor,Ankaragucu,4,0,H,1,0,H
+171,T1,09/02/01,Trabzonspor,Samsunspor,3,2,H,2,0,H
+172,T1,10/02/01,Adanaspor,Siirt Jet-PA,0,2,A,0,1,A
+173,T1,10/02/01,Ankaragucu,Istanbulspor,1,1,D,1,1,D
+174,T1,10/02/01,Galatasaray,Bursaspor,2,1,H,1,1,D
+175,T1,11/02/01,Antalyaspor,Yozgatspor,1,1,D,0,0,D
+176,T1,11/02/01,Erzurumspor,Denizlispor,2,2,D,1,1,D
+177,T1,11/02/01,Fenerbahce,Genclerbirligi,3,0,H,1,0,H
+178,T1,11/02/01,Gaziantepspor,Kocaelispor,0,0,D,0,0,D
+179,T1,11/02/01,Rizespor,Besiktas,5,1,H,2,0,H
+180,T1,16/02/01,Istanbulspor,Gaziantepspor,0,1,A,0,1,A
+181,T1,17/02/01,Denizlispor,Antalyaspor,1,1,D,0,0,D
+182,T1,17/02/01,Samsunspor,Galatasaray,1,1,D,0,1,A
+183,T1,17/02/01,Siirt Jet-PA,Fenerbahce,0,4,A,0,2,A
+184,T1,18/02/01,Besiktas,Adanaspor,2,1,H,0,1,A
+185,T1,18/02/01,Bursaspor,Erzurumspor,6,0,H,3,0,H
+186,T1,18/02/01,Genclerbirligi,Ankaragucu,3,4,A,2,3,A
+187,T1,18/02/01,Kocaelispor,Trabzonspor,3,2,H,3,1,H
+188,T1,18/02/01,Rizespor,Yozgatspor,1,0,H,0,0,D
+189,T1,23/02/01,Gaziantepspor,Genclerbirligi,1,0,H,0,0,D
+190,T1,24/02/01,Ankaragucu,Siirt Jet-PA,4,1,H,2,1,H
+191,T1,24/02/01,Fenerbahce,Besiktas,3,1,H,0,0,D
+192,T1,24/02/01,Rizespor,Antalyaspor,0,2,A,0,0,D
+193,T1,25/02/01,Adanaspor,Yozgatspor,3,3,D,1,1,D
+194,T1,25/02/01,Bursaspor,Denizlispor,2,1,H,1,0,H
+195,T1,25/02/01,Erzurumspor,Samsunspor,1,2,A,0,1,A
+196,T1,25/02/01,Galatasaray,Kocaelispor,2,3,A,0,0,D
+197,T1,25/02/01,Trabzonspor,Istanbulspor,1,2,A,0,1,A
+198,T1,02/03/01,Genclerbirligi,Trabzonspor,0,2,A,0,0,D
+199,T1,03/03/01,Antalyaspor,Adanaspor,2,1,H,1,1,D
+200,T1,03/03/01,Samsunspor,Bursaspor,2,0,H,0,0,D
+201,T1,03/03/01,Siirt Jet-PA,Gaziantepspor,1,2,A,0,1,A
+202,T1,03/03/01,Yozgatspor,Fenerbahce,2,3,A,1,1,D
+203,T1,04/03/01,Besiktas,Ankaragucu,4,0,H,2,0,H
+204,T1,04/03/01,Kocaelispor,Erzurumspor,1,0,H,1,0,H
+205,T1,04/03/01,Rizespor,Denizlispor,2,1,H,0,0,D
+206,T1,09/03/01,Gaziantepspor,Besiktas,3,1,H,1,1,D
+207,T1,10/03/01,Bursaspor,Kocaelispor,1,1,D,1,0,H
+208,T1,10/03/01,Erzurumspor,Istanbulspor,1,3,A,0,0,D
+209,T1,10/03/01,Galatasaray,Genclerbirligi,2,1,H,1,1,D
+210,T1,10/03/01,Samsunspor,Denizlispor,2,1,H,1,1,D
+211,T1,11/03/01,Ankaragucu,Yozgatspor,4,0,H,2,0,H
+212,T1,11/03/01,Fenerbahce,Antalyaspor,2,1,H,1,1,D
+213,T1,11/03/01,Rizespor,Adanaspor,4,2,H,1,1,D
+214,T1,11/03/01,Trabzonspor,Siirt Jet-PA,2,4,A,0,3,A
+215,T1,16/03/01,Kocaelispor,Samsunspor,1,0,H,0,0,D
+216,T1,17/03/01,Antalyaspor,Ankaragucu,3,4,A,0,3,A
+217,T1,17/03/01,Genclerbirligi,Erzurumspor,1,2,A,1,1,D
+218,T1,17/03/01,Istanbulspor,Bursaspor,2,4,A,1,1,D
+219,T1,17/03/01,Rizespor,Fenerbahce,1,1,D,1,1,D
+220,T1,18/03/01,Besiktas,Trabzonspor,3,1,H,1,0,H
+221,T1,18/03/01,Denizlispor,Adanaspor,4,2,H,1,2,A
+222,T1,18/03/01,Siirt Jet-PA,Galatasaray,0,1,A,0,0,D
+223,T1,18/03/01,Yozgatspor,Gaziantepspor,1,2,A,1,0,H
+224,T1,30/03/01,Kocaelispor,Denizlispor,4,2,H,2,2,D
+225,T1,31/03/01,Ankaragucu,Rizespor,4,0,H,3,0,H
+226,T1,31/03/01,Bursaspor,Genclerbirligi,2,0,H,1,0,H
+227,T1,31/03/01,Erzurumspor,Siirt Jet-PA,2,1,H,0,0,D
+228,T1,31/03/01,Galatasaray,Besiktas,2,0,H,1,0,H
+229,T1,01/04/01,Fenerbahce,Adanaspor,4,0,H,2,0,H
+230,T1,01/04/01,Gaziantepspor,Antalyaspor,2,0,H,1,0,H
+231,T1,01/04/01,Samsunspor,Istanbulspor,2,3,A,1,2,A
+232,T1,01/04/01,Trabzonspor,Yozgatspor,1,1,D,1,0,H
+233,T1,06/04/01,Rizespor,Gaziantepspor,2,1,H,1,0,H
+234,T1,07/04/01,Adanaspor,Ankaragucu,1,3,A,0,2,A
+235,T1,07/04/01,Antalyaspor,Trabzonspor,2,3,A,2,1,H
+236,T1,07/04/01,Denizlispor,Fenerbahce,2,1,H,2,1,H
+237,T1,07/04/01,Genclerbirligi,Samsunspor,1,0,H,0,0,D
+238,T1,08/04/01,Besiktas,Erzurumspor,2,0,H,2,0,H
+239,T1,08/04/01,Istanbulspor,Kocaelispor,1,1,D,0,0,D
+240,T1,08/04/01,Siirt Jet-PA,Bursaspor,2,5,A,1,3,A
+241,T1,08/04/01,Yozgatspor,Galatasaray,4,2,H,2,0,H
+242,T1,11/04/01,Istanbulspor,Galatasaray,3,5,A,2,4,A
+243,T1,13/04/01,Bursaspor,Besiktas,0,1,A,0,0,D
+244,T1,14/04/01,Galatasaray,Antalyaspor,2,0,H,1,0,H
+245,T1,14/04/01,Istanbulspor,Denizlispor,1,3,A,1,2,A
+246,T1,14/04/01,Samsunspor,Siirt Jet-PA,4,3,H,2,2,D
+247,T1,15/04/01,Ankaragucu,Fenerbahce,2,1,H,1,0,H
+248,T1,15/04/01,Erzurumspor,Yozgatspor,1,2,A,1,0,H
+249,T1,15/04/01,Gaziantepspor,Adanaspor,3,0,H,1,0,H
+250,T1,15/04/01,Kocaelispor,Genclerbirligi,4,1,H,1,0,H
+251,T1,15/04/01,Trabzonspor,Rizespor,2,0,H,0,0,D
+252,T1,20/04/01,Besiktas,Samsunspor,0,0,D,0,0,D
+253,T1,21/04/01,Adanaspor,Trabzonspor,1,7,A,1,3,A
+254,T1,21/04/01,Denizlispor,Ankaragucu,2,0,H,1,0,H
+255,T1,21/04/01,Fenerbahce,Gaziantepspor,4,3,H,0,3,A
+256,T1,22/04/01,Antalyaspor,Erzurumspor,1,0,H,1,0,H
+257,T1,22/04/01,Genclerbirligi,Istanbulspor,3,0,H,0,0,D
+258,T1,22/04/01,Rizespor,Galatasaray,2,4,A,0,2,A
+259,T1,22/04/01,Siirt Jet-PA,Kocaelispor,4,3,H,2,1,H
+260,T1,22/04/01,Yozgatspor,Bursaspor,1,0,H,1,0,H
+261,T1,27/04/01,Gaziantepspor,Ankaragucu,2,1,H,0,0,D
+262,T1,28/04/01,Erzurumspor,Rizespor,0,0,D,0,0,D
+263,T1,28/04/01,Galatasaray,Adanaspor,4,1,H,4,0,H
+264,T1,28/04/01,Istanbulspor,Siirt Jet-PA,2,1,H,0,0,D
+265,T1,28/04/01,Kocaelispor,Besiktas,1,1,D,0,0,D
+266,T1,29/04/01,Bursaspor,Antalyaspor,4,0,H,1,0,H
+267,T1,29/04/01,Genclerbirligi,Denizlispor,2,4,A,0,3,A
+268,T1,29/04/01,Samsunspor,Yozgatspor,0,2,A,0,0,D
+269,T1,29/04/01,Trabzonspor,Fenerbahce,1,0,H,1,0,H
+270,T1,04/05/01,Ankaragucu,Trabzonspor,2,4,A,0,3,A
+271,T1,05/05/01,Adanaspor,Erzurumspor,3,3,D,2,1,H
+272,T1,05/05/01,Antalyaspor,Samsunspor,2,2,D,0,2,A
+273,T1,05/05/01,Besiktas,Istanbulspor,2,0,H,2,0,H
+274,T1,05/05/01,Yozgatspor,Kocaelispor,4,2,H,1,1,D
+275,T1,06/05/01,Denizlispor,Gaziantepspor,2,3,A,0,2,A
+276,T1,06/05/01,Fenerbahce,Galatasaray,2,1,H,1,0,H
+277,T1,06/05/01,Rizespor,Bursaspor,3,1,H,1,0,H
+278,T1,06/05/01,Siirt Jet-PA,Genclerbirligi,3,0,H,0,0,D
+279,T1,12/05/01,Bursaspor,Adanaspor,2,1,H,2,0,H
+280,T1,12/05/01,Denizlispor,Siirt Jet-PA,1,2,A,1,2,A
+281,T1,12/05/01,Istanbulspor,Yozgatspor,0,4,A,0,1,A
+282,T1,12/05/01,Kocaelispor,Antalyaspor,5,0,H,2,0,H
+283,T1,12/05/01,Samsunspor,Rizespor,1,1,D,1,1,D
+284,T1,13/05/01,Erzurumspor,Fenerbahce,1,2,A,1,0,H
+285,T1,13/05/01,Gaziantepspor,Trabzonspor,1,1,D,1,1,D
+286,T1,13/05/01,Genclerbirligi,Besiktas,2,1,H,0,1,A
+287,T1,13/05/01,Galatasaray,Ankaragucu,1,2,A,0,1,A
+288,T1,19/05/01,Adanaspor,Samsunspor,3,5,A,2,1,H
+289,T1,19/05/01,Ankaragucu,Erzurumspor,5,2,H,3,2,H
+290,T1,19/05/01,Antalyaspor,Istanbulspor,2,2,D,1,0,H
+291,T1,19/05/01,Besiktas,Siirt Jet-PA,5,1,H,3,0,H
+292,T1,19/05/01,Rizespor,Kocaelispor,2,1,H,1,0,H
+293,T1,19/05/01,Yozgatspor,Genclerbirligi,1,1,D,1,0,H
+294,T1,20/05/01,Fenerbahce,Bursaspor,2,0,H,0,0,D
+295,T1,20/05/01,Gaziantepspor,Galatasaray,0,2,A,0,1,A
+296,T1,20/05/01,Trabzonspor,Denizlispor,1,0,H,1,0,H
+297,T1,25/05/01,Bursaspor,Ankaragucu,2,3,A,2,0,H
+298,T1,25/05/01,Denizlispor,Besiktas,2,2,D,2,0,H
+299,T1,25/05/01,Erzurumspor,Gaziantepspor,0,2,A,0,1,A
+300,T1,25/05/01,Istanbulspor,Rizespor,1,0,H,1,0,H
+301,T1,26/05/01,Genclerbirligi,Antalyaspor,2,1,H,1,1,D
+302,T1,26/05/01,Galatasaray,Trabzonspor,4,0,H,3,0,H
+303,T1,26/05/01,Kocaelispor,Adanaspor,4,3,H,3,3,D
+304,T1,26/05/01,Samsunspor,Fenerbahce,1,3,A,1,1,D
+305,T1,26/05/01,Siirt Jet-PA,Yozgatspor,1,3,A,1,0,H

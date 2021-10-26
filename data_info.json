@@ -1,0 +1,190 @@
+{
+    "columns": [
+        {
+            "name": "Div",
+            "description": "League Division",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "Date",
+            "description": "Match Date (dd/mm/yy)",
+            "relevant": true,
+            "required": true
+        },
+        {
+            "name": "Time",
+            "description": "Time of match kick off",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HomeTeam",
+            "description": "Home Team",
+            "relevant": true,
+            "required": true
+        },
+        {
+            "name": "AwayTeam",
+            "description": "Away Team",
+            "relevant": true,
+            "required": true
+        },
+        {
+            "name": "FTHG",
+            "description": "Full Time Home Team Goals",
+            "relevant": true,
+            "required": true
+        },
+        {
+            "name": "FTAG",
+            "description": "Full Time Away Team Goals",
+            "relevant": true,
+            "required": true
+        },
+        {
+            "name": "FTR",
+            "description": "Full Time Result (H=Home Win, D=Draw, A=Away Win)",
+            "relevant": true,
+            "required": true
+        },
+        {
+            "name": "HTHG",
+            "description": "Half Time Home Team Goals",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HTAG",
+            "description": "Half Time Away Team Goals",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HTR",
+            "description": "Half Time Result (H=Home Win, D=Draw, A=Away Win)",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "Attendance",
+            "description": "Crowd Attendance",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "Referee",
+            "description": "Match Referee",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HS",
+            "description": "Home Team Shots",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AS",
+            "description": "Away Team Shots",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HST",
+            "description": "Home Team Shots on Target",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AST",
+            "description": "Away Team Shots on Target",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HHW",
+            "description": "Home Team Hit Woodwork",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AHW",
+            "description": "Away Team Hit Woodwork",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HC",
+            "description": "Home Team Corners",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AC",
+            "description": "Away Team Corners",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HF",
+            "description": "Home Team Fouls Committed",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AF",
+            "description": "Away Team Fouls Committed",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HFKC",
+            "description": "Home Team Free Kicks Conceded",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AFKC",
+            "description": "Away Team Free Kicks Conceded",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HO",
+            "description": "Home Team Offsides",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AO",
+            "description": "Away Team Offsides",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HY",
+            "description": "Home Team Yellow Cards",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AY",
+            "description": "Away Team Yellow Cards",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "HR",
+            "description": "Home Team Red Cards",
+            "relevant": true,
+            "required": false
+        },
+        {
+            "name": "AR",
+            "description": "Away Team Red Cards",
+            "relevant": true,
+            "required": false
+        }
+    ]
+}

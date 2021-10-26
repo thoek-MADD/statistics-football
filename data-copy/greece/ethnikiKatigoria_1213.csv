@@ -1,0 +1,242 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,G1,25/08/12,AEK,Asteras Tripolis,0.0,1.0,A,0.0,0.0,D
+1,G1,25/08/12,Giannina,Platanias,0.0,0.0,D,0.0,0.0,D
+2,G1,25/08/12,Levadeiakos,Panathinaikos,0.0,1.0,A,0.0,1.0,A
+3,G1,26/08/12,Kerkyra,Atromitos,0.0,2.0,A,0.0,2.0,A
+4,G1,26/08/12,OFI,Xanthi,0.0,0.0,D,0.0,0.0,D
+5,G1,26/08/12,PAOK,Panthrakikos,1.0,0.0,H,0.0,0.0,D
+6,G1,26/08/12,Veria,Olympiakos,1.0,2.0,A,1.0,2.0,A
+7,G1,27/08/12,Panionios,Aris,1.0,0.0,H,1.0,0.0,H
+8,G1,31/08/12,Panathinaikos,Giannina,1.0,1.0,D,1.0,1.0,D
+9,G1,01/09/12,Platanias,Panthrakikos,2.0,0.0,H,2.0,0.0,H
+10,G1,01/09/12,Veria,Panionios,0.0,1.0,A,0.0,0.0,D
+11,G1,01/09/12,Xanthi,AEK,1.0,0.0,H,0.0,0.0,D
+12,G1,02/09/12,Aris,OFI,0.0,0.0,D,0.0,0.0,D
+13,G1,02/09/12,Asteras Tripolis,Kerkyra,3.0,0.0,H,0.0,0.0,D
+14,G1,02/09/12,Olympiakos,Levadeiakos,4.0,0.0,H,2.0,0.0,H
+15,G1,03/09/12,Atromitos,PAOK,1.0,0.0,H,0.0,0.0,D
+16,G1,15/09/12,Giannina,Olympiakos,1.0,2.0,A,0.0,0.0,D
+17,G1,15/09/12,Levadeiakos,Veria,0.0,0.0,D,0.0,0.0,D
+18,G1,15/09/12,Panthrakikos,Panathinaikos,1.0,0.0,H,0.0,0.0,D
+19,G1,16/09/12,AEK,Aris,1.0,1.0,D,0.0,0.0,D
+20,G1,16/09/12,Kerkyra,Xanthi,1.0,1.0,D,0.0,0.0,D
+21,G1,16/09/12,PAOK,Asteras Tripolis,2.0,1.0,H,0.0,1.0,A
+22,G1,16/09/12,Platanias,Atromitos,0.0,0.0,D,0.0,0.0,D
+23,G1,17/09/12,Panionios,OFI,2.0,1.0,H,1.0,0.0,H
+24,G1,22/09/12,Asteras Tripolis,Platanias,2.0,1.0,H,1.0,0.0,H
+25,G1,22/09/12,Levadeiakos,Panionios,3.0,0.0,H,3.0,0.0,H
+26,G1,22/09/12,Xanthi,PAOK,0.0,3.0,A,0.0,1.0,A
+27,G1,23/09/12,Aris,Kerkyra,1.0,0.0,H,0.0,0.0,D
+28,G1,23/09/12,OFI,AEK,2.0,1.0,H,2.0,1.0,H
+29,G1,23/09/12,Olympiakos,Panthrakikos,4.0,1.0,H,3.0,0.0,H
+30,G1,23/09/12,Veria,Giannina,1.0,0.0,H,0.0,0.0,D
+31,G1,24/09/12,Panathinaikos,Atromitos,1.0,1.0,D,1.0,0.0,H
+32,G1,29/09/12,Atromitos,Olympiakos,0.0,1.0,A,0.0,1.0,A
+33,G1,29/09/12,Kerkyra,OFI,2.0,1.0,H,2.0,0.0,H
+34,G1,29/09/12,Panionios,AEK,1.0,0.0,H,1.0,0.0,H
+35,G1,30/09/12,Panathinaikos,Asteras Tripolis,0.0,0.0,D,0.0,0.0,D
+36,G1,30/09/12,Panthrakikos,Veria,0.0,1.0,A,0.0,0.0,D
+37,G1,30/09/12,PAOK,Aris,4.0,1.0,H,4.0,1.0,H
+38,G1,30/09/12,Platanias,Xanthi,3.0,2.0,H,0.0,1.0,A
+39,G1,01/10/12,Giannina,Levadeiakos,1.0,0.0,H,0.0,0.0,D
+40,G1,06/10/12,AEK,Kerkyra,1.0,1.0,D,0.0,1.0,A
+41,G1,06/10/12,OFI,PAOK,1.0,1.0,D,1.0,1.0,D
+42,G1,06/10/12,Veria,Atromitos,2.0,2.0,D,0.0,2.0,A
+43,G1,07/10/12,Aris,Platanias,0.0,2.0,A,0.0,1.0,A
+44,G1,07/10/12,Giannina,Panionios,1.0,2.0,A,1.0,1.0,D
+45,G1,07/10/12,Olympiakos,Asteras Tripolis,1.0,0.0,H,1.0,0.0,H
+46,G1,07/10/12,Xanthi,Panathinaikos,1.0,2.0,A,1.0,2.0,A
+47,G1,08/10/12,Levadeiakos,Panthrakikos,0.0,3.0,A,0.0,2.0,A
+48,G1,20/10/12,Olympiakos,Xanthi,4.0,0.0,H,1.0,0.0,H
+49,G1,20/10/12,Panionios,Kerkyra,0.0,1.0,A,0.0,0.0,D
+50,G1,20/10/12,PAOK,AEK,1.0,0.0,H,0.0,0.0,D
+51,G1,21/10/12,Asteras Tripolis,Veria,3.0,0.0,H,0.0,0.0,D
+52,G1,21/10/12,Atromitos,Levadeiakos,0.0,0.0,D,0.0,0.0,D
+53,G1,21/10/12,Panathinaikos,Aris,1.0,1.0,D,0.0,0.0,D
+54,G1,21/10/12,Panthrakikos,Giannina,0.0,3.0,A,0.0,2.0,A
+55,G1,22/10/12,Platanias,OFI,1.0,2.0,A,0.0,1.0,A
+56,G1,27/10/12,Kerkyra,PAOK,0.0,0.0,D,0.0,0.0,D
+57,G1,27/10/12,Levadeiakos,Asteras Tripolis,0.0,0.0,D,0.0,0.0,D
+58,G1,27/10/12,Panthrakikos,Panionios,1.0,2.0,A,0.0,1.0,A
+59,G1,28/10/12,AEK,Platanias,1.0,0.0,H,0.0,0.0,D
+60,G1,28/10/12,Giannina,Atromitos,0.0,0.0,D,0.0,0.0,D
+61,G1,28/10/12,Veria,Xanthi,0.0,0.0,D,0.0,0.0,D
+62,G1,29/10/12,Aris,Olympiakos,2.0,2.0,D,1.0,1.0,D
+63,G1,29/10/12,OFI,Panathinaikos,2.0,2.0,D,1.0,2.0,A
+64,G1,03/11/12,Atromitos,Panthrakikos,2.0,1.0,H,1.0,1.0,D
+65,G1,03/11/12,Olympiakos,OFI,2.0,0.0,H,1.0,0.0,H
+66,G1,03/11/12,Platanias,Kerkyra,1.0,1.0,D,1.0,0.0,H
+67,G1,04/11/12,Asteras Tripolis,Giannina,2.0,0.0,H,1.0,0.0,H
+68,G1,04/11/12,Panathinaikos,AEK,1.0,0.0,H,1.0,0.0,H
+69,G1,04/11/12,Panionios,PAOK,1.0,2.0,A,0.0,2.0,A
+70,G1,04/11/12,Xanthi,Levadeiakos,1.0,0.0,H,0.0,0.0,D
+71,G1,05/11/12,Aris,Veria,2.0,1.0,H,0.0,1.0,A
+72,G1,10/11/12,Giannina,Xanthi,1.0,0.0,H,1.0,0.0,H
+73,G1,10/11/12,Levadeiakos,Aris,2.0,1.0,H,2.0,1.0,H
+74,G1,10/11/12,OFI,Veria,2.0,0.0,H,1.0,0.0,H
+75,G1,11/11/12,AEK,Olympiakos,0.0,4.0,A,0.0,1.0,A
+76,G1,11/11/12,Atromitos,Panionios,1.0,0.0,H,1.0,0.0,H
+77,G1,11/11/12,Panthrakikos,Asteras Tripolis,1.0,0.0,H,1.0,0.0,H
+78,G1,11/11/12,PAOK,Platanias,2.0,0.0,H,0.0,0.0,D
+79,G1,12/11/12,Kerkyra,Panathinaikos,0.0,0.0,D,0.0,0.0,D
+80,G1,17/11/12,Aris,Giannina,1.0,2.0,A,0.0,2.0,A
+81,G1,17/11/12,Olympiakos,Kerkyra,2.0,0.0,H,1.0,0.0,H
+82,G1,17/11/12,Panionios,Platanias,4.0,0.0,H,3.0,0.0,H
+83,G1,18/11/12,OFI,Levadeiakos,0.0,2.0,A,0.0,1.0,A
+84,G1,18/11/12,Panathinaikos,PAOK,2.0,0.0,H,0.0,0.0,D
+85,G1,18/11/12,Veria,AEK,0.0,4.0,A,0.0,2.0,A
+86,G1,18/11/12,Xanthi,Panthrakikos,0.0,0.0,D,0.0,0.0,D
+87,G1,19/11/12,Asteras Tripolis,Atromitos,3.0,0.0,H,2.0,0.0,H
+88,G1,24/11/12,AEK,Levadeiakos,0.0,1.0,A,0.0,0.0,D
+89,G1,24/11/12,Atromitos,Xanthi,1.0,0.0,H,0.0,0.0,D
+90,G1,24/11/12,Giannina,OFI,1.0,0.0,H,1.0,0.0,H
+91,G1,25/11/12,Asteras Tripolis,Panionios,2.0,1.0,H,2.0,0.0,H
+92,G1,25/11/12,Kerkyra,Veria,1.0,1.0,D,1.0,0.0,H
+93,G1,25/11/12,PAOK,Olympiakos,1.0,1.0,D,0.0,1.0,A
+94,G1,25/11/12,Platanias,Panathinaikos,2.0,1.0,H,1.0,0.0,H
+95,G1,26/11/12,Panthrakikos,Aris,4.0,0.0,H,2.0,0.0,H
+96,G1,01/12/12,Aris,Atromitos,1.0,1.0,D,1.0,0.0,H
+97,G1,01/12/12,Olympiakos,Platanias,2.0,1.0,H,2.0,1.0,H
+98,G1,01/12/12,Xanthi,Asteras Tripolis,1.0,1.0,D,1.0,0.0,H
+99,G1,02/12/12,Levadeiakos,Kerkyra,2.0,0.0,H,0.0,0.0,D
+100,G1,02/12/12,OFI,Panthrakikos,1.0,1.0,D,0.0,0.0,D
+101,G1,02/12/12,Panionios,Panathinaikos,1.0,2.0,A,0.0,2.0,A
+102,G1,02/12/12,Veria,PAOK,0.0,0.0,D,0.0,0.0,D
+103,G1,03/12/12,AEK,Giannina,2.0,1.0,H,1.0,1.0,D
+104,G1,08/12/12,Atromitos,OFI,3.0,2.0,H,1.0,1.0,D
+105,G1,08/12/12,Kerkyra,Giannina,0.0,2.0,A,0.0,0.0,D
+106,G1,08/12/12,PAOK,Levadeiakos,1.0,0.0,H,0.0,0.0,D
+107,G1,09/12/12,Asteras Tripolis,Aris,1.0,1.0,D,0.0,1.0,A
+108,G1,09/12/12,Panathinaikos,Olympiakos,2.0,2.0,D,1.0,2.0,A
+109,G1,09/12/12,Platanias,Veria,0.0,0.0,D,0.0,0.0,D
+110,G1,09/12/12,Xanthi,Panionios,4.0,0.0,H,3.0,0.0,H
+111,G1,10/12/12,Panthrakikos,AEK,1.0,0.0,H,0.0,0.0,D
+112,G1,15/12/12,Kerkyra,Panthrakikos,0.0,2.0,A,0.0,1.0,A
+113,G1,15/12/12,OFI,Asteras Tripolis,2.0,0.0,H,1.0,0.0,H
+114,G1,15/12/12,Panionios,Olympiakos,1.0,2.0,A,1.0,1.0,D
+115,G1,16/12/12,AEK,Atromitos,1.0,1.0,D,0.0,0.0,D
+116,G1,16/12/12,Aris,Xanthi,0.0,0.0,D,0.0,0.0,D
+117,G1,16/12/12,Levadeiakos,Platanias,1.0,0.0,H,1.0,0.0,H
+118,G1,16/12/12,Veria,Panathinaikos,3.0,0.0,H,2.0,0.0,H
+119,G1,17/12/12,Giannina,PAOK,1.0,3.0,A,0.0,2.0,A
+120,G1,05/01/13,Asteras Tripolis,AEK,3.0,1.0,H,1.0,1.0,D
+121,G1,05/01/13,Panathinaikos,Levadeiakos,1.0,2.0,A,1.0,1.0,D
+122,G1,05/01/13,Platanias,Giannina,1.0,1.0,D,1.0,1.0,D
+123,G1,06/01/13,Aris,Panionios,2.0,1.0,H,1.0,1.0,D
+124,G1,06/01/13,Atromitos,Kerkyra,2.0,0.0,H,2.0,0.0,H
+125,G1,06/01/13,Olympiakos,Veria,3.0,0.0,H,0.0,0.0,D
+126,G1,06/01/13,Panthrakikos,PAOK,1.0,4.0,A,1.0,0.0,H
+127,G1,07/01/13,Xanthi,OFI,3.0,0.0,H,2.0,0.0,H
+128,G1,12/01/13,AEK,Xanthi,1.0,0.0,H,0.0,0.0,D
+129,G1,12/01/13,Levadeiakos,Olympiakos,0.0,1.0,A,0.0,0.0,D
+130,G1,12/01/13,Panthrakikos,Platanias,1.0,1.0,D,0.0,0.0,D
+131,G1,13/01/13,Giannina,Panathinaikos,0.0,0.0,D,0.0,0.0,D
+132,G1,13/01/13,OFI,Aris,2.0,0.0,H,1.0,0.0,H
+133,G1,13/01/13,Panionios,Veria,1.0,1.0,D,0.0,0.0,D
+134,G1,13/01/13,PAOK,Atromitos,0.0,0.0,D,0.0,0.0,D
+135,G1,14/01/13,Kerkyra,Asteras Tripolis,0.0,1.0,A,0.0,1.0,A
+136,G1,19/01/13,Asteras Tripolis,PAOK,1.0,0.0,H,1.0,0.0,H
+137,G1,19/01/13,OFI,Panionios,2.0,1.0,H,1.0,0.0,H
+138,G1,19/01/13,Panathinaikos,Panthrakikos,1.0,1.0,D,0.0,0.0,D
+139,G1,20/01/13,Aris,AEK,1.0,1.0,D,0.0,0.0,D
+140,G1,20/01/13,Atromitos,Platanias,1.0,0.0,H,1.0,0.0,H
+141,G1,20/01/13,Olympiakos,Giannina,2.0,0.0,H,1.0,0.0,H
+142,G1,20/01/13,Xanthi,Kerkyra,0.0,0.0,D,0.0,0.0,D
+143,G1,21/01/13,Veria,Levadeiakos,1.0,2.0,A,0.0,1.0,A
+144,G1,26/01/13,AEK,OFI,2.0,1.0,H,0.0,1.0,A
+145,G1,26/01/13,Panionios,Levadeiakos,2.0,1.0,H,1.0,1.0,D
+146,G1,27/01/13,Atromitos,Panathinaikos,1.0,2.0,A,0.0,0.0,D
+147,G1,27/01/13,Giannina,Veria,2.0,0.0,H,1.0,0.0,H
+148,G1,27/01/13,Panthrakikos,Olympiakos,0.0,1.0,A,0.0,0.0,D
+149,G1,27/01/13,PAOK,Xanthi,0.0,1.0,A,0.0,1.0,A
+150,G1,27/01/13,Platanias,Asteras Tripolis,0.0,3.0,A,0.0,3.0,A
+151,G1,28/01/13,Kerkyra,Aris,2.0,2.0,D,1.0,1.0,D
+152,G1,02/02/13,AEK,Panionios,1.0,0.0,H,1.0,0.0,H
+153,G1,02/02/13,Asteras Tripolis,Panathinaikos,2.0,2.0,D,1.0,1.0,D
+154,G1,02/02/13,Xanthi,Platanias,2.0,0.0,H,0.0,0.0,D
+155,G1,03/02/13,Aris,PAOK,2.0,2.0,D,1.0,2.0,A
+156,G1,03/02/13,OFI,Kerkyra,2.0,0.0,H,2.0,0.0,H
+157,G1,03/02/13,Olympiakos,Atromitos,2.0,3.0,A,2.0,1.0,H
+158,G1,03/02/13,Veria,Panthrakikos,2.0,0.0,H,1.0,0.0,H
+159,G1,04/02/13,Levadeiakos,Giannina,1.0,1.0,D,0.0,0.0,D
+160,G1,09/02/13,Asteras Tripolis,Olympiakos,0.0,1.0,A,0.0,0.0,D
+161,G1,09/02/13,Atromitos,Veria,0.0,0.0,D,0.0,0.0,D
+162,G1,09/02/13,PAOK,OFI,3.0,1.0,H,2.0,1.0,H
+163,G1,10/02/13,Kerkyra,AEK,0.0,1.0,A,0.0,1.0,A
+164,G1,10/02/13,Panathinaikos,Xanthi,0.0,1.0,A,0.0,1.0,A
+165,G1,10/02/13,Panionios,Giannina,0.0,1.0,A,0.0,1.0,A
+166,G1,10/02/13,Panthrakikos,Levadeiakos,3.0,0.0,H,1.0,0.0,H
+167,G1,11/02/13,Platanias,Aris,2.0,0.0,H,1.0,0.0,H
+168,G1,16/02/13,AEK,PAOK,0.0,0.0,D,0.0,0.0,D
+169,G1,16/02/13,Giannina,Panthrakikos,0.0,0.0,D,0.0,0.0,D
+170,G1,16/02/13,Kerkyra,Panionios,2.0,1.0,H,1.0,1.0,D
+171,G1,17/02/13,Aris,Panathinaikos,1.0,0.0,H,0.0,0.0,D
+172,G1,17/02/13,Levadeiakos,Atromitos,0.0,0.0,D,0.0,0.0,D
+173,G1,17/02/13,Veria,Asteras Tripolis,1.0,2.0,A,0.0,1.0,A
+174,G1,17/02/13,Xanthi,Olympiakos,0.0,2.0,A,0.0,1.0,A
+175,G1,18/02/13,OFI,Platanias,1.0,3.0,A,0.0,2.0,A
+176,G1,23/02/13,Panathinaikos,OFI,3.0,1.0,H,2.0,1.0,H
+177,G1,23/02/13,PAOK,Kerkyra,3.0,1.0,H,3.0,0.0,H
+178,G1,23/02/13,Xanthi,Veria,0.0,2.0,A,0.0,0.0,D
+179,G1,24/02/13,Asteras Tripolis,Levadeiakos,1.0,0.0,H,0.0,0.0,D
+180,G1,24/02/13,Atromitos,Giannina,0.0,0.0,D,0.0,0.0,D
+181,G1,24/02/13,Olympiakos,Aris,2.0,1.0,H,2.0,0.0,H
+182,G1,24/02/13,Panionios,Panthrakikos,2.0,0.0,H,2.0,0.0,H
+183,G1,24/02/13,Platanias,AEK,2.0,1.0,H,1.0,1.0,D
+184,G1,02/03/13,Kerkyra,Platanias,2.0,1.0,H,2.0,0.0,H
+185,G1,02/03/13,OFI,Olympiakos,0.0,4.0,A,0.0,1.0,A
+186,G1,02/03/13,Panthrakikos,Atromitos,0.0,1.0,A,0.0,1.0,A
+187,G1,03/03/13,AEK,Panathinaikos,0.0,2.0,A,0.0,0.0,D
+188,G1,03/03/13,Giannina,Asteras Tripolis,1.0,2.0,A,1.0,1.0,D
+189,G1,03/03/13,Levadeiakos,Xanthi,1.0,4.0,A,0.0,2.0,A
+190,G1,03/03/13,PAOK,Panionios,4.0,2.0,H,1.0,1.0,D
+191,G1,04/03/13,Veria,Aris,3.0,1.0,H,0.0,0.0,D
+192,G1,09/03/13,Asteras Tripolis,Panthrakikos,1.0,0.0,H,0.0,0.0,D
+193,G1,09/03/13,Panathinaikos,Kerkyra,1.0,0.0,H,0.0,0.0,D
+194,G1,09/03/13,Platanias,PAOK,1.0,2.0,A,1.0,2.0,A
+195,G1,10/03/13,Aris,Levadeiakos,4.0,0.0,H,1.0,0.0,H
+196,G1,10/03/13,Olympiakos,AEK,3.0,0.0,H,1.0,0.0,H
+197,G1,10/03/13,Veria,OFI,0.0,0.0,D,0.0,0.0,D
+198,G1,10/03/13,Xanthi,Giannina,0.0,1.0,A,0.0,0.0,D
+199,G1,11/03/13,Panionios,Atromitos,1.0,0.0,H,0.0,0.0,D
+200,G1,16/03/13,AEK,Veria,2.0,1.0,H,1.0,0.0,H
+201,G1,16/03/13,Giannina,Aris,2.0,0.0,H,1.0,0.0,H
+202,G1,16/03/13,Levadeiakos,OFI,1.0,1.0,D,1.0,1.0,D
+203,G1,17/03/13,Atromitos,Asteras Tripolis,0.0,2.0,A,0.0,1.0,A
+204,G1,17/03/13,Kerkyra,Olympiakos,0.0,1.0,A,0.0,0.0,D
+205,G1,17/03/13,PAOK,Panathinaikos,2.0,0.0,H,0.0,0.0,D
+206,G1,17/03/13,Platanias,Panionios,2.0,1.0,H,1.0,0.0,H
+207,G1,18/03/13,Panthrakikos,Xanthi,0.0,2.0,A,0.0,1.0,A
+208,G1,30/03/13,Aris,Panthrakikos,0.0,0.0,D,0.0,0.0,D
+209,G1,30/03/13,OFI,Giannina,2.0,1.0,H,1.0,0.0,H
+210,G1,30/03/13,Panathinaikos,Platanias,0.0,1.0,A,0.0,1.0,A
+211,G1,31/03/13,Levadeiakos,AEK,0.0,0.0,D,0.0,0.0,D
+212,G1,31/03/13,Olympiakos,PAOK,0.0,0.0,D,0.0,0.0,D
+213,G1,31/03/13,Veria,Kerkyra,2.0,0.0,H,0.0,0.0,D
+214,G1,31/03/13,Xanthi,Atromitos,0.0,0.0,D,0.0,0.0,D
+215,G1,01/04/13,Panionios,Asteras Tripolis,2.0,1.0,H,1.0,0.0,H
+216,G1,06/04/13,Atromitos,Aris,0.0,1.0,A,0.0,0.0,D
+217,G1,06/04/13,Kerkyra,Levadeiakos,1.0,2.0,A,1.0,1.0,D
+218,G1,06/04/13,PAOK,Veria,2.0,0.0,H,1.0,0.0,H
+219,G1,07/04/13,Asteras Tripolis,Xanthi,0.0,1.0,A,0.0,1.0,A
+220,G1,07/04/13,Panathinaikos,Panionios,0.0,0.0,D,0.0,0.0,D
+221,G1,07/04/13,Panthrakikos,OFI,3.0,1.0,H,2.0,1.0,H
+222,G1,07/04/13,Platanias,Olympiakos,0.0,4.0,A,0.0,1.0,A
+223,G1,08/04/13,Giannina,AEK,2.0,0.0,H,2.0,0.0,H
+224,G1,14/04/13,AEK,Panthrakikos,0.0,3.0,A,,,
+225,G1,14/04/13,Aris,Asteras Tripolis,5.0,1.0,H,2.0,0.0,H
+226,G1,14/04/13,Giannina,Kerkyra,1.0,0.0,H,0.0,0.0,D
+227,G1,14/04/13,Levadeiakos,PAOK,0.0,1.0,A,0.0,0.0,D
+228,G1,14/04/13,OFI,Atromitos,2.0,2.0,D,0.0,1.0,A
+229,G1,14/04/13,Olympiakos,Panathinaikos,1.0,1.0,D,0.0,0.0,D
+230,G1,14/04/13,Panionios,Xanthi,3.0,3.0,D,1.0,1.0,D
+231,G1,14/04/13,Veria,Platanias,5.0,0.0,H,2.0,0.0,H
+232,G1,21/04/13,Asteras Tripolis,OFI,2.0,1.0,H,0.0,1.0,A
+233,G1,21/04/13,Atromitos,AEK,1.0,0.0,H,0.0,0.0,D
+234,G1,21/04/13,Olympiakos,Panionios,2.0,1.0,H,1.0,1.0,D
+235,G1,21/04/13,Panathinaikos,Veria,3.0,2.0,H,2.0,0.0,H
+236,G1,21/04/13,Panthrakikos,Kerkyra,2.0,1.0,H,1.0,0.0,H
+237,G1,21/04/13,PAOK,Giannina,2.0,0.0,H,0.0,0.0,D
+238,G1,21/04/13,Platanias,Levadeiakos,2.0,0.0,H,1.0,0.0,H
+239,G1,21/04/13,Xanthi,Aris,0.0,0.0,D,0.0,0.0,D
+240,,,,,,,,,,

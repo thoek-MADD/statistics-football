@@ -1,0 +1,308 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,P1,14/08/15,Tondela,Sp Lisbon,1.0,2.0,A,0.0,1.0,A
+1,P1,15/08/15,Belenenses,Rio Ave,3.0,3.0,D,1.0,1.0,D
+2,P1,15/08/15,Porto,Guimaraes,3.0,0.0,H,1.0,0.0,H
+3,P1,16/08/15,Benfica,Estoril,4.0,0.0,H,0.0,0.0,D
+4,P1,16/08/15,Moreirense,Arouca,0.0,2.0,A,0.0,0.0,D
+5,P1,16/08/15,Setubal,Boavista,2.0,2.0,D,2.0,0.0,H
+6,P1,16/08/15,Sp Braga,Nacional,2.0,1.0,H,1.0,1.0,D
+7,P1,16/08/15,Uniao Madeira,Maritimo,2.0,1.0,H,1.0,0.0,H
+8,P1,17/08/15,Pacos Ferreira,Academica,1.0,0.0,H,1.0,0.0,H
+9,P1,21/08/15,Rio Ave,Sp Braga,1.0,0.0,H,1.0,0.0,H
+10,P1,22/08/15,Maritimo,Porto,1.0,1.0,D,1.0,1.0,D
+11,P1,22/08/15,Sp Lisbon,Pacos Ferreira,1.0,1.0,D,1.0,0.0,H
+12,P1,23/08/15,Arouca,Benfica,1.0,0.0,H,1.0,0.0,H
+13,P1,23/08/15,Boavista,Tondela,1.0,0.0,H,0.0,0.0,D
+14,P1,23/08/15,Estoril,Moreirense,2.0,0.0,H,0.0,0.0,D
+15,P1,23/08/15,Guimaraes,Belenenses,1.0,1.0,D,1.0,0.0,H
+16,P1,23/08/15,Nacional,Uniao Madeira,1.0,0.0,H,1.0,0.0,H
+17,P1,24/08/15,Academica,Setubal,0.0,4.0,A,0.0,1.0,A
+18,P1,29/08/15,Benfica,Moreirense,3.0,2.0,H,0.0,1.0,A
+19,P1,29/08/15,Porto,Estoril,2.0,0.0,H,1.0,0.0,H
+20,P1,29/08/15,Setubal,Rio Ave,2.0,2.0,D,0.0,0.0,D
+21,P1,30/08/15,Academica,Sp Lisbon,1.0,3.0,A,1.0,2.0,A
+22,P1,30/08/15,Pacos Ferreira,Arouca,1.0,1.0,D,1.0,1.0,D
+23,P1,30/08/15,Sp Braga,Boavista,4.0,0.0,H,1.0,0.0,H
+24,P1,30/08/15,Tondela,Nacional,1.0,0.0,H,0.0,0.0,D
+25,P1,31/08/15,Belenenses,Maritimo,1.0,1.0,D,0.0,1.0,A
+26,P1,31/08/15,Uniao Madeira,Guimaraes,0.0,0.0,D,0.0,0.0,D
+27,P1,11/09/15,Benfica,Belenenses,6.0,0.0,H,3.0,0.0,H
+28,P1,12/09/15,Arouca,Porto,1.0,3.0,A,0.0,1.0,A
+29,P1,12/09/15,Estoril,Sp Braga,1.0,0.0,H,0.0,0.0,D
+30,P1,13/09/15,Guimaraes,Tondela,1.0,0.0,H,1.0,0.0,H
+31,P1,13/09/15,Maritimo,Setubal,5.0,2.0,H,0.0,1.0,A
+32,P1,13/09/15,Moreirense,Uniao Madeira,0.0,0.0,D,0.0,0.0,D
+33,P1,13/09/15,Nacional,Academica,2.0,0.0,H,1.0,0.0,H
+34,P1,13/09/15,Rio Ave,Sp Lisbon,1.0,2.0,A,0.0,2.0,A
+35,P1,14/09/15,Boavista,Pacos Ferreira,0.0,1.0,A,0.0,0.0,D
+36,P1,18/09/15,Setubal,Guimaraes,2.0,2.0,D,1.0,1.0,D
+37,P1,19/09/15,Pacos Ferreira,Rio Ave,0.0,3.0,A,0.0,2.0,A
+38,P1,19/09/15,Tondela,Estoril,0.0,1.0,A,0.0,0.0,D
+39,P1,20/09/15,Academica,Boavista,0.0,2.0,A,0.0,1.0,A
+40,P1,20/09/15,Porto,Benfica,1.0,0.0,H,0.0,0.0,D
+41,P1,20/09/15,Uniao Madeira,Arouca,0.0,0.0,D,0.0,0.0,D
+42,P1,21/09/15,Belenenses,Moreirense,2.0,0.0,H,2.0,0.0,H
+43,P1,21/09/15,Sp Braga,Maritimo,5.0,1.0,H,2.0,1.0,H
+44,P1,21/09/15,Sp Lisbon,Nacional,1.0,0.0,H,0.0,0.0,D
+45,P1,25/09/15,Moreirense,Porto,2.0,2.0,D,0.0,1.0,A
+46,P1,26/09/15,Benfica,Pacos Ferreira,3.0,0.0,H,1.0,0.0,H
+47,P1,26/09/15,Boavista,Sp Lisbon,0.0,0.0,D,0.0,0.0,D
+48,P1,27/09/15,Arouca,Belenenses,2.0,2.0,D,0.0,1.0,A
+49,P1,27/09/15,Estoril,Uniao Madeira,2.0,1.0,H,1.0,0.0,H
+50,P1,27/09/15,Guimaraes,Sp Braga,0.0,1.0,A,0.0,0.0,D
+51,P1,27/09/15,Maritimo,Tondela,1.0,0.0,H,0.0,0.0,D
+52,P1,27/09/15,Nacional,Setubal,1.0,1.0,D,0.0,1.0,A
+53,P1,28/09/15,Rio Ave,Academica,1.0,0.0,H,1.0,0.0,H
+54,P1,02/10/15,Setubal,Estoril,1.0,0.0,H,0.0,0.0,D
+55,P1,03/10/15,Academica,Maritimo,1.0,0.0,H,0.0,0.0,D
+56,P1,03/10/15,Pacos Ferreira,Nacional,3.0,1.0,H,1.0,1.0,D
+57,P1,03/10/15,Rio Ave,Boavista,1.0,0.0,H,0.0,0.0,D
+58,P1,03/10/15,Tondela,Moreirense,1.0,1.0,D,0.0,1.0,A
+59,P1,04/10/15,Porto,Belenenses,4.0,0.0,H,0.0,0.0,D
+60,P1,04/10/15,Sp Braga,Arouca,0.0,0.0,D,0.0,0.0,D
+61,P1,04/10/15,Sp Lisbon,Guimaraes,5.0,1.0,H,2.0,0.0,H
+62,P1,23/10/15,Nacional,Boavista,0.0,0.0,D,0.0,0.0,D
+63,P1,24/10/15,Estoril,Rio Ave,2.0,2.0,D,0.0,1.0,A
+64,P1,24/10/15,Guimaraes,Academica,1.0,1.0,D,1.0,0.0,H
+65,P1,24/10/15,Maritimo,Pacos Ferreira,0.0,2.0,A,0.0,1.0,A
+66,P1,25/10/15,Arouca,Tondela,1.0,1.0,D,0.0,0.0,D
+67,P1,25/10/15,Benfica,Sp Lisbon,0.0,3.0,A,0.0,3.0,A
+68,P1,25/10/15,Moreirense,Setubal,0.0,2.0,A,0.0,1.0,A
+69,P1,25/10/15,Porto,Sp Braga,0.0,0.0,D,0.0,0.0,D
+70,P1,26/10/15,Belenenses,Uniao Madeira,1.0,0.0,H,0.0,0.0,D
+71,P1,30/10/15,Tondela,Benfica,0.0,4.0,A,0.0,3.0,A
+72,P1,31/10/15,Sp Braga,Belenenses,4.0,0.0,H,1.0,0.0,H
+73,P1,31/10/15,Sp Lisbon,Estoril,1.0,0.0,H,0.0,0.0,D
+74,P1,01/11/15,Academica,Moreirense,1.0,1.0,D,1.0,0.0,H
+75,P1,01/11/15,Boavista,Maritimo,0.0,1.0,A,0.0,1.0,A
+76,P1,01/11/15,Rio Ave,Nacional,1.0,0.0,H,0.0,0.0,D
+77,P1,01/11/15,Setubal,Arouca,0.0,0.0,D,0.0,0.0,D
+78,P1,02/11/15,Pacos Ferreira,Guimaraes,0.0,1.0,A,0.0,0.0,D
+79,P1,06/11/15,Estoril,Academica,1.0,1.0,D,1.0,0.0,H
+80,P1,07/11/15,Guimaraes,Nacional,0.0,1.0,A,0.0,1.0,A
+81,P1,08/11/15,Arouca,Sp Lisbon,0.0,1.0,A,0.0,0.0,D
+82,P1,08/11/15,Benfica,Boavista,2.0,0.0,H,1.0,0.0,H
+83,P1,08/11/15,Maritimo,Rio Ave,3.0,2.0,H,2.0,0.0,H
+84,P1,08/11/15,Moreirense,Pacos Ferreira,2.0,0.0,H,1.0,0.0,H
+85,P1,08/11/15,Porto,Setubal,2.0,0.0,H,0.0,0.0,D
+86,P1,09/11/15,Belenenses,Tondela,2.0,1.0,H,1.0,0.0,H
+87,P1,09/11/15,Uniao Madeira,Sp Braga,0.0,1.0,A,0.0,0.0,D
+88,P1,27/11/15,Nacional,Maritimo,3.0,1.0,H,1.0,1.0,D
+89,P1,28/11/15,Boavista,Guimaraes,1.0,2.0,A,1.0,0.0,H
+90,P1,28/11/15,Setubal,Uniao Madeira,2.0,2.0,D,1.0,0.0,H
+91,P1,28/11/15,Tondela,Porto,0.0,1.0,A,0.0,1.0,A
+92,P1,29/11/15,Academica,Arouca,1.0,1.0,D,1.0,1.0,D
+93,P1,29/11/15,Pacos Ferreira,Estoril,2.0,0.0,H,1.0,0.0,H
+94,P1,29/11/15,Rio Ave,Moreirense,0.0,1.0,A,0.0,0.0,D
+95,P1,30/11/15,Sp Braga,Benfica,0.0,2.0,A,0.0,2.0,A
+96,P1,30/11/15,Sp Lisbon,Belenenses,1.0,0.0,H,0.0,0.0,D
+97,P1,02/12/15,Uniao Madeira,Porto,0.0,4.0,A,0.0,3.0,A
+98,P1,04/12/15,Benfica,Academica,3.0,0.0,H,1.0,0.0,H
+99,P1,05/12/15,Belenenses,Setubal,0.0,3.0,A,0.0,2.0,A
+100,P1,05/12/15,Maritimo,Sp Lisbon,0.0,1.0,A,0.0,0.0,D
+101,P1,05/12/15,Porto,Pacos Ferreira,2.0,1.0,H,1.0,1.0,D
+102,P1,06/12/15,Arouca,Boavista,3.0,2.0,H,2.0,2.0,D
+103,P1,06/12/15,Estoril,Nacional,1.0,1.0,D,0.0,0.0,D
+104,P1,06/12/15,Moreirense,Sp Braga,0.0,0.0,D,0.0,0.0,D
+105,P1,06/12/15,Uniao Madeira,Tondela,2.0,0.0,H,1.0,0.0,H
+106,P1,07/12/15,Guimaraes,Rio Ave,3.0,1.0,H,1.0,1.0,D
+107,P1,11/12/15,Boavista,Estoril,1.0,1.0,D,1.0,1.0,D
+108,P1,12/12/15,Guimaraes,Maritimo,3.0,4.0,A,1.0,2.0,A
+109,P1,12/12/15,Pacos Ferreira,Uniao Madeira,6.0,0.0,H,3.0,0.0,H
+110,P1,12/12/15,Rio Ave,Arouca,3.0,1.0,H,1.0,0.0,H
+111,P1,12/12/15,Setubal,Benfica,2.0,4.0,A,0.0,2.0,A
+112,P1,13/12/15,Sp Lisbon,Moreirense,3.0,1.0,H,2.0,0.0,H
+113,P1,13/12/15,Tondela,Sp Braga,0.0,1.0,A,0.0,0.0,D
+114,P1,14/12/15,Academica,Belenenses,4.0,3.0,H,2.0,1.0,H
+115,P1,14/12/15,Nacional,Porto,1.0,2.0,A,1.0,2.0,A
+116,P1,15/12/15,Uniao Madeira,Benfica,0.0,0.0,D,0.0,0.0,D
+117,P1,19/12/15,Arouca,Maritimo,4.0,1.0,H,2.0,0.0,H
+118,P1,19/12/15,Estoril,Guimaraes,0.0,1.0,A,0.0,1.0,A
+119,P1,20/12/15,Benfica,Rio Ave,3.0,1.0,H,1.0,1.0,D
+120,P1,20/12/15,Moreirense,Nacional,2.0,0.0,H,2.0,0.0,H
+121,P1,20/12/15,Porto,Academica,3.0,1.0,H,1.0,0.0,H
+122,P1,20/12/15,Tondela,Setubal,1.0,3.0,A,1.0,3.0,A
+123,P1,20/12/15,Uniao Madeira,Sp Lisbon,1.0,0.0,H,0.0,0.0,D
+124,P1,21/12/15,Belenenses,Boavista,1.0,0.0,H,1.0,0.0,H
+125,P1,21/12/15,Sp Braga,Pacos Ferreira,1.0,1.0,D,1.0,0.0,H
+126,P1,02/01/16,Academica,Uniao Madeira,3.0,1.0,H,1.0,1.0,D
+127,P1,02/01/16,Boavista,Moreirense,0.0,3.0,A,0.0,1.0,A
+128,P1,02/01/16,Guimaraes,Benfica,0.0,1.0,A,0.0,0.0,D
+129,P1,02/01/16,Maritimo,Estoril,1.0,1.0,D,1.0,0.0,H
+130,P1,02/01/16,Nacional,Arouca,2.0,2.0,D,1.0,2.0,A
+131,P1,02/01/16,Pacos Ferreira,Belenenses,2.0,2.0,D,1.0,1.0,D
+132,P1,02/01/16,Setubal,Sp Braga,1.0,1.0,D,1.0,0.0,H
+133,P1,02/01/16,Sp Lisbon,Porto,2.0,0.0,H,1.0,0.0,H
+134,P1,03/01/16,Rio Ave,Tondela,2.0,3.0,A,1.0,0.0,H
+135,P1,06/01/16,Arouca,Estoril,1.0,0.0,H,1.0,0.0,H
+136,P1,06/01/16,Belenenses,Nacional,2.0,2.0,D,0.0,1.0,A
+137,P1,06/01/16,Benfica,Maritimo,6.0,0.0,H,3.0,0.0,H
+138,P1,06/01/16,Moreirense,Guimaraes,3.0,4.0,A,1.0,3.0,A
+139,P1,06/01/16,Porto,Rio Ave,1.0,1.0,D,1.0,1.0,D
+140,P1,06/01/16,Setubal,Sp Lisbon,0.0,6.0,A,0.0,2.0,A
+141,P1,06/01/16,Sp Braga,Academica,3.0,0.0,H,2.0,0.0,H
+142,P1,06/01/16,Tondela,Pacos Ferreira,0.0,2.0,A,0.0,1.0,A
+143,P1,06/01/16,Uniao Madeira,Boavista,1.0,0.0,H,0.0,0.0,D
+144,P1,09/01/16,Guimaraes,Arouca,2.0,2.0,D,2.0,0.0,H
+145,P1,10/01/16,Academica,Tondela,2.0,1.0,H,0.0,1.0,A
+146,P1,10/01/16,Boavista,Porto,0.0,5.0,A,0.0,1.0,A
+147,P1,10/01/16,Estoril,Belenenses,2.0,0.0,H,0.0,0.0,D
+148,P1,10/01/16,Maritimo,Moreirense,5.0,1.0,H,2.0,0.0,H
+149,P1,10/01/16,Rio Ave,Uniao Madeira,1.0,0.0,H,1.0,0.0,H
+150,P1,10/01/16,Sp Lisbon,Sp Braga,3.0,2.0,H,0.0,2.0,A
+151,P1,11/01/16,Nacional,Benfica,1.0,4.0,A,0.0,1.0,A
+152,P1,11/01/16,Pacos Ferreira,Setubal,2.0,1.0,H,1.0,1.0,D
+153,P1,15/01/16,Sp Lisbon,Tondela,2.0,2.0,D,0.0,1.0,A
+154,P1,16/01/16,Academica,Pacos Ferreira,1.0,1.0,D,1.0,1.0,D
+155,P1,16/01/16,Estoril,Benfica,1.0,2.0,A,1.0,0.0,H
+156,P1,16/01/16,Maritimo,Uniao Madeira,0.0,1.0,A,0.0,0.0,D
+157,P1,17/01/16,Arouca,Moreirense,1.0,2.0,A,1.0,1.0,D
+158,P1,17/01/16,Guimaraes,Porto,1.0,0.0,H,1.0,0.0,H
+159,P1,17/01/16,Nacional,Sp Braga,2.0,3.0,A,1.0,1.0,D
+160,P1,17/01/16,Rio Ave,Belenenses,1.0,2.0,A,1.0,2.0,A
+161,P1,18/01/16,Boavista,Setubal,4.0,0.0,H,1.0,0.0,H
+162,P1,22/01/16,Setubal,Academica,2.0,1.0,H,1.0,0.0,H
+163,P1,23/01/16,Benfica,Arouca,3.0,1.0,H,2.0,0.0,H
+164,P1,23/01/16,Moreirense,Estoril,1.0,3.0,A,1.0,2.0,A
+165,P1,23/01/16,Pacos Ferreira,Sp Lisbon,1.0,3.0,A,0.0,1.0,A
+166,P1,23/01/16,Uniao Madeira,Nacional,3.0,0.0,H,2.0,0.0,H
+167,P1,24/01/16,Belenenses,Guimaraes,3.0,3.0,D,2.0,2.0,D
+168,P1,24/01/16,Porto,Maritimo,1.0,0.0,H,1.0,0.0,H
+169,P1,24/01/16,Sp Braga,Rio Ave,5.0,1.0,H,2.0,0.0,H
+170,P1,25/01/16,Tondela,Boavista,1.0,2.0,A,1.0,1.0,D
+171,P1,29/01/16,Guimaraes,Uniao Madeira,3.0,1.0,H,1.0,1.0,D
+172,P1,30/01/16,Estoril,Porto,1.0,3.0,A,1.0,2.0,A
+173,P1,30/01/16,Sp Lisbon,Academica,3.0,2.0,H,2.0,1.0,H
+174,P1,31/01/16,Arouca,Pacos Ferreira,2.0,2.0,D,0.0,1.0,A
+175,P1,31/01/16,Boavista,Sp Braga,0.0,0.0,D,0.0,0.0,D
+176,P1,31/01/16,Moreirense,Benfica,1.0,4.0,A,0.0,2.0,A
+177,P1,31/01/16,Nacional,Tondela,3.0,1.0,H,2.0,0.0,H
+178,P1,31/01/16,Rio Ave,Setubal,2.0,1.0,H,2.0,0.0,H
+179,P1,01/02/16,Maritimo,Belenenses,1.0,2.0,A,0.0,1.0,A
+180,P1,05/02/16,Belenenses,Benfica,0.0,5.0,A,0.0,1.0,A
+181,P1,06/02/16,Setubal,Maritimo,1.0,1.0,D,1.0,0.0,H
+182,P1,06/02/16,Tondela,Guimaraes,1.0,1.0,D,1.0,1.0,D
+183,P1,07/02/16,Academica,Nacional,2.0,2.0,D,1.0,0.0,H
+184,P1,07/02/16,Pacos Ferreira,Boavista,0.0,1.0,A,0.0,0.0,D
+185,P1,07/02/16,Porto,Arouca,1.0,2.0,A,1.0,1.0,D
+186,P1,07/02/16,Uniao Madeira,Moreirense,0.0,1.0,A,0.0,1.0,A
+187,P1,08/02/16,Sp Braga,Estoril,2.0,0.0,H,0.0,0.0,D
+188,P1,08/02/16,Sp Lisbon,Rio Ave,0.0,0.0,D,0.0,0.0,D
+189,P1,12/02/16,Benfica,Porto,1.0,2.0,A,1.0,1.0,D
+190,P1,13/02/16,Guimaraes,Setubal,2.0,2.0,D,1.0,1.0,D
+191,P1,13/02/16,Moreirense,Belenenses,2.0,3.0,A,1.0,2.0,A
+192,P1,13/02/16,Nacional,Sp Lisbon,0.0,4.0,A,0.0,1.0,A
+193,P1,14/02/16,Arouca,Uniao Madeira,3.0,0.0,H,1.0,0.0,H
+194,P1,14/02/16,Boavista,Academica,0.0,0.0,D,0.0,0.0,D
+195,P1,14/02/16,Estoril,Tondela,2.0,1.0,H,1.0,1.0,D
+196,P1,14/02/16,Maritimo,Sp Braga,1.0,3.0,A,1.0,3.0,A
+197,P1,15/02/16,Rio Ave,Pacos Ferreira,1.0,1.0,D,0.0,1.0,A
+198,P1,19/02/16,Uniao Madeira,Estoril,1.0,1.0,D,1.0,0.0,H
+199,P1,20/02/16,Academica,Rio Ave,0.0,2.0,A,0.0,1.0,A
+200,P1,20/02/16,Pacos Ferreira,Benfica,1.0,3.0,A,1.0,2.0,A
+201,P1,21/02/16,Belenenses,Arouca,0.0,2.0,A,0.0,0.0,D
+202,P1,21/02/16,Porto,Moreirense,3.0,2.0,H,1.0,2.0,A
+203,P1,21/02/16,Setubal,Nacional,1.0,1.0,D,0.0,1.0,A
+204,P1,21/02/16,Sp Braga,Guimaraes,3.0,3.0,D,2.0,2.0,D
+205,P1,21/02/16,Tondela,Maritimo,3.0,4.0,A,1.0,2.0,A
+206,P1,22/02/16,Sp Lisbon,Boavista,2.0,0.0,H,2.0,0.0,H
+207,P1,26/02/16,Nacional,Pacos Ferreira,3.0,0.0,H,1.0,0.0,H
+208,P1,27/02/16,Arouca,Sp Braga,0.0,0.0,D,0.0,0.0,D
+209,P1,27/02/16,Boavista,Rio Ave,1.0,2.0,A,0.0,1.0,A
+210,P1,27/02/16,Estoril,Setubal,3.0,0.0,H,2.0,0.0,H
+211,P1,28/02/16,Belenenses,Porto,1.0,2.0,A,0.0,2.0,A
+212,P1,28/02/16,Maritimo,Academica,1.0,0.0,H,0.0,0.0,D
+213,P1,28/02/16,Moreirense,Tondela,1.0,2.0,A,1.0,1.0,D
+214,P1,29/02/16,Benfica,Uniao Madeira,2.0,0.0,H,1.0,0.0,H
+215,P1,29/02/16,Guimaraes,Sp Lisbon,0.0,0.0,D,0.0,0.0,D
+216,P1,04/03/16,Pacos Ferreira,Maritimo,2.0,2.0,D,0.0,0.0,D
+217,P1,05/03/16,Sp Lisbon,Benfica,0.0,1.0,A,0.0,1.0,A
+218,P1,06/03/16,Academica,Guimaraes,2.0,0.0,H,0.0,0.0,D
+219,P1,06/03/16,Boavista,Nacional,0.0,1.0,A,0.0,1.0,A
+220,P1,06/03/16,Setubal,Moreirense,0.0,1.0,A,0.0,0.0,D
+221,P1,06/03/16,Sp Braga,Porto,3.0,1.0,H,0.0,0.0,D
+222,P1,06/03/16,Tondela,Arouca,0.0,1.0,A,0.0,0.0,D
+223,P1,06/03/16,Uniao Madeira,Belenenses,0.0,0.0,D,0.0,0.0,D
+224,P1,07/03/16,Rio Ave,Estoril,1.0,3.0,A,0.0,1.0,A
+225,P1,11/03/16,Maritimo,Boavista,0.0,3.0,A,0.0,0.0,D
+226,P1,12/03/16,Estoril,Sp Lisbon,1.0,2.0,A,0.0,2.0,A
+227,P1,12/03/16,Porto,Uniao Madeira,3.0,2.0,H,1.0,0.0,H
+228,P1,13/03/16,Arouca,Setubal,1.0,0.0,H,1.0,0.0,H
+229,P1,13/03/16,Belenenses,Sp Braga,3.0,0.0,H,0.0,0.0,D
+230,P1,13/03/16,Guimaraes,Pacos Ferreira,0.0,1.0,A,0.0,1.0,A
+231,P1,13/03/16,Moreirense,Academica,2.0,2.0,D,0.0,1.0,A
+232,P1,13/03/16,Nacional,Rio Ave,1.0,0.0,H,0.0,0.0,D
+233,P1,14/03/16,Benfica,Tondela,4.0,1.0,H,2.0,0.0,H
+234,P1,18/03/16,Rio Ave,Maritimo,1.0,0.0,H,1.0,0.0,H
+235,P1,19/03/16,Setubal,Porto,0.0,1.0,A,0.0,1.0,A
+236,P1,19/03/16,Sp Lisbon,Arouca,5.0,1.0,H,4.0,0.0,H
+237,P1,20/03/16,Academica,Estoril,0.0,3.0,A,0.0,2.0,A
+238,P1,20/03/16,Boavista,Benfica,0.0,1.0,A,0.0,0.0,D
+239,P1,20/03/16,Nacional,Guimaraes,3.0,2.0,H,1.0,2.0,A
+240,P1,20/03/16,Pacos Ferreira,Moreirense,0.0,0.0,D,0.0,0.0,D
+241,P1,20/03/16,Sp Braga,Uniao Madeira,2.0,0.0,H,1.0,0.0,H
+242,P1,20/03/16,Tondela,Belenenses,2.0,2.0,D,0.0,1.0,A
+243,P1,01/04/16,Benfica,Sp Braga,5.0,1.0,H,3.0,0.0,H
+244,P1,02/04/16,Arouca,Academica,3.0,2.0,H,3.0,1.0,H
+245,P1,02/04/16,Guimaraes,Boavista,1.0,1.0,D,1.0,1.0,D
+246,P1,02/04/16,Maritimo,Nacional,2.0,0.0,H,0.0,0.0,D
+247,P1,03/04/16,Estoril,Pacos Ferreira,1.0,0.0,H,1.0,0.0,H
+248,P1,03/04/16,Moreirense,Rio Ave,0.0,1.0,A,0.0,0.0,D
+249,P1,03/04/16,Uniao Madeira,Setubal,2.0,2.0,D,2.0,0.0,H
+250,P1,04/04/16,Belenenses,Sp Lisbon,2.0,5.0,A,0.0,2.0,A
+251,P1,04/04/16,Porto,Tondela,0.0,1.0,A,0.0,0.0,D
+252,P1,08/04/16,Boavista,Arouca,0.0,0.0,D,0.0,0.0,D
+253,P1,09/04/16,Academica,Benfica,1.0,2.0,A,1.0,1.0,D
+254,P1,09/04/16,Sp Lisbon,Maritimo,3.0,1.0,H,1.0,0.0,H
+255,P1,10/04/16,Nacional,Estoril,4.0,1.0,H,1.0,0.0,H
+256,P1,10/04/16,Pacos Ferreira,Porto,1.0,0.0,H,0.0,0.0,D
+257,P1,10/04/16,Setubal,Belenenses,0.0,1.0,A,0.0,0.0,D
+258,P1,10/04/16,Sp Braga,Moreirense,1.0,1.0,D,0.0,0.0,D
+259,P1,10/04/16,Tondela,Uniao Madeira,1.0,0.0,H,1.0,0.0,H
+260,P1,11/04/16,Rio Ave,Guimaraes,2.0,0.0,H,2.0,0.0,H
+261,P1,16/04/16,Arouca,Rio Ave,0.0,0.0,D,0.0,0.0,D
+262,P1,16/04/16,Estoril,Boavista,1.0,0.0,H,0.0,0.0,D
+263,P1,16/04/16,Moreirense,Sp Lisbon,0.0,1.0,A,0.0,1.0,A
+264,P1,17/04/16,Belenenses,Academica,1.0,1.0,D,1.0,0.0,H
+265,P1,17/04/16,Maritimo,Guimaraes,3.0,0.0,H,2.0,0.0,H
+266,P1,17/04/16,Porto,Nacional,4.0,0.0,H,2.0,0.0,H
+267,P1,17/04/16,Uniao Madeira,Pacos Ferreira,3.0,4.0,A,2.0,0.0,H
+268,P1,18/04/16,Benfica,Setubal,2.0,1.0,H,2.0,1.0,H
+269,P1,18/04/16,Sp Braga,Tondela,3.0,0.0,H,1.0,0.0,H
+270,P1,22/04/16,Boavista,Belenenses,1.0,0.0,H,1.0,0.0,H
+271,P1,23/04/16,Academica,Porto,1.0,2.0,A,1.0,1.0,D
+272,P1,23/04/16,Pacos Ferreira,Sp Braga,1.0,0.0,H,1.0,0.0,H
+273,P1,23/04/16,Sp Lisbon,Uniao Madeira,2.0,0.0,H,2.0,0.0,H
+274,P1,24/04/16,Guimaraes,Estoril,1.0,1.0,D,0.0,0.0,D
+275,P1,24/04/16,Maritimo,Arouca,1.0,2.0,A,0.0,2.0,A
+276,P1,24/04/16,Nacional,Moreirense,0.0,1.0,A,0.0,1.0,A
+277,P1,24/04/16,Rio Ave,Benfica,0.0,1.0,A,0.0,0.0,D
+278,P1,24/04/16,Setubal,Tondela,0.0,1.0,A,0.0,0.0,D
+279,P1,29/04/16,Benfica,Guimaraes,1.0,0.0,H,0.0,0.0,D
+280,P1,29/04/16,Sp Braga,Setubal,3.0,2.0,H,1.0,1.0,D
+281,P1,30/04/16,Belenenses,Pacos Ferreira,0.0,2.0,A,0.0,1.0,A
+282,P1,30/04/16,Porto,Sp Lisbon,1.0,3.0,A,1.0,2.0,A
+283,P1,30/04/16,Tondela,Rio Ave,1.0,1.0,D,1.0,0.0,H
+284,P1,01/05/16,Arouca,Nacional,3.0,0.0,H,2.0,0.0,H
+285,P1,01/05/16,Estoril,Maritimo,2.0,1.0,H,0.0,1.0,A
+286,P1,01/05/16,Moreirense,Boavista,1.0,1.0,D,1.0,1.0,D
+287,P1,01/05/16,Uniao Madeira,Academica,3.0,1.0,H,1.0,0.0,H
+288,P1,06/05/16,Pacos Ferreira,Tondela,1.0,4.0,A,1.0,1.0,D
+289,P1,07/05/16,Academica,Sp Braga,0.0,0.0,D,0.0,0.0,D
+290,P1,07/05/16,Rio Ave,Porto,1.0,3.0,A,1.0,1.0,D
+291,P1,07/05/16,Sp Lisbon,Setubal,5.0,0.0,H,2.0,0.0,H
+292,P1,08/05/16,Boavista,Uniao Madeira,1.0,0.0,H,1.0,0.0,H
+293,P1,08/05/16,Guimaraes,Moreirense,4.0,1.0,H,1.0,1.0,D
+294,P1,08/05/16,Maritimo,Benfica,0.0,2.0,A,0.0,0.0,D
+295,P1,08/05/16,Nacional,Belenenses,2.0,2.0,D,1.0,0.0,H
+296,P1,09/05/16,Estoril,Arouca,1.0,1.0,D,0.0,1.0,A
+297,P1,14/05/16,Arouca,Guimaraes,2.0,2.0,D,0.0,2.0,A
+298,P1,14/05/16,Belenenses,Estoril,2.0,1.0,H,2.0,1.0,H
+299,P1,14/05/16,Porto,Boavista,4.0,0.0,H,1.0,0.0,H
+300,P1,14/05/16,Setubal,Pacos Ferreira,0.0,0.0,D,0.0,0.0,D
+301,P1,14/05/16,Tondela,Academica,2.0,0.0,H,1.0,0.0,H
+302,P1,14/05/16,Uniao Madeira,Rio Ave,1.0,2.0,A,1.0,0.0,H
+303,P1,15/05/16,Benfica,Nacional,4.0,1.0,H,2.0,0.0,H
+304,P1,15/05/16,Moreirense,Maritimo,2.0,1.0,H,1.0,0.0,H
+305,P1,15/05/16,Sp Braga,Sp Lisbon,0.0,4.0,A,0.0,2.0,A
+306,,,,,,,,,,

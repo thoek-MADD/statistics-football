@@ -1,0 +1,307 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,N1,02/08/13,Ajax,Roda,3,0,H,2,0,H
+1,N1,03/08/13,Den Haag,PSV Eindhoven,2,3,A,1,3,A
+2,N1,03/08/13,Heerenveen,AZ Alkmaar,4,2,H,1,0,H
+3,N1,03/08/13,Nijmegen,Groningen,1,4,A,1,2,A
+4,N1,03/08/13,Twente,Waalwijk,0,0,D,0,0,D
+5,N1,04/08/13,Cambuur,NAC Breda,0,0,D,0,0,D
+6,N1,04/08/13,Utrecht,Go Ahead Eagles,1,1,D,1,0,H
+7,N1,04/08/13,Vitesse,Heracles,3,1,H,2,0,H
+8,N1,04/08/13,Zwolle,Feyenoord,2,1,H,0,0,D
+9,N1,09/08/13,Roda,Cambuur,2,0,H,1,0,H
+10,N1,10/08/13,Go Ahead Eagles,Den Haag,2,1,H,1,1,D
+11,N1,10/08/13,Heracles,Zwolle,1,3,A,1,2,A
+12,N1,10/08/13,NAC Breda,Heerenveen,0,2,A,0,1,A
+13,N1,10/08/13,PSV Eindhoven,Nijmegen,5,0,H,1,0,H
+14,N1,11/08/13,AZ Alkmaar,Ajax,3,2,H,1,1,D
+15,N1,11/08/13,Feyenoord,Twente,1,4,A,1,1,D
+16,N1,11/08/13,Groningen,Utrecht,2,0,H,1,0,H
+17,N1,11/08/13,Waalwijk,Vitesse,4,2,H,2,1,H
+18,N1,17/08/13,Cambuur,Groningen,4,1,H,3,0,H
+19,N1,17/08/13,Nijmegen,Zwolle,1,5,A,0,3,A
+20,N1,17/08/13,PSV Eindhoven,Go Ahead Eagles,3,0,H,0,0,D
+21,N1,17/08/13,Roda,Vitesse,1,1,D,0,0,D
+22,N1,17/08/13,Waalwijk,AZ Alkmaar,1,2,A,0,1,A
+23,N1,18/08/13,Ajax,Feyenoord,2,1,H,2,1,H
+24,N1,18/08/13,Heerenveen,Heracles,2,4,A,1,1,D
+25,N1,18/08/13,NAC Breda,Den Haag,1,2,A,0,0,D
+26,N1,18/08/13,Twente,Utrecht,6,0,H,4,0,H
+27,N1,23/08/13,Heerenveen,Ajax,3,3,D,3,2,H
+28,N1,24/08/13,Den Haag,Roda,0,4,A,0,2,A
+29,N1,24/08/13,Heracles,PSV Eindhoven,1,1,D,1,0,H
+30,N1,24/08/13,Nijmegen,Waalwijk,2,2,D,2,0,H
+31,N1,24/08/13,Zwolle,Cambuur,2,0,H,0,0,D
+32,N1,25/08/13,Feyenoord,NAC Breda,3,1,H,2,0,H
+33,N1,25/08/13,Go Ahead Eagles,Groningen,3,3,D,1,1,D
+34,N1,25/08/13,Utrecht,AZ Alkmaar,2,0,H,0,0,D
+35,N1,25/08/13,Vitesse,Twente,1,0,H,1,0,H
+36,N1,30/08/13,NAC Breda,Nijmegen,1,1,D,1,1,D
+37,N1,31/08/13,Heracles,Den Haag,1,0,H,1,0,H
+38,N1,31/08/13,PSV Eindhoven,Cambuur,0,0,D,0,0,D
+39,N1,31/08/13,Twente,Heerenveen,1,1,D,0,0,D
+40,N1,31/08/13,Waalwijk,Go Ahead Eagles,1,4,A,0,2,A
+41,N1,01/09/13,AZ Alkmaar,Vitesse,1,1,D,1,0,H
+42,N1,01/09/13,Feyenoord,Roda,4,0,H,2,0,H
+43,N1,01/09/13,Groningen,Ajax,1,1,D,0,1,A
+44,N1,01/09/13,Zwolle,Utrecht,1,1,D,0,0,D
+45,N1,14/09/13,Ajax,Zwolle,2,1,H,0,0,D
+46,N1,14/09/13,Cambuur,Heracles,2,0,H,1,0,H
+47,N1,14/09/13,Twente,PSV Eindhoven,2,2,D,1,0,H
+48,N1,15/09/13,AZ Alkmaar,Go Ahead Eagles,3,0,H,1,0,H
+49,N1,15/09/13,Heerenveen,Groningen,4,2,H,0,1,A
+50,N1,15/09/13,Nijmegen,Feyenoord,3,3,D,1,1,D
+51,N1,15/09/13,Roda,NAC Breda,1,5,A,1,1,D
+52,N1,15/09/13,Utrecht,Waalwijk,2,1,H,2,0,H
+53,N1,20/09/13,Go Ahead Eagles,Cambuur,0,0,D,0,0,D
+54,N1,21/09/13,Den Haag,Nijmegen,1,1,D,0,0,D
+55,N1,21/09/13,Groningen,Waalwijk,4,1,H,0,0,D
+56,N1,21/09/13,Heracles,Twente,0,3,A,0,1,A
+57,N1,21/09/13,Roda,Heerenveen,3,3,D,1,1,D
+58,N1,22/09/13,Feyenoord,Utrecht,1,0,H,1,0,H
+59,N1,22/09/13,NAC Breda,AZ Alkmaar,3,0,H,0,0,D
+60,N1,22/09/13,PSV Eindhoven,Ajax,4,0,H,0,0,D
+61,N1,22/09/13,Vitesse,Zwolle,3,0,H,1,0,H
+62,N1,28/09/13,Ajax,Go Ahead Eagles,6,0,H,0,0,D
+63,N1,28/09/13,AZ Alkmaar,PSV Eindhoven,2,1,H,1,1,D
+64,N1,28/09/13,Utrecht,Roda,3,3,D,2,1,H
+65,N1,28/09/13,Waalwijk,Heracles,1,4,A,1,2,A
+66,N1,28/09/13,Zwolle,NAC Breda,0,0,D,0,0,D
+67,N1,29/09/13,Feyenoord,Den Haag,4,2,H,2,0,H
+68,N1,29/09/13,Heerenveen,Cambuur,2,1,H,1,0,H
+69,N1,29/09/13,Nijmegen,Vitesse,2,3,A,1,2,A
+70,N1,29/09/13,Twente,Groningen,5,0,H,3,0,H
+71,N1,02/10/13,Den Haag,Vitesse,2,1,H,1,0,H
+72,N1,04/10/13,Cambuur,Twente,0,1,A,0,0,D
+73,N1,05/10/13,Go Ahead Eagles,Nijmegen,4,3,H,3,0,H
+74,N1,05/10/13,NAC Breda,Heracles,2,1,H,0,0,D
+75,N1,05/10/13,Roda,Zwolle,0,0,D,0,0,D
+76,N1,06/10/13,Ajax,Utrecht,3,0,H,1,0,H
+77,N1,06/10/13,Groningen,AZ Alkmaar,2,1,H,0,0,D
+78,N1,06/10/13,PSV Eindhoven,Waalwijk,2,1,H,1,1,D
+79,N1,06/10/13,Vitesse,Feyenoord,1,2,A,0,2,A
+80,N1,19/10/13,Go Ahead Eagles,Feyenoord,2,2,D,0,1,A
+81,N1,19/10/13,Heerenveen,Vitesse,2,3,A,1,0,H
+82,N1,19/10/13,Twente,Ajax,1,1,D,1,0,H
+83,N1,19/10/13,Utrecht,NAC Breda,4,2,H,1,1,D
+84,N1,19/10/13,Waalwijk,Roda,1,2,A,0,0,D
+85,N1,20/10/13,AZ Alkmaar,Cambuur,3,1,H,2,1,H
+86,N1,20/10/13,Groningen,PSV Eindhoven,1,0,H,0,0,D
+87,N1,20/10/13,Heracles,Nijmegen,1,1,D,0,1,A
+88,N1,20/10/13,Zwolle,Den Haag,6,1,H,3,0,H
+89,N1,25/10/13,Nijmegen,Heerenveen,2,1,H,1,0,H
+90,N1,26/10/13,Ajax,Waalwijk,0,0,D,0,0,D
+91,N1,26/10/13,Cambuur,Utrecht,3,1,H,0,1,A
+92,N1,26/10/13,Den Haag,Twente,3,2,H,0,0,D
+93,N1,26/10/13,NAC Breda,Go Ahead Eagles,5,0,H,4,0,H
+94,N1,27/10/13,Feyenoord,Heracles,1,2,A,1,1,D
+95,N1,27/10/13,Roda,PSV Eindhoven,2,1,H,0,1,A
+96,N1,27/10/13,Vitesse,Groningen,2,2,D,1,0,H
+97,N1,27/10/13,Zwolle,AZ Alkmaar,0,2,A,0,1,A
+98,N1,01/11/13,Waalwijk,NAC Breda,3,0,H,3,0,H
+99,N1,02/11/13,Ajax,Vitesse,0,1,A,0,0,D
+100,N1,02/11/13,AZ Alkmaar,Den Haag,2,0,H,1,0,H
+101,N1,02/11/13,PSV Eindhoven,Zwolle,1,1,D,1,1,D
+102,N1,02/11/13,Twente,Nijmegen,2,2,D,2,0,H
+103,N1,03/11/13,Cambuur,Feyenoord,0,2,A,0,1,A
+104,N1,03/11/13,Groningen,Roda,3,3,D,1,1,D
+105,N1,03/11/13,Utrecht,Heerenveen,2,0,H,1,0,H
+106,N1,08/11/13,Heerenveen,Waalwijk,5,2,H,1,0,H
+107,N1,09/11/13,Den Haag,Cambuur,3,0,H,2,0,H
+108,N1,09/11/13,Heracles,Groningen,0,3,A,0,0,D
+109,N1,09/11/13,Roda,Go Ahead Eagles,1,4,A,1,3,A
+110,N1,09/11/13,Vitesse,Utrecht,3,1,H,1,0,H
+111,N1,10/11/13,Feyenoord,AZ Alkmaar,2,2,D,0,1,A
+112,N1,10/11/13,NAC Breda,PSV Eindhoven,2,1,H,0,1,A
+113,N1,10/11/13,Nijmegen,Ajax,0,3,A,0,2,A
+114,N1,10/11/13,Zwolle,Twente,1,1,D,0,0,D
+115,N1,23/11/13,Ajax,Heracles,3,0,H,1,0,H
+116,N1,23/11/13,AZ Alkmaar,Roda,2,2,D,2,1,H
+117,N1,23/11/13,Cambuur,Nijmegen,2,1,H,1,1,D
+118,N1,23/11/13,PSV Eindhoven,Heerenveen,1,1,D,0,0,D
+119,N1,24/11/13,Go Ahead Eagles,Vitesse,0,3,A,0,2,A
+120,N1,24/11/13,Groningen,Zwolle,0,0,D,0,0,D
+121,N1,24/11/13,Twente,NAC Breda,5,2,H,2,1,H
+122,N1,24/11/13,Utrecht,Den Haag,3,0,H,2,0,H
+123,N1,24/11/13,Waalwijk,Feyenoord,1,0,H,0,0,D
+124,N1,29/11/13,Roda,Twente,1,2,A,1,0,H
+125,N1,30/11/13,Heerenveen,Go Ahead Eagles,3,1,H,0,1,A
+126,N1,30/11/13,Heracles,Utrecht,1,2,A,1,0,H
+127,N1,30/11/13,NAC Breda,Groningen,2,2,D,1,0,H
+128,N1,30/11/13,Zwolle,Waalwijk,1,1,D,1,0,H
+129,N1,01/12/13,Den Haag,Ajax,0,4,A,0,2,A
+130,N1,01/12/13,Feyenoord,PSV Eindhoven,3,1,H,1,1,D
+131,N1,01/12/13,Nijmegen,AZ Alkmaar,3,2,H,1,1,D
+132,N1,01/12/13,Vitesse,Cambuur,3,0,H,1,0,H
+133,N1,04/12/13,Den Haag,Heerenveen,1,1,D,0,0,D
+134,N1,04/12/13,Go Ahead Eagles,Heracles,1,1,D,0,0,D
+135,N1,06/12/13,Utrecht,Nijmegen,2,0,H,0,0,D
+136,N1,07/12/13,Ajax,NAC Breda,4,0,H,2,0,H
+137,N1,07/12/13,AZ Alkmaar,Twente,1,2,A,1,1,D
+138,N1,07/12/13,PSV Eindhoven,Vitesse,2,6,A,1,1,D
+139,N1,07/12/13,Waalwijk,Cambuur,2,2,D,1,2,A
+140,N1,08/12/13,Go Ahead Eagles,Zwolle,4,1,H,2,0,H
+141,N1,08/12/13,Groningen,Den Haag,1,2,A,0,1,A
+142,N1,08/12/13,Heerenveen,Feyenoord,1,2,A,1,2,A
+143,N1,08/12/13,Roda,Heracles,1,3,A,1,1,D
+144,N1,13/12/13,Zwolle,Heerenveen,1,2,A,0,1,A
+145,N1,14/12/13,Den Haag,Waalwijk,1,2,A,0,1,A
+146,N1,14/12/13,Nijmegen,Roda,4,3,H,0,2,A
+147,N1,14/12/13,Twente,Go Ahead Eagles,3,1,H,1,0,H
+148,N1,15/12/13,Cambuur,Ajax,1,2,A,0,1,A
+149,N1,15/12/13,Feyenoord,Groningen,1,0,H,1,0,H
+150,N1,15/12/13,Heracles,AZ Alkmaar,2,0,H,1,0,H
+151,N1,15/12/13,Utrecht,PSV Eindhoven,1,5,A,0,4,A
+152,N1,15/12/13,Vitesse,NAC Breda,3,2,H,1,1,D
+153,N1,20/12/13,Waalwijk,Twente,1,1,D,1,0,H
+154,N1,21/12/13,AZ Alkmaar,Heerenveen,1,5,A,1,3,A
+155,N1,21/12/13,Feyenoord,Zwolle,3,0,H,2,0,H
+156,N1,21/12/13,Heracles,Vitesse,2,2,D,0,2,A
+157,N1,21/12/13,NAC Breda,Cambuur,1,0,H,0,0,D
+158,N1,22/12/13,Go Ahead Eagles,Utrecht,2,1,H,1,1,D
+159,N1,22/12/13,Groningen,Nijmegen,5,2,H,3,0,H
+160,N1,22/12/13,PSV Eindhoven,Den Haag,2,0,H,2,0,H
+161,N1,22/12/13,Roda,Ajax,1,2,A,1,0,H
+162,N1,17/01/14,Twente,Heracles,3,1,H,1,0,H
+163,N1,18/01/14,AZ Alkmaar,NAC Breda,3,0,H,2,0,H
+164,N1,18/01/14,Heerenveen,Roda,2,2,D,1,1,D
+165,N1,18/01/14,Waalwijk,Groningen,1,1,D,0,1,A
+166,N1,18/01/14,Zwolle,Vitesse,1,2,A,1,1,D
+167,N1,19/01/14,Ajax,PSV Eindhoven,1,0,H,0,0,D
+168,N1,19/01/14,Cambuur,Go Ahead Eagles,2,0,H,1,0,H
+169,N1,19/01/14,Nijmegen,Den Haag,3,1,H,2,1,H
+170,N1,19/01/14,Utrecht,Feyenoord,2,5,A,2,3,A
+171,N1,24/01/14,Heracles,Waalwijk,2,1,H,1,0,H
+172,N1,25/01/14,Den Haag,Feyenoord,3,2,H,2,0,H
+173,N1,25/01/14,NAC Breda,Zwolle,1,2,A,1,0,H
+174,N1,25/01/14,PSV Eindhoven,AZ Alkmaar,1,0,H,1,0,H
+175,N1,25/01/14,Roda,Utrecht,1,0,H,1,0,H
+176,N1,26/01/14,Cambuur,Heerenveen,3,1,H,2,0,H
+177,N1,26/01/14,Go Ahead Eagles,Ajax,0,1,A,0,0,D
+178,N1,26/01/14,Vitesse,Nijmegen,1,1,D,1,0,H
+179,N1,31/01/14,Feyenoord,Vitesse,1,1,D,1,0,H
+180,N1,01/02/14,AZ Alkmaar,Groningen,2,0,H,2,0,H
+181,N1,01/02/14,Heerenveen,Den Haag,3,0,H,0,0,D
+182,N1,01/02/14,Heracles,NAC Breda,1,2,A,0,1,A
+183,N1,01/02/14,Zwolle,Roda,3,1,H,1,0,H
+184,N1,02/02/14,Nijmegen,Go Ahead Eagles,1,1,D,1,0,H
+185,N1,02/02/14,Twente,Cambuur,3,1,H,0,1,A
+186,N1,02/02/14,Utrecht,Ajax,1,1,D,1,1,D
+187,N1,02/02/14,Waalwijk,PSV Eindhoven,2,0,H,0,0,D
+188,N1,04/02/14,Den Haag,Heracles,0,3,A,0,2,A
+189,N1,04/02/14,Roda,Feyenoord,1,2,A,0,2,A
+190,N1,04/02/14,Vitesse,AZ Alkmaar,0,2,A,0,2,A
+191,N1,05/02/14,Cambuur,PSV Eindhoven,1,2,A,1,1,D
+192,N1,05/02/14,Go Ahead Eagles,Waalwijk,2,2,D,1,0,H
+193,N1,05/02/14,Heerenveen,Twente,0,2,A,0,0,D
+194,N1,05/02/14,Nijmegen,NAC Breda,1,1,D,1,1,D
+195,N1,06/02/14,Ajax,Groningen,2,1,H,1,1,D
+196,N1,06/02/14,Utrecht,Zwolle,1,2,A,1,0,H
+197,N1,07/02/14,Vitesse,Den Haag,0,0,D,0,0,D
+198,N1,08/02/14,Feyenoord,Nijmegen,5,1,H,2,1,H
+199,N1,08/02/14,Go Ahead Eagles,AZ Alkmaar,2,1,H,1,0,H
+200,N1,08/02/14,NAC Breda,Roda,2,0,H,0,0,D
+201,N1,08/02/14,PSV Eindhoven,Twente,3,2,H,2,1,H
+202,N1,09/02/14,Groningen,Heerenveen,1,3,A,0,3,A
+203,N1,09/02/14,Heracles,Cambuur,1,1,D,0,1,A
+204,N1,09/02/14,Waalwijk,Utrecht,5,2,H,1,1,D
+205,N1,09/02/14,Zwolle,Ajax,1,1,D,1,1,D
+206,N1,12/02/14,Groningen,Twente,1,1,D,1,0,H
+207,N1,14/02/14,PSV Eindhoven,Heracles,2,1,H,1,1,D
+208,N1,15/02/14,AZ Alkmaar,Utrecht,1,1,D,1,0,H
+209,N1,15/02/14,Roda,Den Haag,0,1,A,0,0,D
+210,N1,15/02/14,Twente,Vitesse,2,0,H,0,0,D
+211,N1,15/02/14,Waalwijk,Nijmegen,1,3,A,1,2,A
+212,N1,16/02/14,Ajax,Heerenveen,3,0,H,2,0,H
+213,N1,16/02/14,Cambuur,Zwolle,3,1,H,2,0,H
+214,N1,16/02/14,Groningen,Go Ahead Eagles,1,0,H,1,0,H
+215,N1,16/02/14,NAC Breda,Feyenoord,1,1,D,1,1,D
+216,N1,21/02/14,Den Haag,Go Ahead Eagles,3,2,H,2,1,H
+217,N1,22/02/14,Cambuur,Roda,1,0,H,0,0,D
+218,N1,22/02/14,Heerenveen,NAC Breda,0,0,D,0,0,D
+219,N1,22/02/14,Nijmegen,PSV Eindhoven,0,2,A,0,0,D
+220,N1,22/02/14,Zwolle,Heracles,1,1,D,0,1,A
+221,N1,23/02/14,Ajax,AZ Alkmaar,4,0,H,1,0,H
+222,N1,23/02/14,Twente,Feyenoord,2,2,D,0,1,A
+223,N1,23/02/14,Utrecht,Groningen,1,0,H,0,0,D
+224,N1,23/02/14,Vitesse,Waalwijk,3,1,H,0,1,A
+225,N1,28/02/14,Heracles,Heerenveen,1,2,A,1,1,D
+226,N1,01/03/14,Den Haag,NAC Breda,1,1,D,0,0,D
+227,N1,01/03/14,Go Ahead Eagles,PSV Eindhoven,2,3,A,2,0,H
+228,N1,01/03/14,Vitesse,Roda,3,0,H,2,0,H
+229,N1,01/03/14,Zwolle,Nijmegen,3,3,D,2,1,H
+230,N1,02/03/14,AZ Alkmaar,Waalwijk,4,0,H,2,0,H
+231,N1,02/03/14,Feyenoord,Ajax,1,2,A,1,1,D
+232,N1,02/03/14,Groningen,Cambuur,1,1,D,0,0,D
+233,N1,02/03/14,Utrecht,Twente,1,1,D,0,1,A
+234,N1,08/03/14,AZ Alkmaar,Heracles,4,0,H,2,0,H
+235,N1,08/03/14,Heerenveen,Zwolle,3,0,H,1,0,H
+236,N1,08/03/14,NAC Breda,Vitesse,1,2,A,1,2,A
+237,N1,08/03/14,PSV Eindhoven,Utrecht,1,0,H,0,0,D
+238,N1,08/03/14,Roda,Nijmegen,3,1,H,1,0,H
+239,N1,09/03/14,Ajax,Cambuur,1,1,D,1,0,H
+240,N1,09/03/14,Go Ahead Eagles,Twente,1,0,H,1,0,H
+241,N1,09/03/14,Groningen,Feyenoord,0,2,A,0,1,A
+242,N1,09/03/14,Waalwijk,Den Haag,1,1,D,1,1,D
+243,N1,14/03/14,Cambuur,Waalwijk,3,2,H,2,1,H
+244,N1,15/03/14,Den Haag,Groningen,2,1,H,0,0,D
+245,N1,15/03/14,Heracles,Roda,2,1,H,1,1,D
+246,N1,15/03/14,Vitesse,PSV Eindhoven,1,2,A,1,2,A
+247,N1,16/03/14,Feyenoord,Heerenveen,2,0,H,0,0,D
+248,N1,16/03/14,NAC Breda,Ajax,0,0,D,0,0,D
+249,N1,16/03/14,Nijmegen,Utrecht,2,2,D,1,2,A
+250,N1,16/03/14,Twente,AZ Alkmaar,2,1,H,0,1,A
+251,N1,16/03/14,Zwolle,Go Ahead Eagles,2,0,H,1,0,H
+252,N1,22/03/14,Groningen,Vitesse,3,1,H,1,1,D
+253,N1,22/03/14,Heerenveen,Nijmegen,2,2,D,2,0,H
+254,N1,22/03/14,PSV Eindhoven,Roda,3,1,H,1,1,D
+255,N1,23/03/14,AZ Alkmaar,Zwolle,2,1,H,2,1,H
+256,N1,28/03/14,NAC Breda,Utrecht,2,2,D,0,0,D
+257,N1,29/03/14,Nijmegen,Heracles,1,2,A,1,0,H
+258,N1,29/03/14,PSV Eindhoven,Groningen,2,3,A,2,2,D
+259,N1,29/03/14,Vitesse,Heerenveen,2,2,D,1,1,D
+260,N1,30/03/14,Ajax,Twente,3,0,H,1,0,H
+261,N1,30/03/14,Cambuur,AZ Alkmaar,0,0,D,0,0,D
+262,N1,30/03/14,Den Haag,Zwolle,1,1,D,1,1,D
+263,N1,30/03/14,Feyenoord,Go Ahead Eagles,5,0,H,1,0,H
+264,N1,30/03/14,Roda,Waalwijk,0,1,A,0,1,A
+265,N1,02/04/14,Go Ahead Eagles,NAC Breda,2,1,H,1,1,D
+266,N1,02/04/14,Heracles,Feyenoord,1,2,A,1,2,A
+267,N1,02/04/14,Twente,Den Haag,1,1,D,1,0,H
+268,N1,02/04/14,Utrecht,Cambuur,1,0,H,0,0,D
+269,N1,02/04/14,Waalwijk,Ajax,0,2,A,0,2,A
+270,N1,04/04/14,Zwolle,Groningen,0,1,A,0,0,D
+271,N1,05/04/14,Heerenveen,PSV Eindhoven,3,0,H,1,0,H
+272,N1,05/04/14,Heracles,Go Ahead Eagles,1,2,A,1,0,H
+273,N1,05/04/14,NAC Breda,Twente,0,2,A,0,1,A
+274,N1,05/04/14,Nijmegen,Cambuur,1,1,D,1,1,D
+275,N1,06/04/14,Den Haag,Utrecht,4,1,H,2,0,H
+276,N1,06/04/14,Feyenoord,Waalwijk,2,0,H,1,0,H
+277,N1,06/04/14,Roda,AZ Alkmaar,2,2,D,1,1,D
+278,N1,06/04/14,Vitesse,Ajax,1,1,D,1,0,H
+279,N1,11/04/14,Groningen,NAC Breda,2,1,H,0,0,D
+280,N1,12/04/14,Cambuur,Vitesse,4,3,H,2,2,D
+281,N1,12/04/14,Go Ahead Eagles,Heerenveen,0,2,A,0,1,A
+282,N1,12/04/14,Twente,Roda,3,0,H,2,0,H
+283,N1,13/04/14,Ajax,Den Haag,3,2,H,1,1,D
+284,N1,13/04/14,AZ Alkmaar,Nijmegen,1,1,D,0,0,D
+285,N1,13/04/14,PSV Eindhoven,Feyenoord,0,2,A,0,1,A
+286,N1,13/04/14,Utrecht,Heracles,2,1,H,2,0,H
+287,N1,13/04/14,Waalwijk,Zwolle,1,1,D,0,0,D
+288,N1,27/04/14,Den Haag,AZ Alkmaar,2,1,H,1,0,H
+289,N1,27/04/14,Feyenoord,Cambuur,5,1,H,1,1,D
+290,N1,27/04/14,Heerenveen,Utrecht,4,1,H,1,0,H
+291,N1,27/04/14,Heracles,Ajax,1,1,D,1,1,D
+292,N1,27/04/14,NAC Breda,Waalwijk,1,1,D,1,0,H
+293,N1,27/04/14,Nijmegen,Twente,2,5,A,1,1,D
+294,N1,27/04/14,Roda,Groningen,1,2,A,1,0,H
+295,N1,27/04/14,Vitesse,Go Ahead Eagles,2,2,D,0,1,A
+296,N1,27/04/14,Zwolle,PSV Eindhoven,1,2,A,0,1,A
+297,N1,03/05/14,Ajax,Nijmegen,2,2,D,1,0,H
+298,N1,03/05/14,AZ Alkmaar,Feyenoord,1,1,D,0,0,D
+299,N1,03/05/14,Cambuur,Den Haag,1,2,A,1,0,H
+300,N1,03/05/14,Go Ahead Eagles,Roda,0,1,A,0,1,A
+301,N1,03/05/14,Groningen,Heracles,3,1,H,1,1,D
+302,N1,03/05/14,PSV Eindhoven,NAC Breda,2,0,H,1,0,H
+303,N1,03/05/14,Twente,Zwolle,2,2,D,2,1,H
+304,N1,03/05/14,Utrecht,Vitesse,2,1,H,1,0,H
+305,N1,03/05/14,Waalwijk,Heerenveen,0,3,A,0,1,A

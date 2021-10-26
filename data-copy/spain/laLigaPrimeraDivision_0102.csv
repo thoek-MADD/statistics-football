@@ -1,0 +1,381 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,SP1,25/08/01,Valencia,Real Madrid,1,0,H,1,0,H
+1,SP1,26/08/01,La Coruna,Valladolid,4,0,H,1,0,H
+2,SP1,26/08/01,Espanol,Zaragoza,2,1,H,1,1,D
+3,SP1,26/08/01,Malaga,Betis,3,2,H,1,1,D
+4,SP1,26/08/01,Mallorca,Las Palmas,0,3,A,0,1,A
+5,SP1,26/08/01,Osasuna,Celta,0,3,A,0,1,A
+6,SP1,26/08/01,Sociedad,Ath Bilbao,1,3,A,1,1,D
+7,SP1,26/08/01,Vallecano,Villarreal,1,2,A,1,2,A
+8,SP1,26/08/01,Sevilla,Barcelona,1,2,A,0,1,A
+9,SP1,26/08/01,Tenerife,Alaves,0,2,A,0,1,A
+10,SP1,08/09/01,Ath Bilbao,Mallorca,0,1,A,0,0,D
+11,SP1,08/09/01,Las Palmas,La Coruna,0,1,A,0,0,D
+12,SP1,08/09/01,Real Madrid,Malaga,1,1,D,1,0,H
+13,SP1,08/09/01,Villarreal,Osasuna,3,0,H,1,0,H
+14,SP1,09/09/01,Alaves,Sociedad,2,0,H,1,0,H
+15,SP1,09/09/01,Barcelona,Vallecano,1,1,D,0,0,D
+16,SP1,09/09/01,Betis,Espanol,2,0,H,2,0,H
+17,SP1,09/09/01,Celta,Tenerife,3,0,H,2,0,H
+18,SP1,09/09/01,Valladolid,Valencia,1,1,D,1,0,H
+19,SP1,09/09/01,Zaragoza,Sevilla,1,1,D,0,0,D
+20,SP1,15/09/01,Betis,Real Madrid,3,1,H,1,1,D
+21,SP1,15/09/01,La Coruna,Ath Bilbao,1,2,A,0,1,A
+22,SP1,15/09/01,Mallorca,Alaves,0,0,D,0,0,D
+23,SP1,15/09/01,Osasuna,Barcelona,0,0,D,0,0,D
+24,SP1,16/09/01,Espanol,Sevilla,2,3,A,1,1,D
+25,SP1,16/09/01,Malaga,Valladolid,1,2,A,0,1,A
+26,SP1,16/09/01,Sociedad,Celta,0,0,D,0,0,D
+27,SP1,16/09/01,Vallecano,Zaragoza,1,2,A,1,0,H
+28,SP1,16/09/01,Tenerife,Villarreal,2,0,H,1,0,H
+29,SP1,16/09/01,Valencia,Las Palmas,1,0,H,0,0,D
+30,SP1,22/09/01,Alaves,La Coruna,2,3,A,0,1,A
+31,SP1,22/09/01,Barcelona,Tenerife,2,0,H,1,0,H
+32,SP1,22/09/01,Las Palmas,Malaga,0,0,D,0,0,D
+33,SP1,22/09/01,Real Madrid,Espanol,5,1,H,3,0,H
+34,SP1,22/09/01,Villarreal,Sociedad,1,0,H,0,0,D
+35,SP1,23/09/01,Ath Bilbao,Valencia,2,2,D,0,1,A
+36,SP1,23/09/01,Celta,Mallorca,2,0,H,1,0,H
+37,SP1,23/09/01,Sevilla,Vallecano,2,1,H,0,1,A
+38,SP1,23/09/01,Valladolid,Betis,0,2,A,0,0,D
+39,SP1,23/09/01,Zaragoza,Osasuna,0,1,A,0,1,A
+40,SP1,29/09/01,Espanol,Vallecano,3,1,H,1,0,H
+41,SP1,29/09/01,Malaga,Ath Bilbao,1,2,A,0,1,A
+42,SP1,29/09/01,Real Madrid,Valladolid,2,2,D,2,1,H
+43,SP1,29/09/01,Sociedad,Barcelona,0,2,A,0,1,A
+44,SP1,30/09/01,Betis,Las Palmas,1,0,H,0,0,D
+45,SP1,30/09/01,La Coruna,Celta,2,2,D,0,1,A
+46,SP1,30/09/01,Mallorca,Villarreal,0,1,A,0,1,A
+47,SP1,30/09/01,Osasuna,Sevilla,1,0,H,0,0,D
+48,SP1,30/09/01,Tenerife,Zaragoza,0,0,D,0,0,D
+49,SP1,30/09/01,Valencia,Alaves,0,0,D,0,0,D
+50,SP1,03/10/01,Alaves,Malaga,1,0,H,0,0,D
+51,SP1,03/10/01,Ath Bilbao,Betis,0,0,D,0,0,D
+52,SP1,03/10/01,Barcelona,Mallorca,3,0,H,3,0,H
+53,SP1,03/10/01,Las Palmas,Real Madrid,4,2,H,2,2,D
+54,SP1,03/10/01,Vallecano,Osasuna,0,1,A,0,1,A
+55,SP1,03/10/01,Sevilla,Tenerife,2,0,H,1,0,H
+56,SP1,03/10/01,Valladolid,Espanol,0,1,A,0,1,A
+57,SP1,03/10/01,Villarreal,La Coruna,1,1,D,1,0,H
+58,SP1,03/10/01,Zaragoza,Sociedad,3,2,H,1,1,D
+59,SP1,04/10/01,Celta,Valencia,1,1,D,0,1,A
+60,SP1,06/10/01,La Coruna,Barcelona,2,1,H,0,1,A
+61,SP1,06/10/01,Real Madrid,Ath Bilbao,2,0,H,0,0,D
+62,SP1,07/10/01,Betis,Alaves,1,0,H,0,0,D
+63,SP1,07/10/01,Espanol,Osasuna,1,1,D,0,0,D
+64,SP1,07/10/01,Malaga,Celta,2,2,D,2,0,H
+65,SP1,07/10/01,Mallorca,Zaragoza,0,1,A,0,0,D
+66,SP1,07/10/01,Sociedad,Sevilla,3,3,D,2,0,H
+67,SP1,07/10/01,Tenerife,Vallecano,3,1,H,1,1,D
+68,SP1,07/10/01,Valencia,Villarreal,1,0,H,1,0,H
+69,SP1,07/10/01,Valladolid,Las Palmas,1,0,H,1,0,H
+70,SP1,13/10/01,Alaves,Real Madrid,0,0,D,0,0,D
+71,SP1,13/10/01,Sevilla,Mallorca,2,2,D,2,2,D
+72,SP1,13/10/01,Zaragoza,La Coruna,1,2,A,0,1,A
+73,SP1,14/10/01,Ath Bilbao,Valladolid,1,4,A,0,2,A
+74,SP1,14/10/01,Barcelona,Valencia,2,2,D,1,1,D
+75,SP1,14/10/01,Celta,Betis,3,1,H,2,0,H
+76,SP1,14/10/01,Las Palmas,Espanol,2,0,H,0,0,D
+77,SP1,14/10/01,Osasuna,Tenerife,0,2,A,0,0,D
+78,SP1,14/10/01,Vallecano,Sociedad,2,1,H,1,1,D
+79,SP1,14/10/01,Villarreal,Malaga,1,2,A,1,1,D
+80,SP1,20/10/01,Betis,Villarreal,1,1,D,0,1,A
+81,SP1,20/10/01,La Coruna,Sevilla,1,0,H,1,0,H
+82,SP1,20/10/01,Las Palmas,Ath Bilbao,1,1,D,0,1,A
+83,SP1,20/10/01,Malaga,Barcelona,1,1,D,0,0,D
+84,SP1,20/10/01,Sociedad,Osasuna,2,1,H,0,1,A
+85,SP1,21/10/01,Espanol,Tenerife,2,0,H,2,0,H
+86,SP1,21/10/01,Mallorca,Vallecano,3,0,H,1,0,H
+87,SP1,21/10/01,Real Madrid,Celta,1,1,D,1,1,D
+88,SP1,21/10/01,Valencia,Zaragoza,2,0,H,1,0,H
+89,SP1,21/10/01,Valladolid,Alaves,1,3,A,0,2,A
+90,SP1,27/10/01,Barcelona,Betis,3,0,H,1,0,H
+91,SP1,27/10/01,Osasuna,Mallorca,4,0,H,2,0,H
+92,SP1,27/10/01,Vallecano,La Coruna,2,1,H,0,0,D
+93,SP1,27/10/01,Tenerife,Sociedad,0,1,A,0,1,A
+94,SP1,27/10/01,Villarreal,Real Madrid,2,3,A,1,0,H
+95,SP1,28/10/01,Alaves,Las Palmas,1,0,H,1,0,H
+96,SP1,28/10/01,Ath Bilbao,Espanol,1,1,D,1,0,H
+97,SP1,28/10/01,Celta,Valladolid,1,1,D,0,0,D
+98,SP1,28/10/01,Sevilla,Valencia,1,1,D,0,1,A
+99,SP1,28/10/01,Zaragoza,Malaga,0,2,A,0,1,A
+100,SP1,03/11/01,Ath Bilbao,Alaves,2,1,H,2,0,H
+101,SP1,04/11/01,Betis,Zaragoza,0,1,A,0,0,D
+102,SP1,04/11/01,La Coruna,Osasuna,5,1,H,4,1,H
+103,SP1,04/11/01,Espanol,Sociedad,1,2,A,1,1,D
+104,SP1,04/11/01,Las Palmas,Celta,4,2,H,3,1,H
+105,SP1,04/11/01,Malaga,Sevilla,1,3,A,1,1,D
+106,SP1,04/11/01,Mallorca,Tenerife,2,0,H,1,0,H
+107,SP1,04/11/01,Real Madrid,Barcelona,2,0,H,1,0,H
+108,SP1,04/11/01,Valencia,Vallecano,2,1,H,1,1,D
+109,SP1,04/11/01,Valladolid,Villarreal,1,0,H,1,0,H
+110,SP1,10/11/01,Sevilla,Betis,0,0,D,0,0,D
+111,SP1,11/11/01,Alaves,Espanol,2,1,H,1,1,D
+112,SP1,11/11/01,Barcelona,Valladolid,4,0,H,2,0,H
+113,SP1,11/11/01,Celta,Ath Bilbao,2,3,A,1,0,H
+114,SP1,11/11/01,Osasuna,Valencia,0,0,D,0,0,D
+115,SP1,11/11/01,Sociedad,Mallorca,1,2,A,0,0,D
+116,SP1,11/11/01,Vallecano,Malaga,3,0,H,2,0,H
+117,SP1,11/11/01,Tenerife,La Coruna,3,1,H,1,1,D
+118,SP1,11/11/01,Villarreal,Las Palmas,2,0,H,1,0,H
+119,SP1,11/11/01,Zaragoza,Real Madrid,2,1,H,1,0,H
+120,SP1,17/11/01,La Coruna,Sociedad,3,1,H,1,1,D
+121,SP1,17/11/01,Las Palmas,Barcelona,0,0,D,0,0,D
+122,SP1,17/11/01,Real Madrid,Sevilla,2,1,H,1,0,H
+123,SP1,18/11/01,Alaves,Celta,1,0,H,1,0,H
+124,SP1,18/11/01,Ath Bilbao,Villarreal,0,0,D,0,0,D
+125,SP1,18/11/01,Betis,Vallecano,2,0,H,0,0,D
+126,SP1,18/11/01,Espanol,Mallorca,2,1,H,1,1,D
+127,SP1,18/11/01,Malaga,Osasuna,2,1,H,2,0,H
+128,SP1,18/11/01,Valencia,Tenerife,0,0,D,0,0,D
+129,SP1,18/11/01,Valladolid,Zaragoza,2,0,H,1,0,H
+130,SP1,24/11/01,Barcelona,Ath Bilbao,1,2,A,0,1,A
+131,SP1,25/11/01,Celta,Espanol,4,1,H,2,1,H
+132,SP1,25/11/01,Mallorca,La Coruna,4,1,H,2,1,H
+133,SP1,25/11/01,Osasuna,Betis,1,2,A,0,0,D
+134,SP1,25/11/01,Sociedad,Valencia,2,0,H,1,0,H
+135,SP1,25/11/01,Vallecano,Real Madrid,0,3,A,0,2,A
+136,SP1,25/11/01,Sevilla,Valladolid,4,0,H,1,0,H
+137,SP1,25/11/01,Tenerife,Malaga,1,0,H,0,0,D
+138,SP1,25/11/01,Villarreal,Alaves,1,0,H,1,0,H
+139,SP1,25/11/01,Zaragoza,Las Palmas,2,1,H,1,0,H
+140,SP1,01/12/01,Alaves,Barcelona,2,0,H,1,0,H
+141,SP1,01/12/01,Espanol,La Coruna,1,0,H,0,0,D
+142,SP1,01/12/01,Real Madrid,Osasuna,2,1,H,2,0,H
+143,SP1,01/12/01,Valencia,Mallorca,1,1,D,0,1,A
+144,SP1,02/12/01,Ath Bilbao,Zaragoza,2,1,H,1,0,H
+145,SP1,02/12/01,Betis,Tenerife,1,0,H,0,0,D
+146,SP1,02/12/01,Celta,Villarreal,3,1,H,1,0,H
+147,SP1,02/12/01,Las Palmas,Sevilla,1,0,H,0,0,D
+148,SP1,02/12/01,Malaga,Sociedad,1,0,H,1,0,H
+149,SP1,02/12/01,Valladolid,Vallecano,3,1,H,2,1,H
+150,SP1,08/12/01,Sevilla,Ath Bilbao,3,3,D,0,0,D
+151,SP1,08/12/01,Tenerife,Real Madrid,0,2,A,0,1,A
+152,SP1,09/12/01,Barcelona,Celta,2,2,D,1,0,H
+153,SP1,09/12/01,La Coruna,Valencia,1,0,H,0,0,D
+154,SP1,09/12/01,Mallorca,Malaga,1,1,D,1,1,D
+155,SP1,09/12/01,Osasuna,Valladolid,1,0,H,0,0,D
+156,SP1,09/12/01,Sociedad,Betis,0,0,D,0,0,D
+157,SP1,09/12/01,Vallecano,Las Palmas,0,0,D,0,0,D
+158,SP1,09/12/01,Villarreal,Espanol,1,1,D,1,1,D
+159,SP1,09/12/01,Zaragoza,Alaves,0,2,A,0,1,A
+160,SP1,15/12/01,Espanol,Valencia,2,3,A,2,0,H
+161,SP1,15/12/01,Las Palmas,Osasuna,1,1,D,0,1,A
+162,SP1,15/12/01,Real Madrid,Sociedad,3,1,H,1,1,D
+163,SP1,16/12/01,Alaves,Sevilla,0,1,A,0,0,D
+164,SP1,16/12/01,Ath Bilbao,Vallecano,1,1,D,0,0,D
+165,SP1,16/12/01,Betis,Mallorca,1,0,H,1,0,H
+166,SP1,16/12/01,Celta,Zaragoza,2,0,H,1,0,H
+167,SP1,16/12/01,Malaga,La Coruna,1,1,D,1,0,H
+168,SP1,16/12/01,Valladolid,Tenerife,0,0,D,0,0,D
+169,SP1,16/12/01,Villarreal,Barcelona,0,1,A,0,1,A
+170,SP1,22/12/01,La Coruna,Betis,2,0,H,1,0,H
+171,SP1,22/12/01,Espanol,Barcelona,2,0,H,0,0,D
+172,SP1,22/12/01,Sociedad,Valladolid,6,0,H,1,0,H
+173,SP1,22/12/01,Sevilla,Celta,0,1,A,0,0,D
+174,SP1,22/12/01,Tenerife,Las Palmas,1,3,A,0,1,A
+175,SP1,22/12/01,Valencia,Malaga,2,1,H,2,1,H
+176,SP1,23/12/01,Mallorca,Real Madrid,1,1,D,0,0,D
+177,SP1,23/12/01,Osasuna,Ath Bilbao,0,1,A,0,0,D
+178,SP1,23/12/01,Zaragoza,Villarreal,3,2,H,2,0,H
+179,SP1,05/01/02,Celta,Vallecano,2,2,D,0,1,A
+180,SP1,05/01/02,Las Palmas,Sociedad,0,0,D,0,0,D
+181,SP1,05/01/02,Real Madrid,La Coruna,3,1,H,2,1,H
+182,SP1,05/01/02,Villarreal,Sevilla,0,2,A,0,1,A
+183,SP1,06/01/02,Alaves,Osasuna,0,2,A,0,0,D
+184,SP1,06/01/02,Ath Bilbao,Tenerife,1,2,A,0,0,D
+185,SP1,06/01/02,Barcelona,Zaragoza,2,0,H,1,0,H
+186,SP1,06/01/02,Betis,Valencia,1,3,A,1,2,A
+187,SP1,06/01/02,Malaga,Espanol,2,0,H,1,0,H
+188,SP1,06/01/02,Valladolid,Mallorca,2,1,H,1,0,H
+189,SP1,12/01/02,Ath Bilbao,Sociedad,2,1,H,1,1,D
+190,SP1,12/01/02,Villarreal,Vallecano,1,1,D,0,0,D
+191,SP1,13/01/02,Alaves,Tenerife,1,0,H,1,0,H
+192,SP1,13/01/02,Barcelona,Sevilla,3,1,H,1,1,D
+193,SP1,13/01/02,Betis,Malaga,1,1,D,0,0,D
+194,SP1,13/01/02,Celta,Osasuna,1,1,D,1,0,H
+195,SP1,13/01/02,Las Palmas,Mallorca,3,1,H,1,0,H
+196,SP1,13/01/02,Real Madrid,Valencia,1,0,H,0,0,D
+197,SP1,13/01/02,Valladolid,La Coruna,3,0,H,2,0,H
+198,SP1,13/01/02,Zaragoza,Espanol,0,0,D,0,0,D
+199,SP1,19/01/02,Malaga,Real Madrid,1,1,D,1,0,H
+200,SP1,19/01/02,Sociedad,Alaves,1,2,A,1,0,H
+201,SP1,20/01/02,La Coruna,Las Palmas,1,0,H,0,0,D
+202,SP1,20/01/02,Espanol,Betis,1,1,D,0,0,D
+203,SP1,20/01/02,Mallorca,Ath Bilbao,3,0,H,1,0,H
+204,SP1,20/01/02,Osasuna,Villarreal,2,2,D,2,1,H
+205,SP1,20/01/02,Vallecano,Barcelona,2,1,H,1,0,H
+206,SP1,20/01/02,Sevilla,Zaragoza,4,2,H,1,1,D
+207,SP1,20/01/02,Tenerife,Celta,1,1,D,1,0,H
+208,SP1,20/01/02,Valencia,Valladolid,1,2,A,1,2,A
+209,SP1,23/01/02,Vallecano,Alaves,2,0,H,0,0,D
+210,SP1,26/01/02,Celta,Sociedad,3,1,H,0,1,A
+211,SP1,26/01/02,Las Palmas,Valencia,0,1,A,0,1,A
+212,SP1,27/01/02,Alaves,Mallorca,0,4,A,0,2,A
+213,SP1,27/01/02,Ath Bilbao,La Coruna,1,1,D,0,0,D
+214,SP1,27/01/02,Barcelona,Osasuna,0,1,A,0,0,D
+215,SP1,27/01/02,Real Madrid,Betis,1,1,D,1,0,H
+216,SP1,27/01/02,Sevilla,Espanol,3,0,H,0,0,D
+217,SP1,27/01/02,Valladolid,Malaga,0,0,D,0,0,D
+218,SP1,27/01/02,Villarreal,Tenerife,2,1,H,2,0,H
+219,SP1,27/01/02,Zaragoza,Vallecano,3,2,H,0,1,A
+220,SP1,02/02/02,La Coruna,Alaves,0,1,A,0,1,A
+221,SP1,02/02/02,Mallorca,Celta,0,1,A,0,1,A
+222,SP1,02/02/02,Sociedad,Villarreal,2,1,H,0,0,D
+223,SP1,02/02/02,Vallecano,Sevilla,2,1,H,2,1,H
+224,SP1,02/02/02,Tenerife,Barcelona,0,6,A,0,2,A
+225,SP1,03/02/02,Betis,Valladolid,2,0,H,1,0,H
+226,SP1,03/02/02,Espanol,Real Madrid,2,1,H,1,1,D
+227,SP1,03/02/02,Malaga,Las Palmas,1,1,D,0,1,A
+228,SP1,03/02/02,Osasuna,Zaragoza,0,0,D,0,0,D
+229,SP1,03/02/02,Valencia,Ath Bilbao,2,1,H,1,0,H
+230,SP1,05/02/02,Celta,La Coruna,0,2,A,0,1,A
+231,SP1,06/02/02,Alaves,Valencia,1,2,A,1,2,A
+232,SP1,06/02/02,Ath Bilbao,Malaga,3,2,H,2,1,H
+233,SP1,06/02/02,Barcelona,Sociedad,2,0,H,0,0,D
+234,SP1,06/02/02,Las Palmas,Betis,0,0,D,0,0,D
+235,SP1,06/02/02,Vallecano,Espanol,2,2,D,1,0,H
+236,SP1,06/02/02,Sevilla,Osasuna,0,0,D,0,0,D
+237,SP1,06/02/02,Valladolid,Real Madrid,2,1,H,0,0,D
+238,SP1,06/02/02,Villarreal,Mallorca,2,1,H,1,0,H
+239,SP1,06/02/02,Zaragoza,Tenerife,1,1,D,0,1,A
+240,SP1,09/02/02,Mallorca,Barcelona,0,0,D,0,0,D
+241,SP1,09/02/02,Valencia,Celta,0,0,D,0,0,D
+242,SP1,10/02/02,Betis,Ath Bilbao,1,1,D,1,1,D
+243,SP1,10/02/02,La Coruna,Villarreal,0,0,D,0,0,D
+244,SP1,10/02/02,Espanol,Valladolid,1,0,H,0,0,D
+245,SP1,10/02/02,Malaga,Alaves,1,0,H,0,0,D
+246,SP1,10/02/02,Osasuna,Vallecano,1,0,H,0,0,D
+247,SP1,10/02/02,Real Madrid,Las Palmas,7,0,H,3,0,H
+248,SP1,10/02/02,Sociedad,Zaragoza,3,1,H,2,0,H
+249,SP1,10/02/02,Tenerife,Sevilla,1,1,D,0,1,A
+250,SP1,16/02/02,Ath Bilbao,Real Madrid,2,1,H,2,0,H
+251,SP1,16/02/02,Barcelona,La Coruna,3,2,H,1,1,D
+252,SP1,16/02/02,Villarreal,Valencia,1,1,D,0,0,D
+253,SP1,17/02/02,Alaves,Betis,0,1,A,0,1,A
+254,SP1,17/02/02,Celta,Malaga,0,0,D,0,0,D
+255,SP1,17/02/02,Las Palmas,Valladolid,1,1,D,0,0,D
+256,SP1,17/02/02,Osasuna,Espanol,1,1,D,0,1,A
+257,SP1,17/02/02,Vallecano,Tenerife,2,0,H,0,0,D
+258,SP1,17/02/02,Sevilla,Sociedad,0,1,A,0,0,D
+259,SP1,17/02/02,Zaragoza,Mallorca,1,0,H,0,0,D
+260,SP1,23/02/02,La Coruna,Zaragoza,1,0,H,1,0,H
+261,SP1,23/02/02,Real Madrid,Alaves,3,1,H,1,1,D
+262,SP1,23/02/02,Valencia,Barcelona,2,0,H,1,0,H
+263,SP1,24/02/02,Betis,Celta,4,1,H,2,0,H
+264,SP1,24/02/02,Espanol,Las Palmas,3,1,H,0,1,A
+265,SP1,24/02/02,Malaga,Villarreal,2,1,H,1,0,H
+266,SP1,24/02/02,Mallorca,Sevilla,0,4,A,0,1,A
+267,SP1,24/02/02,Sociedad,Vallecano,2,2,D,1,0,H
+268,SP1,24/02/02,Tenerife,Osasuna,3,1,H,1,0,H
+269,SP1,24/02/02,Valladolid,Ath Bilbao,2,0,H,0,0,D
+270,SP1,02/03/02,Celta,Real Madrid,0,1,A,0,0,D
+271,SP1,02/03/02,Sevilla,La Coruna,0,1,A,0,0,D
+272,SP1,02/03/02,Villarreal,Betis,1,1,D,1,1,D
+273,SP1,03/03/02,Alaves,Valladolid,3,1,H,1,1,D
+274,SP1,03/03/02,Ath Bilbao,Las Palmas,3,1,H,1,0,H
+275,SP1,03/03/02,Barcelona,Malaga,5,1,H,3,0,H
+276,SP1,03/03/02,Osasuna,Sociedad,1,1,D,0,0,D
+277,SP1,03/03/02,Vallecano,Mallorca,0,2,A,0,1,A
+278,SP1,03/03/02,Tenerife,Espanol,1,1,D,1,1,D
+279,SP1,03/03/02,Zaragoza,Valencia,0,1,A,0,1,A
+280,SP1,09/03/02,Betis,Barcelona,2,1,H,1,0,H
+281,SP1,09/03/02,La Coruna,Vallecano,1,1,D,1,1,D
+282,SP1,09/03/02,Las Palmas,Alaves,2,1,H,1,1,D
+283,SP1,09/03/02,Real Madrid,Villarreal,3,0,H,1,0,H
+284,SP1,10/03/02,Espanol,Ath Bilbao,2,0,H,1,0,H
+285,SP1,10/03/02,Malaga,Zaragoza,2,1,H,2,0,H
+286,SP1,10/03/02,Mallorca,Osasuna,4,2,H,2,1,H
+287,SP1,10/03/02,Sociedad,Tenerife,0,2,A,0,1,A
+288,SP1,10/03/02,Valencia,Sevilla,2,0,H,0,0,D
+289,SP1,10/03/02,Valladolid,Celta,2,4,A,1,2,A
+290,SP1,16/03/02,Barcelona,Real Madrid,1,1,D,0,1,A
+291,SP1,16/03/02,Osasuna,La Coruna,1,3,A,0,3,A
+292,SP1,17/03/02,Alaves,Ath Bilbao,2,3,A,2,2,D
+293,SP1,17/03/02,Celta,Las Palmas,3,2,H,2,0,H
+294,SP1,17/03/02,Sociedad,Espanol,1,0,H,1,0,H
+295,SP1,17/03/02,Vallecano,Valencia,2,1,H,1,1,D
+296,SP1,17/03/02,Sevilla,Malaga,0,2,A,0,0,D
+297,SP1,17/03/02,Tenerife,Mallorca,0,0,D,0,0,D
+298,SP1,17/03/02,Villarreal,Valladolid,2,2,D,0,2,A
+299,SP1,17/03/02,Zaragoza,Betis,1,1,D,1,0,H
+300,SP1,23/03/02,Betis,Sevilla,0,0,D,0,0,D
+301,SP1,23/03/02,Las Palmas,Villarreal,3,2,H,2,2,D
+302,SP1,23/03/02,Malaga,Vallecano,0,0,D,0,0,D
+303,SP1,24/03/02,Ath Bilbao,Celta,1,6,A,1,2,A
+304,SP1,24/03/02,La Coruna,Tenerife,3,1,H,0,1,A
+305,SP1,24/03/02,Espanol,Alaves,1,2,A,1,0,H
+306,SP1,24/03/02,Mallorca,Sociedad,0,2,A,0,0,D
+307,SP1,24/03/02,Real Madrid,Zaragoza,3,1,H,1,0,H
+308,SP1,24/03/02,Valencia,Osasuna,2,1,H,0,0,D
+309,SP1,24/03/02,Valladolid,Barcelona,1,2,A,1,2,A
+310,SP1,30/03/02,Barcelona,Las Palmas,1,1,D,1,0,H
+311,SP1,30/03/02,Celta,Alaves,3,1,H,0,0,D
+312,SP1,30/03/02,Sociedad,La Coruna,1,1,D,1,0,H
+313,SP1,30/03/02,Sevilla,Real Madrid,0,1,A,0,1,A
+314,SP1,30/03/02,Tenerife,Valencia,0,1,A,0,0,D
+315,SP1,31/03/02,Mallorca,Espanol,2,1,H,1,1,D
+316,SP1,31/03/02,Osasuna,Malaga,0,2,A,0,0,D
+317,SP1,31/03/02,Vallecano,Betis,0,0,D,0,0,D
+318,SP1,31/03/02,Villarreal,Ath Bilbao,5,2,H,5,0,H
+319,SP1,31/03/02,Zaragoza,Valladolid,0,0,D,0,0,D
+320,SP1,06/04/02,Ath Bilbao,Barcelona,0,2,A,0,1,A
+321,SP1,06/04/02,La Coruna,Mallorca,5,0,H,4,0,H
+322,SP1,06/04/02,Las Palmas,Zaragoza,1,1,D,0,0,D
+323,SP1,06/04/02,Real Madrid,Vallecano,3,1,H,2,0,H
+324,SP1,07/04/02,Alaves,Villarreal,2,1,H,1,1,D
+325,SP1,07/04/02,Betis,Osasuna,0,0,D,0,0,D
+326,SP1,07/04/02,Espanol,Celta,2,0,H,1,0,H
+327,SP1,07/04/02,Malaga,Tenerife,2,0,H,0,0,D
+328,SP1,07/04/02,Valencia,Sociedad,4,0,H,2,0,H
+329,SP1,07/04/02,Valladolid,Sevilla,1,1,D,1,1,D
+330,SP1,13/04/02,Mallorca,Valencia,1,1,D,1,0,H
+331,SP1,14/04/02,Barcelona,Alaves,3,2,H,1,0,H
+332,SP1,14/04/02,La Coruna,Espanol,3,1,H,3,0,H
+333,SP1,14/04/02,Osasuna,Real Madrid,3,1,H,2,0,H
+334,SP1,14/04/02,Sociedad,Malaga,2,1,H,1,1,D
+335,SP1,14/04/02,Vallecano,Valladolid,1,0,H,1,0,H
+336,SP1,14/04/02,Sevilla,Las Palmas,1,1,D,1,0,H
+337,SP1,14/04/02,Tenerife,Betis,2,1,H,0,1,A
+338,SP1,14/04/02,Villarreal,Celta,2,1,H,0,0,D
+339,SP1,14/04/02,Zaragoza,Ath Bilbao,2,2,D,1,1,D
+340,SP1,20/04/02,Celta,Barcelona,2,1,H,1,0,H
+341,SP1,20/04/02,Las Palmas,Vallecano,0,2,A,0,0,D
+342,SP1,20/04/02,Real Madrid,Tenerife,4,1,H,2,1,H
+343,SP1,21/04/02,Alaves,Zaragoza,2,1,H,1,0,H
+344,SP1,21/04/02,Ath Bilbao,Sevilla,0,1,A,0,0,D
+345,SP1,21/04/02,Betis,Sociedad,3,0,H,1,0,H
+346,SP1,21/04/02,Espanol,Villarreal,3,1,H,2,0,H
+347,SP1,21/04/02,Malaga,Mallorca,0,0,D,0,0,D
+348,SP1,21/04/02,Valencia,La Coruna,1,0,H,0,0,D
+349,SP1,21/04/02,Valladolid,Osasuna,1,0,H,0,0,D
+350,SP1,27/04/02,Barcelona,Villarreal,4,1,H,0,1,A
+351,SP1,27/04/02,Sociedad,Real Madrid,3,0,H,0,0,D
+352,SP1,27/04/02,Valencia,Espanol,2,1,H,0,1,A
+353,SP1,28/04/02,La Coruna,Malaga,2,2,D,1,1,D
+354,SP1,28/04/02,Mallorca,Betis,1,3,A,0,1,A
+355,SP1,28/04/02,Osasuna,Las Palmas,3,2,H,2,1,H
+356,SP1,28/04/02,Vallecano,Ath Bilbao,4,2,H,1,0,H
+357,SP1,28/04/02,Sevilla,Alaves,2,0,H,1,0,H
+358,SP1,28/04/02,Tenerife,Valladolid,1,5,A,0,2,A
+359,SP1,28/04/02,Zaragoza,Celta,0,1,A,0,0,D
+360,SP1,05/05/02,Alaves,Vallecano,0,1,A,0,0,D
+361,SP1,05/05/02,Ath Bilbao,Osasuna,1,1,D,0,0,D
+362,SP1,05/05/02,Barcelona,Espanol,2,0,H,1,0,H
+363,SP1,05/05/02,Betis,La Coruna,0,3,A,0,1,A
+364,SP1,05/05/02,Celta,Sevilla,1,2,A,1,2,A
+365,SP1,05/05/02,Las Palmas,Tenerife,0,1,A,0,1,A
+366,SP1,05/05/02,Malaga,Valencia,0,2,A,0,2,A
+367,SP1,05/05/02,Real Madrid,Mallorca,0,0,D,0,0,D
+368,SP1,05/05/02,Valladolid,Sociedad,1,3,A,1,1,D
+369,SP1,05/05/02,Villarreal,Zaragoza,2,1,H,2,0,H
+370,SP1,10/05/02,La Coruna,Real Madrid,3,0,H,1,0,H
+371,SP1,11/05/02,Espanol,Malaga,1,2,A,0,2,A
+372,SP1,11/05/02,Mallorca,Valladolid,2,1,H,0,1,A
+373,SP1,11/05/02,Osasuna,Alaves,0,1,A,0,1,A
+374,SP1,11/05/02,Sociedad,Las Palmas,1,1,D,0,1,A
+375,SP1,11/05/02,Vallecano,Celta,1,0,H,0,0,D
+376,SP1,11/05/02,Sevilla,Villarreal,1,0,H,1,0,H
+377,SP1,11/05/02,Tenerife,Ath Bilbao,2,3,A,2,1,H
+378,SP1,11/05/02,Valencia,Betis,2,0,H,1,0,H
+379,SP1,11/05/02,Zaragoza,Barcelona,1,1,D,1,1,D

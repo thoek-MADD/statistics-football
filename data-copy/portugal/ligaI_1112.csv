@@ -1,0 +1,241 @@
+,Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+0,P1,12/08/11,Gil Vicente,Benfica,2,2,D,1,2,A
+1,P1,13/08/11,Rio Ave,Sp Braga,0,0,D,0,0,D
+2,P1,13/08/11,Sp Lisbon,Olhanense,1,1,D,0,1,A
+3,P1,14/08/11,Feirense ,Nacional,0,0,D,0,0,D
+4,P1,14/08/11,Guimaraes,Porto,0,1,A,0,1,A
+5,P1,14/08/11,Maritimo,Beira Mar,0,0,D,0,0,D
+6,P1,14/08/11,Setubal,Pacos Ferreira,2,1,H,0,1,A
+7,P1,15/08/11,Leiria,Academica,1,2,A,1,0,H
+8,P1,19/08/11,Porto,Gil Vicente,3,1,H,2,1,H
+9,P1,20/08/11,Benfica,Feirense,3,1,H,1,0,H
+10,P1,21/08/11,Academica,Rio Ave,1,0,H,1,0,H
+11,P1,21/08/11,Beira Mar,Sp Lisbon,0,0,D,0,0,D
+12,P1,21/08/11,Pacos Ferreira,Leiria,2,1,H,0,0,D
+13,P1,21/08/11,Sp Braga,Maritimo,2,0,H,0,0,D
+14,P1,22/08/11,Olhanense,Setubal,2,2,D,0,2,A
+15,P1,27/08/11,Gil Vicente,Academica,2,0,H,0,0,D
+16,P1,28/08/11,Feirense,Pacos Ferreira,0,0,D,0,0,D
+17,P1,28/08/11,Guimaraes,Beira Mar,0,3,A,0,1,A
+18,P1,28/08/11,Rio Ave,Olhanense,0,1,A,0,1,A
+19,P1,28/08/11,Sp Lisbon,Maritimo,2,3,A,1,0,H
+20,P1,29/08/11,Nacional,Benfica,0,2,A,0,1,A
+21,P1,29/08/11,Setubal,Sp Braga,0,1,A,0,0,D
+22,P1,04/09/11,Nacional,Guimaraes,1,4,A,0,2,A
+23,P1,06/09/11,Leiria,Porto,2,5,A,0,2,A
+24,P1,09/09/11,Porto,Setubal,3,0,H,0,0,D
+25,P1,10/09/11,Benfica,Guimaraes,2,1,H,2,0,H
+26,P1,10/09/11,Pacos Ferreira,Sp Lisbon,2,3,A,1,0,H
+27,P1,11/09/11,Beira Mar,Leiria,0,1,A,0,0,D
+28,P1,11/09/11,Maritimo,Rio Ave,2,1,H,1,1,D
+29,P1,11/09/11,Olhanense,Feirense,1,2,A,0,1,A
+30,P1,11/09/11,Sp Braga,Gil Vicente,3,1,H,0,0,D
+31,P1,12/09/11,Academica,Nacional,4,0,H,0,0,D
+32,P1,16/09/11,Gil Vicente,Olhanense,1,1,D,0,1,A
+33,P1,17/09/11,Nacional,Pacos Ferreira,1,0,H,1,0,H
+34,P1,18/09/11,Benfica,Academica,4,1,H,2,1,H
+35,P1,18/09/11,Feirense,Porto,0,0,D,0,0,D
+36,P1,18/09/11,Leiria,Maritimo,1,3,A,0,2,A
+37,P1,18/09/11,Setubal,Beira Mar,1,0,H,0,0,D
+38,P1,19/09/11,Guimaraes,Sp Braga,1,1,D,1,0,H
+39,P1,19/09/11,Rio Ave,Sp Lisbon,2,3,A,0,2,A
+40,P1,23/09/11,Porto,Benfica,2,2,D,1,0,H
+41,P1,24/09/11,Sp Braga,Nacional,2,0,H,1,0,H
+42,P1,24/09/11,Sp Lisbon,Setubal,3,0,H,3,0,H
+43,P1,25/09/11,Beira Mar,Rio Ave,0,0,D,0,0,D
+44,P1,25/09/11,Maritimo,Guimaraes,2,1,H,1,0,H
+45,P1,25/09/11,Olhanense,Leiria,2,1,H,1,0,H
+46,P1,25/09/11,Pacos Ferreira,Gil Vicente,1,2,A,1,1,D
+47,P1,26/09/11,Academica,Feirense,4,0,H,4,0,H
+48,P1,30/09/11,Setubal,Rio Ave,2,1,H,1,1,D
+49,P1,01/10/11,Benfica,Pacos Ferreira,4,1,H,2,0,H
+50,P1,02/10/11,Academica,Porto,0,3,A,0,2,A
+51,P1,02/10/11,Feirense,Maritimo,2,2,D,1,1,D
+52,P1,02/10/11,Guimaraes,Sp Lisbon,0,1,A,0,1,A
+53,P1,02/10/11,Leiria,Sp Braga,1,0,H,1,0,H
+54,P1,02/10/11,Nacional,Olhanense,1,0,H,1,0,H
+55,P1,03/10/11,Gil Vicente,Beira Mar,0,0,D,0,0,D
+56,P1,21/10/11,Pacos Ferreira,Academica,2,0,H,2,0,H
+57,P1,22/10/11,Beira Mar,Benfica,0,1,A,0,1,A
+58,P1,22/10/11,Olhanense,Guimaraes,1,0,H,0,0,D
+59,P1,23/10/11,Maritimo,Setubal,1,0,H,1,0,H
+60,P1,23/10/11,Porto,Nacional,5,0,H,2,0,H
+61,P1,23/10/11,Rio Ave,Leiria,2,0,H,1,0,H
+62,P1,23/10/11,Sp Braga,Feirense,3,0,H,1,0,H
+63,P1,24/10/11,Sp Lisbon,Gil Vicente,6,1,H,1,0,H
+64,P1,28/10/11,Porto,Pacos Ferreira,3,0,H,1,0,H
+65,P1,29/10/11,Academica,Sp Braga,0,0,D,0,0,D
+66,P1,29/10/11,Benfica,Olhanense,2,1,H,2,0,H
+67,P1,30/10/11,Feirense,Sp Lisbon,0,2,A,0,0,D
+68,P1,30/10/11,Guimaraes,Rio Ave,2,1,H,1,1,D
+69,P1,30/10/11,Leiria,Setubal,2,0,H,2,0,H
+70,P1,30/10/11,Nacional,Beira Mar,2,1,H,2,1,H
+71,P1,01/11/11,Gil Vicente,Maritimo,0,0,D,0,0,D
+72,P1,04/11/11,Pacos Ferreira,Guimaraes,1,5,A,1,1,D
+73,P1,05/11/11,Maritimo,Academica,3,2,H,2,1,H
+74,P1,05/11/11,Olhanense,Porto,0,0,D,0,0,D
+75,P1,06/11/11,Beira Mar,Feirense,2,1,H,2,0,H
+76,P1,06/11/11,Rio Ave,Nacional,2,1,H,0,1,A
+77,P1,06/11/11,Setubal,Gil Vicente,0,0,D,0,0,D
+78,P1,06/11/11,Sp Braga,Benfica,1,1,D,1,0,H
+79,P1,06/11/11,Sp Lisbon,Leiria,3,1,H,1,1,D
+80,P1,25/11/11,Academica,Beira Mar,0,1,A,0,1,A
+81,P1,26/11/11,Benfica,Sp Lisbon,1,0,H,1,0,H
+82,P1,26/11/11,Nacional,Maritimo,2,2,D,0,1,A
+83,P1,27/11/11,Feirense,Rio Ave,2,0,H,2,0,H
+84,P1,27/11/11,Gil Vicente,Leiria,2,1,H,1,0,H
+85,P1,27/11/11,Pacos Ferreira,Olhanense,1,1,D,0,0,D
+86,P1,27/11/11,Porto,Sp Braga,3,2,H,1,0,H
+87,P1,28/11/11,Guimaraes,Setubal,3,0,H,0,0,D
+88,P1,09/12/11,Sp Braga,Pacos Ferreira,5,2,H,2,1,H
+89,P1,10/12/11,Beira Mar,Porto,1,2,A,1,1,D
+90,P1,10/12/11,Sp Lisbon,Nacional,1,0,H,1,0,H
+91,P1,11/12/11,Leiria,Guimaraes,1,0,H,1,0,H
+92,P1,11/12/11,Maritimo,Benfica,0,1,A,0,0,D
+93,P1,11/12/11,Rio Ave,Gil Vicente,2,0,H,1,0,H
+94,P1,11/12/11,Setubal,Feirense,1,1,D,1,1,D
+95,P1,12/12/11,Olhanense,Academica,0,2,A,0,1,A
+96,P1,16/12/11,Benfica,Rio Ave,5,1,H,3,1,H
+97,P1,17/12/11,Guimaraes,Gil Vicente,1,1,D,1,1,D
+98,P1,17/12/11,Porto,Maritimo,2,0,H,0,0,D
+99,P1,18/12/11,Academica,Sp Lisbon,1,1,D,1,0,H
+100,P1,18/12/11,Feirense,Leiria,2,1,H,1,0,H
+101,P1,18/12/11,Nacional,Setubal,1,1,D,0,1,A
+102,P1,18/12/11,Pacos Ferreira,Beira Mar,0,3,A,0,2,A
+103,P1,19/12/11,Olhanense,Sp Braga,3,4,A,2,0,H
+104,P1,06/01/12,Setubal,Academica,1,1,D,0,0,D
+105,P1,07/01/12,Sp Lisbon,Porto,0,0,D,0,0,D
+106,P1,08/01/12,Gil Vicente,Nacional,0,3,A,0,2,A
+107,P1,08/01/12,Guimaraes,Feirense,1,0,H,0,0,D
+108,P1,08/01/12,Leiria,Benfica,0,4,A,0,1,A
+109,P1,08/01/12,Maritimo,Olhanense,2,1,H,2,1,H
+110,P1,08/01/12,Rio Ave,Pacos Ferreira,1,0,H,1,0,H
+111,P1,09/01/12,Beira Mar,Sp Braga,1,2,A,1,1,D
+112,P1,13/01/12,Pacos Ferreira,Maritimo,1,1,D,0,0,D
+113,P1,14/01/12,Benfica,Setubal,4,1,H,3,1,H
+114,P1,14/01/12,Feirense,Gil Vicente,0,0,D,0,0,D
+115,P1,14/01/12,Porto,Rio Ave,2,0,H,1,0,H
+116,P1,15/01/12,Academica,Guimaraes,0,2,A,0,1,A
+117,P1,15/01/12,Nacional,Leiria,2,2,D,0,1,A
+118,P1,15/01/12,Olhanense,Beira Mar,2,1,H,0,0,D
+119,P1,15/01/12,Sp Braga,Sp Lisbon,2,1,H,0,0,D
+120,P1,20/01/12,Academica,Leiria,0,0,D,0,0,D
+121,P1,21/01/12,Beira Mar,Maritimo,1,2,A,0,1,A
+122,P1,22/01/12,Benfica,Gil Vicente,3,1,H,1,1,D
+123,P1,22/01/12,Nacional,Feirense,2,0,H,1,0,H
+124,P1,22/01/12,Pacos Ferreira,Setubal,2,1,H,0,0,D
+125,P1,22/01/12,Porto,Guimaraes,3,1,H,1,0,H
+126,P1,22/01/12,Sp Braga,Rio Ave,2,1,H,2,0,H
+127,P1,23/01/12,Olhanense,Sp Lisbon,0,0,D,0,0,D
+128,P1,27/01/12,Guimaraes,Nacional,1,0,H,0,0,D
+129,P1,28/01/12,Feirense,Benfica,1,2,A,0,0,D
+130,P1,28/01/12,Rio Ave,Academica,0,0,D,0,0,D
+131,P1,29/01/12,Gil Vicente,Porto,3,1,H,2,0,H
+132,P1,29/01/12,Leiria,Pacos Ferreira,2,4,A,2,2,D
+133,P1,29/01/12,Setubal,Olhanense,2,3,A,2,2,D
+134,P1,29/01/12,Sp Lisbon,Beira Mar,2,0,H,2,0,H
+135,P1,30/01/12,Maritimo,Sp Braga,1,2,A,1,0,H
+136,P1,10/02/12,Sp Braga,Setubal,3,0,H,1,0,H
+137,P1,11/02/12,Benfica,Nacional,4,1,H,3,1,H
+138,P1,11/02/12,Maritimo,Sp Lisbon,2,0,H,1,0,H
+139,P1,12/02/12,Beira Mar,Guimaraes,0,1,A,0,1,A
+140,P1,12/02/12,Olhanense,Rio Ave,0,2,A,0,2,A
+141,P1,12/02/12,Pacos Ferreira,Feirense,3,1,H,2,1,H
+142,P1,12/02/12,Porto,Leiria,4,0,H,0,0,D
+143,P1,13/02/12,Academica,Gil Vicente,0,2,A,0,1,A
+144,P1,17/02/12,Rio Ave,Maritimo,1,3,A,1,2,A
+145,P1,18/02/12,Gil Vicente,Sp Braga,0,3,A,0,1,A
+146,P1,19/02/12,Feirense,Olhanense,1,1,D,1,0,H
+147,P1,19/02/12,Leiria,Beira Mar,0,0,D,0,0,D
+148,P1,19/02/12,Nacional,Academica,4,1,H,2,0,H
+149,P1,19/02/12,Setubal,Porto,1,3,A,0,2,A
+150,P1,19/02/12,Sp Lisbon,Pacos Ferreira,1,0,H,1,0,H
+151,P1,20/02/12,Guimaraes,Benfica,1,0,H,1,0,H
+152,P1,24/02/12,Maritimo,Leiria,1,0,H,0,0,D
+153,P1,25/02/12,Academica,Benfica,0,0,D,0,0,D
+154,P1,26/02/12,Beira Mar,Setubal,2,3,A,0,2,A
+155,P1,26/02/12,Olhanense,Gil Vicente,0,0,D,0,0,D
+156,P1,26/02/12,Pacos Ferreira,Nacional,0,2,A,0,0,D
+157,P1,26/02/12,Porto,Feirense,2,0,H,0,0,D
+158,P1,26/02/12,Sp Lisbon,Rio Ave,1,0,H,1,0,H
+159,P1,27/02/12,Sp Braga,Guimaraes,4,0,H,2,0,H
+160,P1,02/03/12,Benfica,Porto,2,3,A,1,1,D
+161,P1,03/03/12,Nacional,Sp Braga,1,3,A,1,1,D
+162,P1,03/03/12,Setubal,Sp Lisbon,1,0,H,1,0,H
+163,P1,04/03/12,Feirense,Academica,1,1,D,0,0,D
+164,P1,04/03/12,Gil Vicente,Pacos Ferreira,1,2,A,1,1,D
+165,P1,04/03/12,Guimaraes,Maritimo,1,0,H,0,0,D
+166,P1,04/03/12,Rio Ave,Beira Mar,4,0,H,1,0,H
+167,P1,05/03/12,Leiria,Olhanense,1,3,A,0,1,A
+168,P1,09/03/12,Maritimo,Feirense,2,1,H,1,1,D
+169,P1,10/03/12,Porto,Academica,1,1,D,0,1,A
+170,P1,10/03/12,Sp Braga,Leiria,2,1,H,1,0,H
+171,P1,11/03/12,Beira Mar,Gil Vicente,1,0,H,0,0,D
+172,P1,11/03/12,Olhanense,Nacional,4,4,D,3,2,H
+173,P1,11/03/12,Pacos Ferreira,Benfica,1,2,A,1,0,H
+174,P1,11/03/12,Rio Ave,Setubal,3,0,H,2,0,H
+175,P1,11/03/12,Sp Lisbon,Guimaraes,5,0,H,1,0,H
+176,P1,16/03/12,Benfica,Beira Mar,3,1,H,2,0,H
+177,P1,16/03/12,Nacional,Porto,0,2,A,0,1,A
+178,P1,17/03/12,Feirense,Sp Braga,1,4,A,0,1,A
+179,P1,17/03/12,Leiria,Rio Ave,1,0,H,0,0,D
+180,P1,18/03/12,Academica,Pacos Ferreira,0,1,A,0,1,A
+181,P1,18/03/12,Guimaraes,Olhanense,2,2,D,2,0,H
+182,P1,18/03/12,Setubal,Maritimo,1,1,D,0,1,A
+183,P1,19/03/12,Gil Vicente,Sp Lisbon,2,0,H,1,0,H
+184,P1,23/03/12,Olhanense,Benfica,0,0,D,0,0,D
+185,P1,24/03/12,Sp Lisbon,Feirense,1,0,H,1,0,H
+186,P1,25/03/12,Beira Mar,Nacional,0,3,A,0,1,A
+187,P1,25/03/12,Pacos Ferreira,Porto,1,1,D,0,0,D
+188,P1,25/03/12,Rio Ave,Guimaraes,0,1,A,0,0,D
+189,P1,25/03/12,Setubal,Leiria,1,0,H,1,0,H
+190,P1,26/03/12,Maritimo,Gil Vicente,3,2,H,1,2,A
+191,P1,26/03/12,Sp Braga,Academica,2,1,H,2,0,H
+192,P1,30/03/12,Academica,Maritimo,0,1,A,0,0,D
+193,P1,31/03/12,Benfica,Sp Braga,2,1,H,0,0,D
+194,P1,31/03/12,Porto,Olhanense,2,0,H,1,0,H
+195,P1,01/04/12,Feirense,Beira Mar,1,3,A,0,2,A
+196,P1,01/04/12,Gil Vicente,Setubal,0,1,A,0,0,D
+197,P1,01/04/12,Guimaraes,Pacos Ferreira,3,1,H,1,0,H
+198,P1,01/04/12,Leiria,Sp Lisbon,0,1,A,0,0,D
+199,P1,01/04/12,Nacional,Rio Ave,2,1,H,1,0,H
+200,P1,06/04/12,Beira Mar,Academica,2,1,H,0,1,A
+201,P1,06/04/12,Leiria,Gil Vicente,0,0,D,0,0,D
+202,P1,06/04/12,Setubal,Guimaraes,1,0,H,0,0,D
+203,P1,07/04/12,Maritimo,Nacional,2,4,A,1,2,A
+204,P1,07/04/12,Olhanense,Pacos Ferreira,1,2,A,1,1,D
+205,P1,07/04/12,Rio Ave,Feirense,2,2,D,1,1,D
+206,P1,07/04/12,Sp Braga,Porto,0,1,A,0,0,D
+207,P1,09/04/12,Sp Lisbon,Benfica,1,0,H,1,0,H
+208,P1,20/04/12,Pacos Ferreira,Sp Braga,1,1,D,1,0,H
+209,P1,21/04/12,Benfica,Maritimo,4,1,H,2,0,H
+210,P1,21/04/12,Guimaraes,Leiria,3,2,H,0,0,D
+211,P1,21/04/12,Porto,Beira Mar,3,0,H,1,0,H
+212,P1,22/04/12,Feirense,Setubal,1,0,H,1,0,H
+213,P1,22/04/12,Gil Vicente,Rio Ave,0,0,D,0,0,D
+214,P1,22/04/12,Nacional,Sp Lisbon,2,3,A,1,2,A
+215,P1,23/04/12,Academica,Olhanense,0,1,A,0,0,D
+216,P1,27/04/12,Sp Braga,Olhanense,1,2,A,1,0,H
+217,P1,28/04/12,Gil Vicente,Guimaraes,3,1,H,1,1,D
+218,P1,28/04/12,Maritimo,Porto,0,2,A,0,1,A
+219,P1,29/04/12,Beira Mar,Pacos Ferreira,2,0,H,1,0,H
+220,P1,29/04/12,Leiria,Feirense,0,4,A,0,1,A
+221,P1,29/04/12,Rio Ave,Benfica,2,2,D,1,2,A
+222,P1,29/04/12,Setubal,Nacional,0,3,A,0,3,A
+223,P1,30/04/12,Sp Lisbon,Academica,2,1,H,1,1,D
+224,P1,05/05/12,Academica,Setubal,1,0,H,1,0,H
+225,P1,05/05/12,Benfica,Leiria,1,0,H,1,0,H
+226,P1,05/05/12,Feirense,Guimaraes,1,3,A,1,1,D
+227,P1,05/05/12,Nacional,Gil Vicente,3,1,H,1,1,D
+228,P1,05/05/12,Olhanense,Maritimo,0,0,D,0,0,D
+229,P1,05/05/12,Pacos Ferreira,Rio Ave,2,2,D,1,1,D
+230,P1,05/05/12,Porto,Sp Lisbon,2,0,H,0,0,D
+231,P1,05/05/12,Sp Braga,Beira Mar,1,0,H,0,0,D
+232,P1,12/05/12,Beira Mar,Olhanense,1,2,A,0,1,A
+233,P1,12/05/12,Gil Vicente,Feirense,3,1,H,1,0,H
+234,P1,12/05/12,Guimaraes,Academica,1,2,A,0,1,A
+235,P1,12/05/12,Leiria,Nacional,2,3,A,0,2,A
+236,P1,12/05/12,Maritimo,Pacos Ferreira,1,1,D,0,0,D
+237,P1,12/05/12,Rio Ave,Porto,2,5,A,1,2,A
+238,P1,12/05/12,Setubal,Benfica,1,3,A,1,1,D
+239,P1,12/05/12,Sp Lisbon,Sp Braga,3,2,H,1,0,H
